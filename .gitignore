@@ -1,20 +1,18 @@
-# Byte-compiled / optimized / DLL files
+.DS_Store
+.obsidian/workspace*.json
+.obsidian/plugins/
+.obsidian/cache/
+.obsidian/logs/
+
+# Never commit massive raw PDFs or heavy data streams
+Raw/Files/*
+!Raw/Files/.gitkeep
+data/vector_db/
+
+# Python environment and outputs
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Environment
 .venv/
-
-# Config
-.env
-*.local
-
-# LLM Agent / Tool Logs
-.claude_code/
-logs/
+venv/
 *.log
 
-# Obsidian
-.obsidian/graph.json
-.obsidian/workspace.json
+Drafts/

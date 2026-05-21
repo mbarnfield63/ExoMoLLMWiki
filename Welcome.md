@@ -1,5 +1,5 @@
-This is your new *vault*.
+# ExoMol LLM Wiki
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+This vault is a research-grade knowledge base for the ExoMol project. It is designed to separate raw parsed literature from structured wiki notes about molecules, computational methods, people, and applications.
 
-When you are ready, delete this note and make the vault your own.
+The goal is to keep every scientific claim traceable to peer-reviewed source material while giving local language models a consistent structure for ingestion, indexing, querying, and linting.
