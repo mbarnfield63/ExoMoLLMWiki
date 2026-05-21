@@ -116,10 +116,14 @@ def xml_text(element: ET.Element | None) -> str:
     return " ".join(part.strip() for part in element.itertext() if part.strip())
 
 
+def xml_local_name(tag: str) -> str:
+    return tag.rsplit("}", 1)[-1].lower()
+
+
 def find_xml_text(root: ET.Element, names: tuple[str, ...]) -> str:
     wanted = {name.lower() for name in names}
     for element in root.iter():
-        tag = element.tag.rsplit("}", 1)[-1].lower()
+        tag = xml_local_name(element.tag)
         if tag in wanted:
             text = xml_text(element)
             if text:
@@ -133,15 +137,24 @@ def parse_xml_metadata(path: Path) -> dict:
     except ET.ParseError:
         return {"Title": title_from_path(path), "Processed": False, "tags": ["source"]}
 
-    title = find_xml_text(root, ("article-title", "title", "doc-title"))
-    doi = find_xml_text(root, ("article-id", "doi"))
-    journal = find_xml_text(root, ("journal-title", "journal", "publication-title"))
-    year_text = find_xml_text(root, ("year",))
-    year = int(year_text) if re.fullmatch(r"\d{4}", year_text) else ""
+    title = find_xml_text(root, ("title", "article-title", "doc-title"))
+    doi = find_xml_text(root, ("doi", "article-id"))
+    journal = find_xml_text(root, ("publicationname", "publication-name", "journal-title", "journal", "publication-title"))
+    year_text = find_xml_text(root, ("coverdate", "cover-date", "year"))
+    year_match = re.search(r"\b(19|20)\d{2}\b", year_text)
+    year = int(year_match.group(0)) if year_match else ""
     authors = []
     for element in root.iter():
-        tag = element.tag.rsplit("}", 1)[-1].lower()
-        if tag in {"contrib", "author"}:
+        tag = xml_local_name(element.tag)
+        if tag == "creator":
+            name = xml_text(element)
+            if name and name not in authors:
+                authors.append(name)
+    if not authors:
+        for element in root.iter():
+            tag = xml_local_name(element.tag)
+            if tag not in {"contrib", "author"}:
+                continue
             name = find_xml_text(element, ("string-name", "name", "surname"))
             if name and name not in authors:
                 authors.append(name)

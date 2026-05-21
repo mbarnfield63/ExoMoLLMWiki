@@ -20,6 +20,7 @@ Use the established method, software, or workflow name:
 Wiki/Methods/DVR3D.md
 Wiki/Methods/Duo.md
 Wiki/Methods/MARVEL.md
+Wiki/Methods/ExoMol_Database.md
 ```
 
 ## People
@@ -45,6 +46,6 @@ Wiki/Applications/Cool_Stars.md
 Use stable citation-like slugs:
 
 ```text
-Raw/Sources/tennyson2012-sample.md
-Raw/Sources/yurchenko2011-duo.md
+Raw/Sources/24TeYuZh.xml
+Raw/Sources/11YuXxXx.xml
 ```

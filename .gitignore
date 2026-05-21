@@ -14,5 +14,6 @@ __pycache__/
 .venv/
 venv/
 *.log
+scripts/config.py
 
 Drafts/
