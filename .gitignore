@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.venv/
+
+# Config
+.env
+*.local
+
+# LLM Agent / Tool Logs
+.claude_code/
+logs/
+*.log
+
+# Obsidian
+.obsidian/graph.json
+.obsidian/workspace.json
