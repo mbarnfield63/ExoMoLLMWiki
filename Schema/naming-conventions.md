@@ -4,12 +4,22 @@ Use predictable filenames so catalog search and local agents can avoid duplicate
 
 ## Molecules
 
-Use compact molecular formula filenames when unambiguous:
+Use compact molecular formula filenames for chemical-formula MOC pages, and `exomol_id` filenames for isotopologue pages:
 
 ```text
 Wiki/Molecules/H2O.md
+Wiki/Molecules/1H2-16O.md
 Wiki/Molecules/CO2.md
-Wiki/Molecules/TiO.md
+Wiki/Molecules/12C-16O2.md
+```
+
+Lower-level category overviews should be named explicitly:
+
+```text
+Wiki/Molecules/Molecules_Overview.md
+Wiki/Methods/Methods_Overview.md
+Wiki/People/People_Overview.md
+Wiki/Applications/Applications_Overview.md
 ```
 
 ## Methods

@@ -10,5 +10,5 @@ Use this checklist before committing generated wiki content.
 - Body text includes markdown links back to raw source files for scientific claims.
 - Raw source files are not edited with summaries or generated interpretation.
 - No missing numerical values are invented.
-- `Wiki/catalog.jsonl`, `Wiki/index.md`, and subfolder indexes are rebuilt after content changes.
+- `Wiki/catalog.jsonl`, `Wiki/index.md`, and category overview pages are rebuilt after content changes.
 - `Schema/source-manifest.jsonl` reflects current raw source coverage.

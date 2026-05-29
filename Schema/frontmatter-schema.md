@@ -18,13 +18,22 @@ tags:
   - "source"
 ```
 
-## Molecule Notes
+## Molecule Formula / MOC Notes
 
 ```yaml
 tags:
   - "molecule"
 formula: ""
+atoms: []
+parent_molecule: ""
 exomol_id: ""
+aliases: []
+isotopologues: []
+line_list: ""
+marvel_data:
+  is_marvelized: null
+  latest_source_year: null
+  energy_levels: null
 associated_methods: []
 applications: []
 status: seed
@@ -32,7 +41,30 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 sources: []
 source_count: 0
+```
+
+## Molecule Isotopologue Notes
+
+```yaml
+tags:
+  - "molecule"
+formula: ""
+atoms: []
+parent_molecule: ""
+exomol_id: ""
 aliases: []
+line_list: ""
+marvel_data:
+  is_marvelized: false
+  latest_source_year: null
+  energy_levels: null
+associated_methods: []
+applications: []
+status: seed
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+sources: []
+source_count: 0
 ```
 
 ## Method Notes

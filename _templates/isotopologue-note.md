@@ -3,14 +3,13 @@ tags:
   - "molecule"
 formula: ""
 atoms: []                # e.g., ["H", "O"]
-parent_molecule: ""      # blank on formula MOC pages
-exomol_id: ""            # blank on formula MOC pages
+parent_molecule: ""      # e.g., "H2O"
+exomol_id: ""            # e.g., "1H2-16O", "2H2-16O"
 aliases: []
-isotopologues: []        # e.g., ["1H2-16O", "2H2-16O"]
-line_list: ""
+line_list: ""            # e.g., "POKAZATEL"
 
 marvel_data:
-  is_marvelized: null
+  is_marvelized: false
   latest_source_year: null
   energy_levels: null
 

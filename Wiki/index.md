@@ -1,14 +1,8 @@
 # ExoMol LLM Wiki Index
 
-## Molecules
-- No entries yet.
-
-## Methods
-- [ExoMol Database](Methods/ExoMol_Database.md)
-- [MARVELization](Methods/MARVELization.md)
-
-## People
-- [J Tennyson](People/J_Tennyson.md)
-
-## Applications
-- [Exoplanet Atmospheres](Applications/Exoplanet_Atmospheres.md)
+## Category Overviews
+- [Molecules Overview](Molecules/Molecules_Overview.md)
+- [Methods Overview](Methods/Methods_Overview.md)
+- [People Overview](People/People_Overview.md)
+- [Applications Overview](Applications/Applications_Overview.md)
+- [Logs Overview](Logs/Logs_Overview.md)

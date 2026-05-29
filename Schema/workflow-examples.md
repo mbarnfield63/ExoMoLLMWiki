@@ -21,4 +21,5 @@
 2. Run source-coverage to inspect literature coverage.
 3. Ingest only unprocessed or uncovered sources.
 4. Rebuild indexes and manifests.
-5. Record a concise log entry in `Wiki/Logs/` or `Wiki/log.md`.
+5. Verify the category overview pages and molecule MOCs still link correctly.
+6. Record a concise log entry in `Wiki/Logs/` or `Wiki/log.md`.

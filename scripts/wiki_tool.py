@@ -26,6 +26,14 @@ WIKI_DIRS = {
     "Applications": "application",
     "Logs": "log",
 }
+WIKI_OVERVIEW_FILES = {
+    "Molecules": "Molecules_Overview.md",
+    "Methods": "Methods_Overview.md",
+    "People": "People_Overview.md",
+    "Applications": "Applications_Overview.md",
+    "Logs": "Logs_Overview.md",
+}
+INDEX_BASENAMES = {"index.md"}.union(WIKI_OVERVIEW_FILES.values())
 
 
 def rel(path: Path) -> str:
@@ -49,6 +57,8 @@ def parse_scalar(value: str):
     value = value.strip()
     if value == "":
         return ""
+    if value.lower() in {"null", "~"}:
+        return None
     if value in {"true", "True"}:
         return True
     if value in {"false", "False"}:
@@ -95,17 +105,30 @@ def parse_frontmatter(path: Path) -> tuple[dict, str]:
         stripped = line.strip()
         if not stripped or stripped.startswith("#"):
             continue
-        if stripped.startswith("- ") and current_key:
+        if stripped.startswith("- ") and current_key and isinstance(
+            data.get(current_key), list
+        ):
             data.setdefault(current_key, [])
             if isinstance(data[current_key], list):
                 data[current_key].append(parse_scalar(stripped[2:]))
+            continue
+        if line.startswith("  ") and current_key == "marvel_data" and ":" in stripped:
+            if not isinstance(data.get(current_key), dict):
+                data[current_key] = {}
+            key, value = stripped.split(":", 1)
+            cast = data[current_key]
+            if isinstance(cast, dict):
+                cast[key.strip()] = parse_scalar(value.split(" #", 1)[0].strip())
             continue
         if ":" in line and not line.startswith(" "):
             key, value = line.split(":", 1)
             key = key.strip()
             value = value.split(" #", 1)[0].strip()
             current_key = key
-            data[key] = [] if value == "" else parse_scalar(value)
+            if value == "":
+                data[key] = {} if key == "marvel_data" else []
+            else:
+                data[key] = parse_scalar(value)
     body = "\n".join(lines[end + 1 :])
     return data, body
 
@@ -196,8 +219,34 @@ def dump_frontmatter(data: dict, body: str) -> str:
                 lines.append(
                     f'  - "{item}"' if isinstance(item, str) else f"  - {item}"
                 )
+        elif isinstance(value, dict):
+            lines.append(f"{key}:")
+            for nested_key, nested_value in value.items():
+                if isinstance(nested_value, list):
+                    lines.append(f"  {nested_key}:")
+                    for item in nested_value:
+                        lines.append(
+                            f'    - "{item}"'
+                            if isinstance(item, str)
+                            else f"    - {item}"
+                        )
+                elif isinstance(nested_value, bool):
+                    lines.append(
+                        f"  {nested_key}: {'true' if nested_value else 'false'}"
+                    )
+                elif isinstance(nested_value, str):
+                    if nested_value == "" or any(
+                        ch in nested_value for ch in [":", "#", "[", "]", "{", "}"]
+                    ):
+                        lines.append(f'  {nested_key}: "{nested_value}"')
+                    else:
+                        lines.append(f"  {nested_key}: {nested_value}")
+                else:
+                    lines.append(f"  {nested_key}: {nested_value}")
         elif isinstance(value, bool):
             lines.append(f"{key}: {'true' if value else 'false'}")
+        elif value is None:
+            lines.append(f"{key}: null")
         elif isinstance(value, str):
             if value == "" or any(ch in value for ch in [":", "#", "[", "]", "{", "}"]):
                 lines.append(f'{key}: "{value}"')
@@ -218,7 +267,7 @@ def iter_wiki_notes() -> list[Path]:
                 sorted(
                     p
                     for p in base.rglob("*.md")
-                    if p.is_file() and p.name != "index.md"
+                    if p.is_file() and p.name not in INDEX_BASENAMES
                 )
             )
     log_md = WIKI / "log.md"
@@ -275,6 +324,12 @@ def build_catalog_entries() -> list[dict]:
         for key in (
             "formula",
             "exomol_id",
+            "parent_molecule",
+            "atoms",
+            "aliases",
+            "line_list",
+            "isotopologues",
+            "marvel_data",
             "developer_group",
             "software_type",
             "institution",
@@ -336,29 +391,56 @@ def command_build(_args: argparse.Namespace) -> int:
         grouped.setdefault(entry["tag"], []).append(entry)
 
     index_lines = ["# ExoMol LLM Wiki Index", ""]
-    for dirname, tag in WIKI_DIRS.items():
-        if tag == "log":
-            continue
-        index_lines.append(f"## {dirname}")
-        for entry in grouped.get(tag, []):
-            wiki_relative = Path(entry["path"]).relative_to("Wiki").as_posix()
-            index_lines.append(f"- [{entry['title']}]({wiki_relative})")
-        if not grouped.get(tag):
-            index_lines.append("- No entries yet.")
-        index_lines.append("")
+    index_lines.append("## Category Overviews")
+    for dirname in WIKI_DIRS:
+        overview = WIKI_OVERVIEW_FILES[dirname]
+        index_lines.append(
+            f"- [{dirname} Overview]({(Path(dirname) / overview).as_posix()})"
+        )
+    index_lines.append("")
     write_text(WIKI / "index.md", "\n".join(index_lines).rstrip() + "\n")
 
     for dirname, tag in WIKI_DIRS.items():
         base = WIKI / dirname
         if not base.exists():
             continue
-        lines = [f"# {dirname} Index", ""]
-        for entry in grouped.get(tag, []):
-            path = Path(entry["path"])
-            lines.append(f"- [{entry['title']}]({path.name})")
-        if len(lines) == 2:
-            lines.append("- No entries yet.")
-        write_text(base / "index.md", "\n".join(lines).rstrip() + "\n")
+        overview_name = WIKI_OVERVIEW_FILES[dirname]
+        lines = [f"# {dirname} Overview", ""]
+        if tag == "molecule":
+            formula_pages = [
+                entry
+                for entry in grouped.get(tag, [])
+                if not entry.get("exomol_id")
+            ]
+            isotopologue_pages = [
+                entry
+                for entry in grouped.get(tag, [])
+                if entry.get("exomol_id")
+            ]
+            lines.append("## Formula MOCs")
+            if formula_pages:
+                for entry in formula_pages:
+                    lines.append(f"- [{entry['title']}]({Path(entry['path']).name})")
+            else:
+                lines.append("- No entries yet.")
+            lines.append("")
+            lines.append("## Isotopologue Notes")
+            if isotopologue_pages:
+                for entry in isotopologue_pages:
+                    parent = entry.get("parent_molecule") or "unassigned"
+                    lines.append(
+                        f"- [{entry['title']}]({Path(entry['path']).name})"
+                        f" - parent: {parent}"
+                    )
+            else:
+                lines.append("- No entries yet.")
+        else:
+            for entry in grouped.get(tag, []):
+                path = Path(entry["path"])
+                lines.append(f"- [{entry['title']}]({path.name})")
+            if len(lines) == 2:
+                lines.append("- No entries yet.")
+        write_text(base / overview_name, "\n".join(lines).rstrip() + "\n")
 
     print(f"Built catalog with {len(entries)} entries.")
     return 0

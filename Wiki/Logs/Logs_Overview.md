@@ -1,3 +1,3 @@
-# Molecules Index
+# Logs Overview
 
 - No entries yet.
