@@ -1,10 +1,11 @@
 ---
 tags:
-  - application
+  - "application"
+title: "Exoplanet Atmospheres"
 field: "Exoplanet Atmospheres"
-status: seed
-created: 2026-05-21
-updated: 2026-05-21
+status: "seed"
+created: "2026-05-21"
+updated: "2026-05-29"
 sources:
   - "Raw/Sources/24TeYuZh.xml"
 source_count: 1
@@ -12,7 +13,7 @@ source_count: 1
 
 # Exoplanet Atmospheres
 
-The 2024 ExoMol release states that ExoMol data are widely used to model atmospheres of exoplanets, cool stars, and other astronomical objects. Source: [Tennyson, Yurchenko, and Zhang et al. 2024](../../Raw/Sources/24TeYuZh.xml).
+The paper states that ExoMol data are widely used to model exoplanet atmospheres, including gas giants, terrestrial exoplanets, hot rocky planets, and high-resolution detections. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
 
 ## Related Methods
 

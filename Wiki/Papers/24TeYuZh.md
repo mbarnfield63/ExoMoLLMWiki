@@ -1,26 +1,271 @@
 ---
 tags:
-  - paper
+  - "paper"
 bibcode: "24TeYuZh"
 title: "The 2024 release of the ExoMol database: Molecular line lists for exoplanet and other hot atmospheres"
 authors:
   - "Jonathan Tennyson"
   - "Sergei N. Yurchenko"
   - "Jingxin Zhang"
+  - "Charles A. Bowesman"
+  - "Ryan P. Brady"
+  - "Jeanna Buldyreva"
+  - "Katy L. Chubb"
+  - "Robert R. Gamache"
+  - "Maire N. Gorman"
+  - "Elizabeth R. Guest"
+  - "Christian Hill"
+  - "Kyriaki Kefala"
+  - "A.E. Lynas-Gray"
+  - "Thomas M. Mellor"
+  - "Laura K. McKemmish"
+  - "Georgi B. Mitev"
+  - "Irina I. Mizus"
+  - "Alec Owens"
+  - "Zhijian Peng"
+  - "Armando N. Perri"
+  - "Marco Pezzella"
+  - "Oleg L. Polyansky"
+  - "Qianwei Qu"
+  - "Mikhail Semenov"
+  - "Oleksiy Smola"
+  - "Andrei Solokov"
+  - "Wilfrid Somogyi"
+  - "Apoorva Upadhyay"
+  - "Samuel O.M. Wright"
+  - "Nikolai F. Zobov"
 journal: "Journal of Quantitative Spectroscopy and Radiative Transfer"
 year: 2024
-summary: "The paper reports the 2024 ExoMol database release, including recommended line lists for 91 molecules and 224 isotopologues, and highlights expanded MARVELization, UV coverage, photodissociation cross-sections, broadening parameters, and JSON data products."
+summary: "The paper reports the 2024 ExoMol database release, including recommended line lists for 91 molecules and 224 isotopologues, expanded MARVELization, ultraviolet coverage, photodissociation cross-sections, broadening parameters, JSON data products, ExoMolHR, and LiDB."
 mentioned_methods:
   - "ExoMol Database"
   - "MARVELization"
+  - "ExoMolHR"
+  - "LiDB"
+  - "ExoMolOP"
+  - "ExoMol Data Format"
+  - "ExoCross and PyExoCross"
+  - "Photodissociation Cross-Sections"
+  - "Collisional Line Broadening"
+  - "Predissociative Line Broadening"
+  - "Specific Heats and Cooling Functions"
+  - "Partition Functions"
+  - "Predicted Shift Method"
+  - "Isotopologue Extrapolation"
+  - "Duo"
+  - "TROVE"
+  - "EVEREST"
+  - "HITRAN"
+  - "HITEMP"
+  - "MoLLIST"
 mentioned_molecules:
+  - "AlCl"
+  - "AlF"
+  - "AlH"
+  - "AlO"
+  - "AsH3"
+  - "BeH"
+  - "C2"
+  - "C2H2"
+  - "C2H4"
+  - "C3"
+  - "CH"
+  - "CH3"
+  - "CH3Cl"
+  - "CH3F"
+  - "CH4"
+  - "CH+"
+  - "CN"
+  - "CO"
+  - "CO2"
+  - "CP"
+  - "CS"
+  - "CaF"
+  - "CaH"
+  - "CaO"
+  - "CaOH"
+  - "CrH"
+  - "FeH"
+  - "H2"
+  - "H2CO"
+  - "H2CS"
   - "H2O"
+  - "H2O2"
+  - "H2S"
+  - "H2+"
+  - "H3O+"
+  - "H3+"
+  - "HBO"
+  - "HBr"
+  - "HCN-HNC"
+  - "HCl"
+  - "HF"
+  - "HNO3"
+  - "HeH+"
+  - "KCl"
+  - "KF"
+  - "KOH"
+  - "LaO"
+  - "LiCl"
+  - "LiF"
+  - "LiH"
+  - "LiH+"
+  - "LiOH"
+  - "MgF"
+  - "MgH"
+  - "MgO"
+  - "N2"
+  - "N2O"
+  - "NH"
+  - "NH3"
+  - "NO"
+  - "NS"
+  - "NaCl"
+  - "NaF"
+  - "NaH"
+  - "NaO"
+  - "NaOH"
+  - "OCS"
+  - "OH"
+  - "P2H2"
+  - "PF3"
+  - "PH"
+  - "PH3"
+  - "PN"
+  - "PO"
+  - "PS"
+  - "SH"
+  - "SO"
+  - "SO2"
+  - "SO3"
+  - "ScH"
+  - "SiH"
+  - "SiH2"
+  - "SiH4"
+  - "SiN"
+  - "SiO"
+  - "SiO2"
+  - "SiS"
+  - "TiH"
+  - "TiO"
+  - "VO"
+  - "YO"
+  - "ZrO"
+  - "12C-14N"
+  - "12C-16O2"
+  - "12C-1H4"
+  - "12C2"
+  - "12C2-1H2"
+  - "14N-16O"
+  - "14N-1H"
+  - "14N-1H3"
+  - "14N-2H"
+  - "14N2-16O"
+  - "15N-1H"
+  - "15N-1H3"
+  - "15N-2H"
+  - "16O-12C-32S"
+  - "1H-2H-16O"
+  - "1H2-12C-16O"
+  - "1H2-12C-32S"
+  - "1H2-14O"
+  - "1H2-15O"
   - "1H2-16O"
+  - "1H2-17O"
+  - "1H2-18O"
+  - "1H2-19O"
+  - "1H2-2H+"
+  - "1H2-32S"
+  - "1H3-16O+"
+  - "1H3+"
+  - "24Mg-17O"
+  - "24Mg-18O"
+  - "24Mg-1H"
+  - "25Mg-16O"
+  - "25Mg-1H"
+  - "26Al-16O"
+  - "26Mg-16O"
+  - "26Mg-1H"
+  - "27Al-16O"
+  - "27Al-17O"
+  - "27Al-18O"
+  - "27Al-1H"
+  - "27Al-35Cl"
+  - "27Al-37Cl"
+  - "28Si-14N"
+  - "28Si-15N"
+  - "28Si-16O"
+  - "29Si-14N"
+  - "2H2-1H+"
+  - "2H3+"
+  - "30Si-14N"
+  - "31P-14N"
+  - "32S-16O"
+  - "32S-16O2"
+  - "40Ca-16O-1H"
+  - "40Ca-1H"
+  - "48Ti-16O"
+  - "51V-16O"
+  - "6Li-16O-1H"
+  - "7Li-16O-1H"
+  - "89Y-16O"
+  - "89Y-17O"
+  - "89Y-18O"
+  - "90Zr-16O"
+  - "91Zr-16O"
+  - "92Zr-16O"
+  - "93Zr-16O"
+  - "94Zr-16O"
+  - "96Zr-16O"
 mentioned_people:
-  - "J Tennyson"
-status: seed
-created: 2026-05-29
-updated: 2026-05-29
+  - "Jonathan Tennyson"
+  - "Sergei N. Yurchenko"
+  - "Jingxin Zhang"
+  - "Charles A. Bowesman"
+  - "Ryan P. Brady"
+  - "Jeanna Buldyreva"
+  - "Katy L. Chubb"
+  - "Robert R. Gamache"
+  - "Maire N. Gorman"
+  - "Elizabeth R. Guest"
+  - "Christian Hill"
+  - "Kyriaki Kefala"
+  - "A.E. Lynas-Gray"
+  - "Thomas M. Mellor"
+  - "Laura K. McKemmish"
+  - "Georgi B. Mitev"
+  - "Irina I. Mizus"
+  - "Alec Owens"
+  - "Zhijian Peng"
+  - "Armando N. Perri"
+  - "Marco Pezzella"
+  - "Oleg L. Polyansky"
+  - "Qianwei Qu"
+  - "Mikhail Semenov"
+  - "Oleksiy Smola"
+  - "Andrei Solokov"
+  - "Wilfrid Somogyi"
+  - "Apoorva Upadhyay"
+  - "Samuel O.M. Wright"
+  - "Nikolai F. Zobov"
+mentioned_applications:
+  - "Exoplanet Atmospheres"
+  - "High-Resolution Spectroscopy"
+  - "Cool Stars"
+  - "Stellar Atmospheres"
+  - "Solar System Atmospheres"
+  - "Interstellar Medium"
+  - "Terrestrial Applications"
+  - "Plasma Modelling"
+  - "Opacity Modelling"
+  - "Radiative Transfer"
+  - "Photochemistry"
+  - "Biosignature Detectability"
+  - "Spectral Assignment"
+  - "Lava Planets"
+status: "seed"
+created: "2026-05-29"
+updated: "2026-05-29"
 sources:
   - "Raw/Sources/24TeYuZh.xml"
 source_count: 1
@@ -30,18 +275,249 @@ source_count: 1
 
 ## Summary
 
-The 2024 ExoMol release summarizes the database status for hot-atmosphere spectroscopy, emphasizes the expansion of MARVELized line lists, and describes broader database coverage across molecules, isotopologues, UV data, broadening parameters, and other derived products. Source: [Tennyson, Yurchenko, and Zhang et al. 2024](../../Raw/Sources/24TeYuZh.xml).
+The 2024 ExoMol release reports the database status for hot-atmosphere spectroscopy, including recommended line lists for 91 molecules and 224 isotopologues, expanded MARVELization for high-resolution studies, ultraviolet and photodissociation data, pressure-broadening updates, JSON data specifications, ExoMolHR, LiDB, and other derived products. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
+
+## Bibliographic Details
+
+- Journal: Journal of Quantitative Spectroscopy and Radiative Transfer
+- Year: 2024
+- DOI: 10.1016/j.jqsrt.2024.109083
 
 ## Mentioned Methods
 
 - [ExoMol Database](../Methods/ExoMol_Database.md)
 - [MARVELization](../Methods/MARVELization.md)
+- [ExoMolHR](../Methods/ExoMolHR.md)
+- [LiDB](../Methods/LiDB.md)
+- [ExoMolOP](../Methods/ExoMolOP.md)
+- [ExoMol Data Format](../Methods/ExoMol_Data_Format.md)
+- [ExoCross and PyExoCross](../Methods/ExoCross.md)
+- [Photodissociation Cross-Sections](../Methods/Photodissociation_Cross_Sections.md)
+- [Collisional Line Broadening](../Methods/Collisional_Line_Broadening.md)
+- [Predissociative Line Broadening](../Methods/Predissociative_Line_Broadening.md)
+- [Specific Heats and Cooling Functions](../Methods/Specific_Heats_and_Cooling_Functions.md)
+- [Partition Functions](../Methods/Partition_Functions.md)
+- [Predicted Shift Method](../Methods/Predicted_Shift_Method.md)
+- [Isotopologue Extrapolation](../Methods/Isotopologue_Extrapolation.md)
+- [Duo](../Methods/Duo.md)
+- [TROVE](../Methods/TROVE.md)
+- [EVEREST](../Methods/EVEREST.md)
+- [HITRAN](../Methods/HITRAN.md)
+- [HITEMP](../Methods/HITEMP.md)
+- [MoLLIST](../Methods/MoLLIST.md)
+
+## Mentioned Applications
+
+- [Exoplanet Atmospheres](../Applications/Exoplanet_Atmospheres.md)
+- [High-Resolution Spectroscopy](../Applications/High-Resolution_Spectroscopy.md)
+- [Cool Stars](../Applications/Cool_Stars.md)
+- [Stellar Atmospheres](../Applications/Stellar_Atmospheres.md)
+- [Solar System Atmospheres](../Applications/Solar_System_Atmospheres.md)
+- [Interstellar Medium](../Applications/Interstellar_Medium.md)
+- [Terrestrial Applications](../Applications/Terrestrial_Applications.md)
+- [Plasma Modelling](../Applications/Plasma_Modelling.md)
+- [Opacity Modelling](../Applications/Opacity_Modelling.md)
+- [Radiative Transfer](../Applications/Radiative_Transfer.md)
+- [Photochemistry](../Applications/Photochemistry.md)
+- [Biosignature Detectability](../Applications/Biosignature_Detectability.md)
+- [Spectral Assignment](../Applications/Spectral_Assignment.md)
+- [Lava Planets](../Applications/Lava_Planets.md)
 
 ## Mentioned Molecules
 
+### Formula MOCs
+
+- [AlCl](../Molecules/AlCl.md)
+- [AlF](../Molecules/AlF.md)
+- [AlH](../Molecules/AlH.md)
+- [AlO](../Molecules/AlO.md)
+- [AsH3](../Molecules/AsH3.md)
+- [BeH](../Molecules/BeH.md)
+- [C2](../Molecules/C2.md)
+- [C2H2](../Molecules/C2H2.md)
+- [C2H4](../Molecules/C2H4.md)
+- [C3](../Molecules/C3.md)
+- [CH](../Molecules/CH.md)
+- [CH3](../Molecules/CH3.md)
+- [CH3Cl](../Molecules/CH3Cl.md)
+- [CH3F](../Molecules/CH3F.md)
+- [CH4](../Molecules/CH4.md)
+- [CH+](../Molecules/CH+.md)
+- [CN](../Molecules/CN.md)
+- [CO](../Molecules/CO.md)
+- [CO2](../Molecules/CO2.md)
+- [CP](../Molecules/CP.md)
+- [CS](../Molecules/CS.md)
+- [CaF](../Molecules/CaF.md)
+- [CaH](../Molecules/CaH.md)
+- [CaO](../Molecules/CaO.md)
+- [CaOH](../Molecules/CaOH.md)
+- [CrH](../Molecules/CrH.md)
+- [FeH](../Molecules/FeH.md)
+- [H2](../Molecules/H2.md)
+- [H2CO](../Molecules/H2CO.md)
+- [H2CS](../Molecules/H2CS.md)
 - [H2O](../Molecules/H2O.md)
+- [H2O2](../Molecules/H2O2.md)
+- [H2S](../Molecules/H2S.md)
+- [H2+](../Molecules/H2+.md)
+- [H3O+](../Molecules/H3O+.md)
+- [H3+](../Molecules/H3+.md)
+- [HBO](../Molecules/HBO.md)
+- [HBr](../Molecules/HBr.md)
+- [HCN-HNC](../Molecules/HCN-HNC.md)
+- [HCl](../Molecules/HCl.md)
+- [HF](../Molecules/HF.md)
+- [HNO3](../Molecules/HNO3.md)
+- [HeH+](../Molecules/HeH+.md)
+- [KCl](../Molecules/KCl.md)
+- [KF](../Molecules/KF.md)
+- [KOH](../Molecules/KOH.md)
+- [LaO](../Molecules/LaO.md)
+- [LiCl](../Molecules/LiCl.md)
+- [LiF](../Molecules/LiF.md)
+- [LiH](../Molecules/LiH.md)
+- [LiH+](../Molecules/LiH+.md)
+- [LiOH](../Molecules/LiOH.md)
+- [MgF](../Molecules/MgF.md)
+- [MgH](../Molecules/MgH.md)
+- [MgO](../Molecules/MgO.md)
+- [N2](../Molecules/N2.md)
+- [N2O](../Molecules/N2O.md)
+- [NH](../Molecules/NH.md)
+- [NH3](../Molecules/NH3.md)
+- [NO](../Molecules/NO.md)
+- [NS](../Molecules/NS.md)
+- [NaCl](../Molecules/NaCl.md)
+- [NaF](../Molecules/NaF.md)
+- [NaH](../Molecules/NaH.md)
+- [NaO](../Molecules/NaO.md)
+- [NaOH](../Molecules/NaOH.md)
+- [OCS](../Molecules/OCS.md)
+- [OH](../Molecules/OH.md)
+- [P2H2](../Molecules/P2H2.md)
+- [PF3](../Molecules/PF3.md)
+- [PH](../Molecules/PH.md)
+- [PH3](../Molecules/PH3.md)
+- [PN](../Molecules/PN.md)
+- [PO](../Molecules/PO.md)
+- [PS](../Molecules/PS.md)
+- [SH](../Molecules/SH.md)
+- [SO](../Molecules/SO.md)
+- [SO2](../Molecules/SO2.md)
+- [SO3](../Molecules/SO3.md)
+- [ScH](../Molecules/ScH.md)
+- [SiH](../Molecules/SiH.md)
+- [SiH2](../Molecules/SiH2.md)
+- [SiH4](../Molecules/SiH4.md)
+- [SiN](../Molecules/SiN.md)
+- [SiO](../Molecules/SiO.md)
+- [SiO2](../Molecules/SiO2.md)
+- [SiS](../Molecules/SiS.md)
+- [TiH](../Molecules/TiH.md)
+- [TiO](../Molecules/TiO.md)
+- [VO](../Molecules/VO.md)
+- [YO](../Molecules/YO.md)
+- [ZrO](../Molecules/ZrO.md)
+
+### Named Isotopologues
+
+- [12C-14N](../Molecules/12C-14N.md)
+- [12C-16O2](../Molecules/12C-16O2.md)
+- [12C-1H4](../Molecules/12C-1H4.md)
+- [12C2](../Molecules/12C2.md)
+- [12C2-1H2](../Molecules/12C2-1H2.md)
+- [14N-16O](../Molecules/14N-16O.md)
+- [14N-1H](../Molecules/14N-1H.md)
+- [14N-1H3](../Molecules/14N-1H3.md)
+- [14N-2H](../Molecules/14N-2H.md)
+- [14N2-16O](../Molecules/14N2-16O.md)
+- [15N-1H](../Molecules/15N-1H.md)
+- [15N-1H3](../Molecules/15N-1H3.md)
+- [15N-2H](../Molecules/15N-2H.md)
+- [16O-12C-32S](../Molecules/16O-12C-32S.md)
+- [1H-2H-16O](../Molecules/1H-2H-16O.md)
+- [1H2-12C-16O](../Molecules/1H2-12C-16O.md)
+- [1H2-12C-32S](../Molecules/1H2-12C-32S.md)
+- [1H2-14O](../Molecules/1H2-14O.md)
+- [1H2-15O](../Molecules/1H2-15O.md)
 - [1H2-16O](../Molecules/1H2-16O.md)
+- [1H2-17O](../Molecules/1H2-17O.md)
+- [1H2-18O](../Molecules/1H2-18O.md)
+- [1H2-19O](../Molecules/1H2-19O.md)
+- [1H2-2H+](../Molecules/1H2-2H+.md)
+- [1H2-32S](../Molecules/1H2-32S.md)
+- [1H3-16O+](../Molecules/1H3-16O+.md)
+- [1H3+](../Molecules/1H3+.md)
+- [24Mg-17O](../Molecules/24Mg-17O.md)
+- [24Mg-18O](../Molecules/24Mg-18O.md)
+- [24Mg-1H](../Molecules/24Mg-1H.md)
+- [25Mg-16O](../Molecules/25Mg-16O.md)
+- [25Mg-1H](../Molecules/25Mg-1H.md)
+- [26Al-16O](../Molecules/26Al-16O.md)
+- [26Mg-16O](../Molecules/26Mg-16O.md)
+- [26Mg-1H](../Molecules/26Mg-1H.md)
+- [27Al-16O](../Molecules/27Al-16O.md)
+- [27Al-17O](../Molecules/27Al-17O.md)
+- [27Al-18O](../Molecules/27Al-18O.md)
+- [27Al-1H](../Molecules/27Al-1H.md)
+- [27Al-35Cl](../Molecules/27Al-35Cl.md)
+- [27Al-37Cl](../Molecules/27Al-37Cl.md)
+- [28Si-14N](../Molecules/28Si-14N.md)
+- [28Si-15N](../Molecules/28Si-15N.md)
+- [28Si-16O](../Molecules/28Si-16O.md)
+- [29Si-14N](../Molecules/29Si-14N.md)
+- [2H2-1H+](../Molecules/2H2-1H+.md)
+- [2H3+](../Molecules/2H3+.md)
+- [30Si-14N](../Molecules/30Si-14N.md)
+- [31P-14N](../Molecules/31P-14N.md)
+- [32S-16O](../Molecules/32S-16O.md)
+- [32S-16O2](../Molecules/32S-16O2.md)
+- [40Ca-16O-1H](../Molecules/40Ca-16O-1H.md)
+- [40Ca-1H](../Molecules/40Ca-1H.md)
+- [48Ti-16O](../Molecules/48Ti-16O.md)
+- [51V-16O](../Molecules/51V-16O.md)
+- [6Li-16O-1H](../Molecules/6Li-16O-1H.md)
+- [7Li-16O-1H](../Molecules/7Li-16O-1H.md)
+- [89Y-16O](../Molecules/89Y-16O.md)
+- [89Y-17O](../Molecules/89Y-17O.md)
+- [89Y-18O](../Molecules/89Y-18O.md)
+- [90Zr-16O](../Molecules/90Zr-16O.md)
+- [91Zr-16O](../Molecules/91Zr-16O.md)
+- [92Zr-16O](../Molecules/92Zr-16O.md)
+- [93Zr-16O](../Molecules/93Zr-16O.md)
+- [94Zr-16O](../Molecules/94Zr-16O.md)
+- [96Zr-16O](../Molecules/96Zr-16O.md)
 
 ## Mentioned People
 
-- [J Tennyson](../People/J_Tennyson.md)
+- [Jonathan Tennyson](../People/J_Tennyson.md)
+- [Sergei N. Yurchenko](../People/S_N_Yurchenko.md)
+- [Jingxin Zhang](../People/J_Zhang.md)
+- [Charles A. Bowesman](../People/C_A_Bowesman.md)
+- [Ryan P. Brady](../People/R_P_Brady.md)
+- [Jeanna Buldyreva](../People/J_Buldyreva.md)
+- [Katy L. Chubb](../People/K_L_Chubb.md)
+- [Robert R. Gamache](../People/R_R_Gamache.md)
+- [Maire N. Gorman](../People/M_N_Gorman.md)
+- [Elizabeth R. Guest](../People/E_R_Guest.md)
+- [Christian Hill](../People/C_Hill.md)
+- [Kyriaki Kefala](../People/K_Kefala.md)
+- [A.E. Lynas-Gray](../People/A_E_Lynas-Gray.md)
+- [Thomas M. Mellor](../People/T_M_Mellor.md)
+- [Laura K. McKemmish](../People/L_K_McKemmish.md)
+- [Georgi B. Mitev](../People/G_B_Mitev.md)
+- [Irina I. Mizus](../People/I_I_Mizus.md)
+- [Alec Owens](../People/A_Owens.md)
+- [Zhijian Peng](../People/Z_Peng.md)
+- [Armando N. Perri](../People/A_N_Perri.md)
+- [Marco Pezzella](../People/M_Pezzella.md)
+- [Oleg L. Polyansky](../People/O_L_Polyansky.md)
+- [Qianwei Qu](../People/Q_Qu.md)
+- [Mikhail Semenov](../People/M_Semenov.md)
+- [Oleksiy Smola](../People/O_Smola.md)
+- [Andrei Solokov](../People/A_Solokov.md)
+- [Wilfrid Somogyi](../People/W_Somogyi.md)
+- [Apoorva Upadhyay](../People/A_Upadhyay.md)
+- [Samuel O.M. Wright](../People/S_O_M_Wright.md)
+- [Nikolai F. Zobov](../People/N_F_Zobov.md)
