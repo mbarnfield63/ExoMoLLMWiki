@@ -33,9 +33,9 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | PH | LaTY | 1 | 4000 | 2 | 65 055 | yes | [348] |
+| PH | LaTY | 1 | 4000 | 2 | 65,055 |  | [348] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
 
 ## Named Isotopologues
 

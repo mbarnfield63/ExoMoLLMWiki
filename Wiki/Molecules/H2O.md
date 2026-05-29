@@ -43,21 +43,21 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | H2^17O / H2^18O | HotWat78 | 2 | 3000 | 1 | 519 461 789 | yes | [335] |
-| Table 1 | H2^16O | POKAZATEL | 1 | 5000 | 1 | 5 745 071 340 | yes | [344] |
-| Table 1 | HDO | TBD | 1 | 3000 | 1 | 3 000 000 | yes | [374] |
-| Table 2 | H2O | CKYKKY | 1 | 300 | 1 | 109 263 |  | [504] |
+| H2^17O / H2^18O | HotWat78 | 2 | 3000 | 1 | 519,461,789 |  | [335] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
+| H2^16O | POKAZATEL | 1 | 5000 | 1 | 5,745,071,340 | yes | [344] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
+| HDO | TBD | 1 | 3000 | 1 | 3,000,000 |  | [374] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
+| H2O | CKYKKY | 1 | 300 | 1 | 109,263 |  | [504] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 2 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [1H-2H-16O](1H-2H-16O.md) | TBD | yes |  | Named as deuterated water, HDO, with the TBD line list. |
+| [1H-2H-16O](1H-2H-16O.md) | TBD |  |  | Named as deuterated water, HDO, with the TBD line list. |
 | [1H2-14O](1H2-14O.md) |  |  |  | Named as a recently added room-temperature radioactive water isotopologue. |
 | [1H2-15O](1H2-15O.md) |  |  |  | Named as a recently added room-temperature radioactive water isotopologue. |
-| [1H2-16O](1H2-16O.md) | POKAZATEL | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [1H2-17O](1H2-17O.md) | HotWat78 | yes |  | Named in the water section as represented by the HotWat78 line lists. |
-| [1H2-18O](1H2-18O.md) | HotWat78 | yes |  | Named in the water section as represented by the HotWat78 line lists. |
+| [1H2-16O](1H2-16O.md) | POKAZATEL |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [1H2-17O](1H2-17O.md) | HotWat78 |  |  | Named in the water section as represented by the HotWat78 line lists. |
+| [1H2-18O](1H2-18O.md) | HotWat78 |  |  | Named in the water section as represented by the HotWat78 line lists. |
 | [1H2-19O](1H2-19O.md) |  |  |  | Named as a recently added room-temperature radioactive water isotopologue. |

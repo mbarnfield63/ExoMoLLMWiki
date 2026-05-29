@@ -36,12 +36,12 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | SiO | SiOUVenIR | 1 | 3500 | 10 | 91 395 763 | yes | [358] |
+| SiO | SiOUVenIR | 1 | 3500 | 10 | 91,395,763 | yes | [358] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [28Si-16O](28Si-16O.md) | SiOUVenIR | yes | yes | Listed explicitly in the ExoMolHR contents table. |
+| [28Si-16O](28Si-16O.md) | SiOUVenIR |  | yes | Listed explicitly in the ExoMolHR contents table. |

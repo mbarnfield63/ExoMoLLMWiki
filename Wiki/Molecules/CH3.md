@@ -32,9 +32,9 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 2 | CH3 | AYYJ | 1 | 1 500 | 1 | 2 058 655 166 |  | [497] |
+| CH3 | AYYJ | 1 | 1,500 | 1 | 2,058,655,166 |  | [497] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 2 |
 
 ## Named Isotopologues
 

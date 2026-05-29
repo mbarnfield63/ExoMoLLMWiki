@@ -37,12 +37,12 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | OCS | OYT8 | 1 | 2000 | 1 | 2 482 380 391 | yes | [369] |
+| OCS | OYT8 | 1 | 2000 | 1 | 2,482,380,391 | yes | [369] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [16O-12C-32S](16O-12C-32S.md) | OYT8 | yes | yes | Listed explicitly in the ExoMolHR contents table. |
+| [16O-12C-32S](16O-12C-32S.md) | OYT8 |  | yes | Listed explicitly in the ExoMolHR contents table. |

@@ -36,12 +36,12 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | AlH | AloHa | 4 | 5000 | 2 | 36 152 | yes | [19] |
+| AlH | AloHa | 4 | 5000 | 2 | 36,152 | yes | [19] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [27Al-1H](27Al-1H.md) | AloHa | yes | yes | Listed explicitly in the ExoMolHR contents table. |
+| [27Al-1H](27Al-1H.md) | AloHa |  | yes | Listed explicitly in the ExoMolHR contents table. |

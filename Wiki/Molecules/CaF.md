@@ -32,9 +32,9 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 2 | CaF | MoLLIST | 1 | 5 000 | 6 | 14 817 |  | [474] |
+| CaF | MoLLIST | 1 | 5,000 | 6 | 14,817 |  | [474] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 2 |
 
 ## Named Isotopologues
 

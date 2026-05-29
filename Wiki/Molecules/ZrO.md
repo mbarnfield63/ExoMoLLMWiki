@@ -40,17 +40,17 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 2 | ZrO | ZorrO | 6 | 10 000 | 10 | 47 662 773 | yes | [500] |
+| ZrO | ZorrO | 6 | 10,000 | 10 | 47,662,773 | yes | [500] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 2 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [90Zr-16O](90Zr-16O.md) | ZorrO | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [91Zr-16O](91Zr-16O.md) | ZorrO | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [92Zr-16O](92Zr-16O.md) | ZorrO | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [93Zr-16O](93Zr-16O.md) | ZorrO | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [94Zr-16O](94Zr-16O.md) | ZorrO | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [96Zr-16O](96Zr-16O.md) | ZorrO | yes | yes | Listed explicitly in the ExoMolHR contents table. |
+| [90Zr-16O](90Zr-16O.md) | ZorrO |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [91Zr-16O](91Zr-16O.md) | ZorrO |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [92Zr-16O](92Zr-16O.md) | ZorrO |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [93Zr-16O](93Zr-16O.md) | ZorrO |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [94Zr-16O](94Zr-16O.md) | ZorrO |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [96Zr-16O](96Zr-16O.md) | ZorrO |  | yes | Listed explicitly in the ExoMolHR contents table. |

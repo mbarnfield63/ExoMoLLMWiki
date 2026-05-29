@@ -38,14 +38,14 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | NH3 | CoYuTe | 1 | 1500 | 1 | 16 941 637 250 | yes | [349] |
-| Table 1 | 15NH3 | CoYuTe-15 | 1 | 1000 | 1 | 929 795 249 | yes | [371] |
+| NH3 | CoYuTe | 1 | 1500 | 1 | 16,941,637,250 | yes | [349] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
+| 15NH3 | CoYuTe-15 | 1 | 1000 | 1 | 929,795,249 |  | [371] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [14N-1H3](14N-1H3.md) | CoYuTe | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [15N-1H3](15N-1H3.md) | CoYuTe-15 | yes |  | Listed in Table 1 as the 15NH3 CoYuTe-15 line list. |
+| [14N-1H3](14N-1H3.md) | CoYuTe |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [15N-1H3](15N-1H3.md) | CoYuTe-15 |  |  | Listed in Table 1 as the 15NH3 CoYuTe-15 line list. |

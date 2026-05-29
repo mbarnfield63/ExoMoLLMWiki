@@ -38,15 +38,15 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 2 | NH | kNigHt | 4 | 10 000 | 5 | 327 014 | yes | [501] |
+| NH | kNigHt | 4 | 10,000 | 5 | 327,014 | yes | [501] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 2 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [14N-1H](14N-1H.md) | kNigHt | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [14N-2H](14N-2H.md) | kNigHt | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [15N-1H](15N-1H.md) | kNigHt | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [15N-2H](15N-2H.md) | kNigHt | yes | yes | Listed explicitly in the ExoMolHR contents table. |
+| [14N-1H](14N-1H.md) | kNigHt |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [14N-2H](14N-2H.md) | kNigHt |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [15N-1H](15N-1H.md) | kNigHt |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [15N-2H](15N-2H.md) | kNigHt |  | yes | Listed explicitly in the ExoMolHR contents table. |
