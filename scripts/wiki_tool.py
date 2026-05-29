@@ -139,7 +139,16 @@ def parse_xml_metadata(path: Path) -> dict:
 
     title = find_xml_text(root, ("title", "article-title", "doc-title"))
     doi = find_xml_text(root, ("doi", "article-id"))
-    journal = find_xml_text(root, ("publicationname", "publication-name", "journal-title", "journal", "publication-title"))
+    journal = find_xml_text(
+        root,
+        (
+            "publicationname",
+            "publication-name",
+            "journal-title",
+            "journal",
+            "publication-title",
+        ),
+    )
     year_text = find_xml_text(root, ("coverdate", "cover-date", "year"))
     year_match = re.search(r"\b(19|20)\d{2}\b", year_text)
     year = int(year_match.group(0)) if year_match else ""
@@ -366,6 +375,14 @@ def command_lint(_args: argparse.Namespace) -> int:
         tag = note_tag(path, meta)
         if tag not in ALLOWED_TAGS:
             errors.append(f"{path_rel}: invalid or missing compiled tag '{tag}'")
+        if tag == "molecule":
+            marvel = meta.get("marvel_data")
+            if not isinstance(marvel, dict):
+                errors.append(f"{path_rel}: missing or invalid marvel_data dictionary")
+            else:
+                for key in ("is_marvelized", "latest_source_year", "energy_levels"):
+                    if key not in marvel:
+                        errors.append(f"{path_rel}: marvel_data missing key '{key}'")
         if tag != "log":
             sources = meta.get("sources")
             source_count = meta.get("source_count")

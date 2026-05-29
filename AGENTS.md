@@ -41,3 +41,9 @@ Each wiki note frontmatter must keep `sources` and `source_count` synchronized. 
 - `Wiki/Logs/`: automated run summaries and ingestion records.
 
 Raw PDF files or heavy data products belong under ignored local storage, not in committed wiki notes.
+
+## Molecule & Isotopologue Rules
+- **Atomic Files:** Every unique isotopologue MUST get its own separate markdown file in `Wiki/Molecules/` named after its `exomol_id` (e.g., `1H2-16O.md`). Do NOT combine multiple isotopologues into one file.
+- **Parent Hierarchy:** Use the `parent_molecule` field to group isotopologues. For example, `1H2-16O` and `1H-2H-16O` (HDO) both have the parent_molecule `"H2O"`.
+- **Aliases:** If an isotopologue has common structural names (like `D2O` or `Heavy Water`), put them in the `aliases` array. 
+- **MARVELization:** If a paper explicitly states a molecule has been evaluated using the MARVEL algorithm, set `is_marvelized: true`. Extract the number of validated `energy_levels` and the `latest_source_year` included in that specific MARVEL study. If this data is missing, leave them as `null`. Do not guess.
