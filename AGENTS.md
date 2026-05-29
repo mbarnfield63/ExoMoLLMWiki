@@ -47,3 +47,8 @@ Raw PDF files or heavy data products belong under ignored local storage, not in 
 - **Parent Hierarchy:** Use the `parent_molecule` field to group isotopologues. For example, `1H2-16O` and `1H-2H-16O` (HDO) both have the parent_molecule `"H2O"`.
 - **Aliases:** If an isotopologue has common structural names (like `D2O` or `Heavy Water`), put them in the `aliases` array. 
 - **MARVELization:** If a paper explicitly states a molecule has been evaluated using the MARVEL algorithm, set `is_marvelized: true`. Extract the number of validated `energy_levels` and the `latest_source_year` included in that specific MARVEL study. If this data is missing, leave them as `null`. Do not guess.
+
+## Git & Commit Protocol
+- **NO AUTONOMOUS COMMITS:** You are strictly forbidden from running `git commit` or `git push` autonomously.
+- **Human Approval Required:** After you have created/updated files, run the linting scripts, and successfully staged the files using `git add`, you MUST stop and ask the human user for permission to commit. 
+- **Present the Summary:** When asking for permission, present a short, bulleted summary of exactly which files were changed and what data was extracted.
