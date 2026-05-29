@@ -33,6 +33,15 @@ Wiki/Methods/MARVEL.md
 Wiki/Methods/ExoMol_Database.md
 ```
 
+## Papers
+
+Use the bibcode for paper notes:
+
+```text
+Wiki/Papers/24TeYuZh.md
+Wiki/Papers/18ChJoYu.md
+```
+
 ## People
 
 Use initial and surname with underscores:

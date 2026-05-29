@@ -81,6 +81,27 @@ sources: []
 source_count: 0
 ```
 
+## Paper Notes
+
+```yaml
+tags:
+  - "paper"
+bibcode: ""
+title: ""
+authors: []
+journal: ""
+year: null
+summary: ""
+mentioned_methods: []
+mentioned_molecules: []
+mentioned_people: []
+status: seed
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+sources: []
+source_count: 0
+```
+
 ## Person Notes
 
 ```yaml
@@ -88,6 +109,8 @@ tags:
   - "person"
 institution: ""
 orcid: ""
+primary_papers: []
+secondary_papers: []
 status: seed
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
@@ -117,4 +140,4 @@ created: YYYY-MM-DD
 type: "ingest"
 ```
 
-Allowed compiled tags are `molecule`, `method`, `person`, `application`, and `log`.
+Allowed compiled tags are `molecule`, `method`, `paper`, `person`, `application`, and `log`.

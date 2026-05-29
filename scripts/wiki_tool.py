@@ -18,10 +18,11 @@ WIKI = ROOT / "Wiki"
 SCHEMA = ROOT / "Schema"
 CATALOG = WIKI / "catalog.jsonl"
 SOURCE_MANIFEST = SCHEMA / "source-manifest.jsonl"
-ALLOWED_TAGS = {"molecule", "method", "person", "application", "log"}
+ALLOWED_TAGS = {"molecule", "method", "paper", "person", "application", "log"}
 WIKI_DIRS = {
     "Molecules": "molecule",
     "Methods": "method",
+    "Papers": "paper",
     "People": "person",
     "Applications": "application",
     "Logs": "log",
@@ -29,6 +30,7 @@ WIKI_DIRS = {
 WIKI_OVERVIEW_FILES = {
     "Molecules": "Molecules_Overview.md",
     "Methods": "Methods_Overview.md",
+    "Papers": "Papers_Overview.md",
     "People": "People_Overview.md",
     "Applications": "Applications_Overview.md",
     "Logs": "Logs_Overview.md",
@@ -323,17 +325,25 @@ def build_catalog_entries() -> list[dict]:
         }
         for key in (
             "formula",
+            "bibcode",
             "exomol_id",
             "parent_molecule",
             "atoms",
             "aliases",
             "line_list",
+            "summary",
+            "authors",
+            "mentioned_methods",
+            "mentioned_molecules",
+            "mentioned_people",
             "isotopologues",
             "marvel_data",
             "developer_group",
             "software_type",
             "institution",
             "orcid",
+            "primary_papers",
+            "secondary_papers",
             "field",
         ):
             if key in meta and meta[key] not in ("", []):
@@ -465,6 +475,13 @@ def command_lint(_args: argparse.Namespace) -> int:
                 for key in ("is_marvelized", "latest_source_year", "energy_levels"):
                     if key not in marvel:
                         errors.append(f"{path_rel}: marvel_data missing key '{key}'")
+        if tag == "paper":
+            if not str(meta.get("bibcode") or "").strip():
+                errors.append(f"{path_rel}: missing bibcode")
+            if not str(meta.get("title") or "").strip():
+                errors.append(f"{path_rel}: missing title")
+            if not str(meta.get("summary") or "").strip():
+                errors.append(f"{path_rel}: missing summary")
         if tag != "log":
             sources = meta.get("sources")
             source_count = meta.get("source_count")

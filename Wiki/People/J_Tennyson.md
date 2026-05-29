@@ -3,6 +3,9 @@ tags:
   - person
 institution: ""
 orcid: ""
+primary_papers:
+  - "24TeYuZh"
+secondary_papers: []
 status: seed
 created: 2026-05-21
 updated: 2026-05-21
@@ -19,3 +22,11 @@ Jonathan Tennyson is listed as the first creator of the 2024 ExoMol database rel
 ## Related Methods
 
 - [ExoMol Database](../Methods/ExoMol_Database.md)
+
+## Primary Papers
+
+- [24TeYuZh](../Papers/24TeYuZh.md)
+
+## Secondary Papers
+
+- No entries yet.
