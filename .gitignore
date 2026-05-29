@@ -18,3 +18,7 @@ scripts/config.py
 
 Drafts/
 .aider*
+
+# HPC
+ollama_models/
+_jobs/
