@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - "application"
 title: "Stellar Atmospheres"
@@ -7,13 +7,13 @@ status: "seed"
 created: "2026-05-29"
 updated: "2026-05-29"
 sources:
-  - "Raw/Sources/24TeYuZh.xml"
+  - "Raw/Sources/24TeYuZh.json"
 source_count: 1
 ---
 
 # Stellar Atmospheres
 
-The introduction lists uses of ExoMol line lists in stellar atmospheres, stellar winds, cool carbon stars, supergiants, and supernova ejecta modelling. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
+The introduction lists uses of ExoMol line lists in stellar atmospheres, stellar winds, cool carbon stars, supergiants, and supernova ejecta modelling. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Related Methods
 

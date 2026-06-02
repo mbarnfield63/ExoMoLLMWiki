@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - "molecule"
 formula: "SO3"
@@ -23,19 +23,19 @@ status: "seed"
 created: "2026-05-29"
 updated: "2026-05-29"
 sources:
-  - "Raw/Sources/24TeYuZh.xml"
+  - "Raw/Sources/24TeYuZh.json"
 source_count: 1
 ---
 
 # SO3
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
+This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Recommended Datasets
 
 | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SO3 | UYT2 | 1 | 800 | 1 | 21,413,927,818 |  | [334] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
+| SO3 | UYT2 | 1 | 800 | 1 | 21,413,927,818 |  | [334] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
 
 ## Named Isotopologues
 

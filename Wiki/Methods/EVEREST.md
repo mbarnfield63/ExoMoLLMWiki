@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - "method"
 title: "EVEREST"
@@ -8,13 +8,13 @@ status: "seed"
 created: "2026-05-29"
 updated: "2026-05-29"
 sources:
-  - "Raw/Sources/24TeYuZh.xml"
+  - "Raw/Sources/24TeYuZh.json"
 source_count: 1
 ---
 
 # EVEREST
 
-The CaOH section says the OYT6 line list used the EVEREST rovibronic nuclear-motion code for triatomics. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
+The CaOH section says the OYT6 line list used the EVEREST rovibronic nuclear-motion code for triatomics. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Related Methods
 - [ExoMol Database](ExoMol_Database.md)

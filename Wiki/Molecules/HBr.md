@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - "molecule"
 formula: "HBr"
@@ -22,19 +22,19 @@ status: "seed"
 created: "2026-05-29"
 updated: "2026-05-29"
 sources:
-  - "Raw/Sources/24TeYuZh.xml"
+  - "Raw/Sources/24TeYuZh.json"
 source_count: 1
 ---
 
 # HBr
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
+This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Recommended Datasets
 
 | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HBr | HITRAN-HBr | 1 | 5,000 | 1 | 3,039 |  | [483,485] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 2 |
+| HBr | HITRAN-HBr | 1 | 5,000 | 1 | 3,039 |  | [483,485] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 2 |
 
 ## Named Isotopologues
 

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - "paper"
 bibcode: "24TeYuZh"
@@ -267,7 +267,7 @@ status: "seed"
 created: "2026-05-29"
 updated: "2026-05-29"
 sources:
-  - "Raw/Sources/24TeYuZh.xml"
+  - "Raw/Sources/24TeYuZh.json"
 source_count: 1
 ---
 
@@ -275,7 +275,7 @@ source_count: 1
 
 ## Summary
 
-The 2024 ExoMol release reports the database status for hot-atmosphere spectroscopy, including recommended line lists for 91 molecules and 224 isotopologues, expanded MARVELization for high-resolution studies, ultraviolet and photodissociation data, pressure-broadening updates, JSON data specifications, ExoMolHR, LiDB, and other derived products. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
+The 2024 ExoMol release reports the database status for hot-atmosphere spectroscopy, including recommended line lists for 91 molecules and 224 isotopologues, expanded MARVELization for high-resolution studies, ultraviolet and photodissociation data, pressure-broadening updates, JSON data specifications, ExoMolHR, LiDB, and other derived products. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Bibliographic Details
 

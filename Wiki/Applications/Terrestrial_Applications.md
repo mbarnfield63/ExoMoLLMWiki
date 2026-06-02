@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - "application"
 title: "Terrestrial Applications"
@@ -7,13 +7,13 @@ status: "seed"
 created: "2026-05-29"
 updated: "2026-05-29"
 sources:
-  - "Raw/Sources/24TeYuZh.xml"
+  - "Raw/Sources/24TeYuZh.json"
 source_count: 1
 ---
 
 # Terrestrial Applications
 
-The abstract and introduction identify terrestrial uses including laser spectroscopy, laser-induced breakdown spectroscopy, gas sensors, combustion, explosions, and laboratory benchmarks. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
+The abstract and introduction identify terrestrial uses including laser spectroscopy, laser-induced breakdown spectroscopy, gas sensors, combustion, explosions, and laboratory benchmarks. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Related Methods
 

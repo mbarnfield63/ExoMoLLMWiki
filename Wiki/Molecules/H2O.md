@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - "molecule"
 formula: "H2O"
@@ -33,22 +33,22 @@ status: "seed"
 created: "2026-05-29"
 updated: "2026-05-29"
 sources:
-  - "Raw/Sources/24TeYuZh.xml"
+  - "Raw/Sources/24TeYuZh.json"
 source_count: 1
 ---
 
 # H2O
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
+This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Recommended Datasets
 
 | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| H2^17O / H2^18O | HotWat78 | 2 | 3000 | 1 | 519,461,789 |  | [335] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
-| H2^16O | POKAZATEL | 1 | 5000 | 1 | 5,745,071,340 | yes | [344] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
-| HDO | TBD | 1 | 3000 | 1 | 3,000,000 |  | [374] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
-| H2O | CKYKKY | 1 | 300 | 1 | 109,263 |  | [504] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 2 |
+| H2^17O / H2^18O | HotWat78 | 2 | 3000 | 1 | 519,461,789 |  | [335] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| H2^16O | POKAZATEL | 1 | 5000 | 1 | 5,745,071,340 | yes | [344] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| HDO | TBD | 1 | 3000 | 1 | 3,000,000 |  | [374] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| H2O | CKYKKY | 1 | 300 | 1 | 109,263 |  | [504] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 2 |
 
 ## Named Isotopologues
 

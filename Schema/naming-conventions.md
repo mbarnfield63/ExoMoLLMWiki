@@ -1,4 +1,4 @@
-# Naming Conventions
+﻿# Naming Conventions
 
 Use predictable filenames so catalog search and local agents can avoid duplicate notes.
 
@@ -62,9 +62,9 @@ Wiki/Applications/Cool_Stars.md
 
 ## Raw Sources
 
-Use stable citation-like slugs:
+Use stable citation-like slugs. The `.json` sidecar is the canonical source file for linking — it contains pre-extracted title, authors, abstract, and body prose. Raw XML files may also be present but are not used as link targets.
 
 ```text
-Raw/Sources/24TeYuZh.xml
-Raw/Sources/11YuXxXx.xml
+Raw/Sources/24TeYuZh.json
+Raw/Sources/11YuXxXx.json
 ```

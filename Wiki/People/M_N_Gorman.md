@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - "person"
 title: "Maire N. Gorman"
@@ -11,14 +11,14 @@ status: "seed"
 created: "2026-05-29"
 updated: "2026-05-29"
 sources:
-  - "Raw/Sources/24TeYuZh.xml"
+  - "Raw/Sources/24TeYuZh.json"
 source_count: 1
 molecules: []
 ---
 
 # Maire N. Gorman
 
-Maire N. Gorman is listed as an author of the 2024 ExoMol database release. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
+Maire N. Gorman is listed as an author of the 2024 ExoMol database release. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Related Paper
 

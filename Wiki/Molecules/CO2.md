@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - "molecule"
 formula: "CO2"
@@ -41,20 +41,20 @@ status: "seed"
 created: "2026-05-29"
 updated: "2026-06-02"
 sources:
-  - "Raw/Sources/24TeYuZh.xml"
+  - "Raw/Sources/24TeYuZh.json"
   - "Raw/Sources/26YuBaBo.json"
 source_count: 2
 ---
 
 # CO2
 
-Carbon dioxide (CO2) is a key atmospheric constituent with extensive line list coverage in ExoMol. Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml), [26YuBaBo](../../Raw/Sources/26YuBaBo.json).
+Carbon dioxide (CO2) is a key atmospheric constituent with extensive line list coverage in ExoMol. Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [26YuBaBo](../../Raw/Sources/26YuBaBo.json).
 
 ## Recommended Datasets
 
 | Molecule entry | Dataset | Isotopologues covered | T max | Reference |
 | --- | --- | --- | --- | --- |
-| CO2 | UCL-4000 | 1 (12C-16O2) | 3000 K | [24TeYuZh](../../Raw/Sources/24TeYuZh.xml) Table 1 |
+| CO2 | UCL-4000 | 1 (12C-16O2) | 3000 K | [24TeYuZh](../../Raw/Sources/24TeYuZh.json) Table 1 |
 | CO2 | Dozen | 12 isotopologues | 3000 K (main), ~2000 K (minor) | [26YuBaBo](../../Raw/Sources/26YuBaBo.json) |
 
 ## Named Isotopologues

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - "method"
 title: "ExoCross and PyExoCross"
@@ -8,13 +8,13 @@ status: "seed"
 created: "2026-05-29"
 updated: "2026-05-29"
 sources:
-  - "Raw/Sources/24TeYuZh.xml"
+  - "Raw/Sources/24TeYuZh.json"
 source_count: 1
 ---
 
 # ExoCross and PyExoCross
 
-The paper says ExoMol-associated programs including ExoCross and PyExoCross are available from the ExoMol GitHub and are used for post-processing line-list data. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
+The paper says ExoMol-associated programs including ExoCross and PyExoCross are available from the ExoMol GitHub and are used for post-processing line-list data. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Related Methods
 - [ExoMol Database](ExoMol_Database.md)

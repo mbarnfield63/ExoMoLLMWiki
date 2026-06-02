@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - "molecule"
 formula: "NH"
@@ -28,19 +28,19 @@ status: "seed"
 created: "2026-05-29"
 updated: "2026-05-29"
 sources:
-  - "Raw/Sources/24TeYuZh.xml"
+  - "Raw/Sources/24TeYuZh.json"
 source_count: 1
 ---
 
 # NH
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
+This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Recommended Datasets
 
 | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NH | kNigHt | 4 | 10,000 | 5 | 327,014 | yes | [501] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 2 |
+| NH | kNigHt | 4 | 10,000 | 5 | 327,014 | yes | [501] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 2 |
 
 ## Named Isotopologues
 
