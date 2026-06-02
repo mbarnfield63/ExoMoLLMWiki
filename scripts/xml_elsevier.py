@@ -12,6 +12,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 from config import ELSEVIER
+from models import PaperMetadata
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -108,6 +109,68 @@ def filename_from_xml(xml_text: str) -> str:
     return f"{year}{code}.xml"
 
 
+_PARA_TAGS = frozenset({"para", "simple-para", "p", "note-para", "section-title"})
+
+_SKIP_TAGS = frozenset({
+    "bibliography", "bibliography-sec", "references", "reference",
+    "bib-reference", "refkeys", "figure", "table", "footnote",
+})
+
+
+def _collect_paragraphs(
+    element: ET.Element,
+    parts: list[str],
+) -> None:
+    tag = local_name(element.tag)
+    if tag in _SKIP_TAGS:
+        return
+    if tag in _PARA_TAGS:
+        text = element_text(element)
+        if text and len(text) > 20:
+            parts.append(text)
+        return  # element_text already flattens children; don't recurse
+    for child in element:
+        _collect_paragraphs(child, parts)
+
+
+def extract_abstract(root: ET.Element) -> str:
+    for element in root.iter():
+        if local_name(element.tag) in {"abstract", "ce:abstract"}:
+            return element_text(element)
+    return ""
+
+
+def extract_journal(root: ET.Element) -> str:
+    return first_text(root, {"sourcetitle", "srctitle", "publicationname", "publication-name", "jtitle", "journal-title"})
+
+
+def extract_body_text(root: ET.Element) -> str:
+    """Return clean prose from the article body with XML structure stripped."""
+    body: ET.Element | None = None
+    for element in root.iter():
+        if local_name(element.tag) in {"body", "article-body", "sections"}:
+            body = element
+            break
+    target = body if body is not None else root
+    parts: list[str] = []
+    _collect_paragraphs(target, parts)
+    return "\n\n".join(parts)
+
+
+def build_metadata(root: ET.Element, *, doi: str, bibcode: str) -> PaperMetadata:
+    year_str = publication_year(root)
+    return PaperMetadata(
+        bibcode=bibcode,
+        title=first_text(root, {"title", "ce:title", "dctitle"}),
+        authors=creator_names(root),
+        year=int(year_str),
+        doi=doi,
+        journal=extract_journal(root),
+        abstract=extract_abstract(root),
+        body_text=extract_body_text(root),
+    )
+
+
 def fetch_jqsrt_paper(doi: str) -> Path:
     doi = normalize_doi(doi)
     url = f"https://api.elsevier.com/content/article/doi/{doi}"
@@ -134,6 +197,12 @@ def fetch_jqsrt_paper(doi: str) -> Path:
     RAW_SOURCES.mkdir(parents=True, exist_ok=True)
     output_path = RAW_SOURCES / filename
     output_path.write_text(content, encoding="utf-8", newline="\n")
+
+    root = ET.fromstring(content)
+    metadata = build_metadata(root, doi=doi, bibcode=output_path.stem)
+    sidecar = output_path.with_suffix(".json")
+    sidecar.write_text(metadata.model_dump_json(indent=2), encoding="utf-8", newline="\n")
+
     return output_path
 
 
@@ -149,6 +218,8 @@ def main(argv: list[str] | None = None) -> int:
         return 1
 
     print(f"Saved XML to {output_path.relative_to(ROOT).as_posix()}")
+    sidecar = output_path.with_suffix(".json")
+    print(f"Saved sidecar to {sidecar.relative_to(ROOT).as_posix()}")
     return 0
 
 
