@@ -38,15 +38,15 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | SiN | SiNful | 4 | 3000 | 6 | 43 646 806 | yes | [359] |
+| SiN | SiNful | 4 | 3000 | 6 | 43,646,806 |  | [359] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [28Si-14N](28Si-14N.md) | SiNfull | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [28Si-15N](28Si-15N.md) | SiNfull | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [29Si-14N](29Si-14N.md) | SiNfull | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [30Si-14N](30Si-14N.md) | SiNfull | yes | yes | Listed explicitly in the ExoMolHR contents table. |
+| [28Si-14N](28Si-14N.md) | SiNfull |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [28Si-15N](28Si-15N.md) | SiNfull |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [29Si-14N](29Si-14N.md) | SiNfull |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [30Si-14N](30Si-14N.md) | SiNfull |  | yes | Listed explicitly in the ExoMolHR contents table. |

@@ -39,15 +39,15 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | AlO | ATP | 4 | 8000 | 3 | 4 945 580 | yes | [327] |
+| AlO | ATP | 4 | 8000 | 3 | 4,945,580 | yes | [327] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [26Al-16O](26Al-16O.md) | ATP | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [27Al-16O](27Al-16O.md) | ATP | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [27Al-17O](27Al-17O.md) | ATP | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [27Al-18O](27Al-18O.md) | ATP | yes | yes | Listed explicitly in the ExoMolHR contents table. |
+| [26Al-16O](26Al-16O.md) | ATP |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [27Al-16O](27Al-16O.md) | ATP |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [27Al-17O](27Al-17O.md) | ATP |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [27Al-18O](27Al-18O.md) | ATP |  | yes | Listed explicitly in the ExoMolHR contents table. |

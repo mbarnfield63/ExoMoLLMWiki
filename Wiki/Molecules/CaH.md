@@ -35,12 +35,12 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | CaH | XAB | 1 | 5000 | 3 | 293 151 | yes | [359] |
+| CaH | XAB | 1 | 5000 | 3 | 293,151 | yes | [359] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [40Ca-1H](40Ca-1H.md) | XAB | yes | yes | Listed explicitly in the ExoMolHR contents table. |
+| [40Ca-1H](40Ca-1H.md) | XAB |  | yes | Listed explicitly in the ExoMolHR contents table. |

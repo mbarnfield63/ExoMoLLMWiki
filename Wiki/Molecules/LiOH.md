@@ -36,13 +36,13 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | LiOH | OYT7 | 2 | 3000 | 1 | 331 274 717 | no | [363] |
+| LiOH | OYT7 | 2 | 3000 | 1 | 331,274,717 | yes | [363] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [6Li-16O-1H](6Li-16O-1H.md) | OYT7 | no | yes | Listed explicitly in the ExoMolHR contents table. |
-| [7Li-16O-1H](7Li-16O-1H.md) | OYT7 | no | yes | Listed explicitly in the ExoMolHR contents table. |
+| [6Li-16O-1H](6Li-16O-1H.md) | OYT7 |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [7Li-16O-1H](7Li-16O-1H.md) | OYT7 |  | yes | Listed explicitly in the ExoMolHR contents table. |

@@ -38,15 +38,15 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | MgO | LiTY | 5 | 5000 | 5 | 72 833 173 | yes | [346] |
+| MgO | LiTY | 5 | 5000 | 5 | 72,833,173 |  | [346] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [24Mg-17O](24Mg-17O.md) | LiTY | yes |  | Named in the MgO section as updated with the isotopologue extrapolation procedure. |
-| [24Mg-18O](24Mg-18O.md) | LiTY | yes |  | Named in the MgO section as updated with the isotopologue extrapolation procedure. |
-| [25Mg-16O](25Mg-16O.md) | LiTY | yes |  | Named in the MgO section as updated with the isotopologue extrapolation procedure. |
-| [26Mg-16O](26Mg-16O.md) | LiTY | yes |  | Named in the MgO section as updated with the isotopologue extrapolation procedure. |
+| [24Mg-17O](24Mg-17O.md) | LiTY |  |  | Named in the MgO section as updated with the isotopologue extrapolation procedure. |
+| [24Mg-18O](24Mg-18O.md) | LiTY |  |  | Named in the MgO section as updated with the isotopologue extrapolation procedure. |
+| [25Mg-16O](25Mg-16O.md) | LiTY |  |  | Named in the MgO section as updated with the isotopologue extrapolation procedure. |
+| [26Mg-16O](26Mg-16O.md) | LiTY |  |  | Named in the MgO section as updated with the isotopologue extrapolation procedure. |

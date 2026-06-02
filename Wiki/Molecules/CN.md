@@ -35,12 +35,12 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 2 | CN | Trihybrid | 4 | 10 000 | 3 | 2 285 103 | yes | [499] |
+| CN | Trihybrid | 4 | 10,000 | 3 | 2,285,103 | yes | [499] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 2 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [12C-14N](12C-14N.md) | Trihybrid | yes | yes | Listed explicitly in the ExoMolHR contents table. |
+| [12C-14N](12C-14N.md) | Trihybrid |  | yes | Listed explicitly in the ExoMolHR contents table. |

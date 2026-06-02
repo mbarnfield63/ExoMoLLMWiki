@@ -35,12 +35,12 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | TiO | Toto | 5 | 5000 | 13 | 58 983 952 | yes | [347] |
+| TiO | Toto | 5 | 5000 | 13 | 58,983,952 | yes | [347] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [48Ti-16O](48Ti-16O.md) | Toto | yes | yes | Listed explicitly in the ExoMolHR contents table. |
+| [48Ti-16O](48Ti-16O.md) | Toto |  | yes | Listed explicitly in the ExoMolHR contents table. |

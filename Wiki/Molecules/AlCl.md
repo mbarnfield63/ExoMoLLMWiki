@@ -36,13 +36,13 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Recommended Datasets
 
-| Source table | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL/high-res | Reference |
+| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1 | AlCl | YNAT | 2 | 5000 | 4 | 4 722 048 | yes | [361] |
+| AlCl | YNAT | 2 | 5000 | 4 | 4,722,048 | yes | [361] Source: [Raw/Sources/24TeYuZh.xml](Raw/Sources/24TeYuZh.xml) Table 1 |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [27Al-35Cl](27Al-35Cl.md) | YNAT | yes | yes | Listed explicitly in the ExoMolHR contents table. |
-| [27Al-37Cl](27Al-37Cl.md) | YNAT | yes | yes | Listed explicitly in the ExoMolHR contents table. |
+| [27Al-35Cl](27Al-35Cl.md) | YNAT |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [27Al-37Cl](27Al-37Cl.md) | YNAT |  | yes | Listed explicitly in the ExoMolHR contents table. |
