@@ -4,25 +4,29 @@ tags:
 title: "Oleksiy Smola"
 institution: ""
 orcid: ""
-primary_papers:
+primary_papers: []
+secondary_papers:
   - "24TeYuZh"
-secondary_papers: []
+  - "26YuBaBo"
 status: "seed"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-02"
 sources:
   - "Raw/Sources/24TeYuZh.xml"
-source_count: 1
-molecules: []
+  - "Raw/Sources/26YuBaBo.json"
+source_count: 2
+molecules:
+  - "CO2"
 ---
 
 # Oleksiy Smola
 
-Oleksiy Smola is listed as an author of the 2024 ExoMol database release. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml).
+Oleksiy Smola (also listed as Oleksiy A. Smola) is an author of the 2024 ExoMol database release and the Dozen CO2 line lists paper. Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.xml), [26YuBaBo](../../Raw/Sources/26YuBaBo.json).
 
-## Related Paper
+## Related Papers
 
 - [24TeYuZh](../Papers/24TeYuZh.md)
+- [26YuBaBo](../Papers/26YuBaBo.md)
 
 ## Related Methods
 

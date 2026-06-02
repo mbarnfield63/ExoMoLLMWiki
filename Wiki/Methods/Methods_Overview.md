@@ -1,5 +1,6 @@
 # Methods Overview
 
+- [ARCiS](ARCiS.md)
 - [Collisional Line Broadening](Collisional_Line_Broadening.md)
 - [Duo](Duo.md)
 - [EVEREST](EVEREST.md)
@@ -14,9 +15,12 @@
 - [LiDB](LiDB.md)
 - [MARVELization](MARVELization.md)
 - [MoLLIST](MoLLIST.md)
+- [NEMESIS](NEMESIS.md)
 - [Partition Functions](Partition_Functions.md)
 - [Photodissociation Cross-Sections](Photodissociation_Cross_Sections.md)
 - [Predicted Shift Method](Predicted_Shift_Method.md)
 - [Predissociative Line Broadening](Predissociative_Line_Broadening.md)
 - [Specific Heats and Cooling Functions](Specific_Heats_and_Cooling_Functions.md)
 - [TROVE](TROVE.md)
+- [TauREx](TauREx.md)
+- [petitRADTRANS](petitRADTRANS.md)

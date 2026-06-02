@@ -4,9 +4,9 @@ tags:
 title: "Oleg L. Polyansky"
 institution: ""
 orcid: ""
-primary_papers:
+primary_papers: []
+secondary_papers:
   - "24TeYuZh"
-secondary_papers: []
 status: "seed"
 created: "2026-05-29"
 updated: "2026-05-29"

@@ -97,9 +97,14 @@
 ## Isotopologue Notes
 - [12C-14N](12C-14N.md) - parent: CN
 - [12C-16O2](12C-16O2.md) - parent: CO2
+- [12C-17O2](12C-17O2.md) - parent: CO2
+- [12C-18O2](12C-18O2.md) - parent: CO2
 - [12C-1H4](12C-1H4.md) - parent: CH4
 - [12C2-1H2](12C2-1H2.md) - parent: C2H2
 - [12C2](12C2.md) - parent: C2
+- [13C-16O2](13C-16O2.md) - parent: CO2
+- [13C-17O2](13C-17O2.md) - parent: CO2
+- [13C-18O2](13C-18O2.md) - parent: CO2
 - [14N-16O](14N-16O.md) - parent: NO
 - [14N-1H](14N-1H.md) - parent: NH
 - [14N-1H3](14N-1H3.md) - parent: NH3
@@ -108,7 +113,13 @@
 - [15N-1H](15N-1H.md) - parent: NH
 - [15N-1H3](15N-1H3.md) - parent: NH3
 - [15N-2H](15N-2H.md) - parent: NH
+- [16O-12C-17O](16O-12C-17O.md) - parent: CO2
+- [16O-12C-18O](16O-12C-18O.md) - parent: CO2
 - [16O-12C-32S](16O-12C-32S.md) - parent: OCS
+- [16O-13C-17O](16O-13C-17O.md) - parent: CO2
+- [16O-13C-18O](16O-13C-18O.md) - parent: CO2
+- [17O-12C-18O](17O-12C-18O.md) - parent: CO2
+- [17O-13C-18O](17O-13C-18O.md) - parent: CO2
 - [1H-2H-16O](1H-2H-16O.md) - parent: H2O
 - [1H2-12C-16O](1H2-12C-16O.md) - parent: H2CO
 - [1H2-12C-32S](1H2-12C-32S.md) - parent: H2CS
