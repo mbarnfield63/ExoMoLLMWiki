@@ -66,6 +66,23 @@ When asked to run `/init`, read in order:
 - **No autonomous git commits** — stage changes with `git add`, then wait for human approval before committing.
 - After any wiki changes, run: `python scripts/wiki_tool.py build`, then `lint`, then `source-scan --update --accept-covered`, then `source-lint`.
 
+### 6. Paper Linking Scheme (enforced on every ingest)
+Every molecule/isotopologue file updated during an ingest must contain **two distinct link types** for the ingested paper:
+
+1. **Wiki paper note link** — used in body narrative and intro header:
+   ```markdown
+   [24McBoKe](../Papers/24McBoKe.md)
+   ```
+   This is what creates Obsidian backlinks and enables wiki navigation. Every mention of a bibcode in body text (intro line, Line List section, Evidence narrative, MOC table Evidence column) must be a clickable link to the paper note.
+
+2. **Raw source citation** — kept at the end of each Evidence paragraph:
+   ```markdown
+   Source: [24McBoKe](../../Raw/Sources/24McBoKe.json)
+   ```
+   This satisfies the traceability requirement (AGENTS.md rule 2). At least one raw source link must remain in the body text of every wiki note.
+
+**Pre-commit check:** After completing an ingest, grep the updated molecule/isotopologue files to confirm `../Papers/<bibcode>.md` links are present. Plain-text bibcode mentions and links pointing only to `../../Raw/Sources/` are a linking defect.
+
 ## Architecture Summary
 
 ```
