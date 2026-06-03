@@ -2,28 +2,33 @@
 tags:
   - "person"
 title: "Mikhail Semenov"
-institution: ""
+institution: "UCL"
 orcid: ""
-primary_papers: []
+primary_papers:
+  - "24SeElYu"
 secondary_papers:
   - "24TeYuZh"
 status: "seed"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-03"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
-molecules: []
+  - "Raw/Sources/24SeElYu.json"
+source_count: 2
+molecules:
+  - "PN"
 ---
 
 # Mikhail Semenov
 
-Mikhail Semenov is listed as an author of the 2024 ExoMol database release. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+Mikhail Semenov (UCL) is lead author of the ExoMol LXIV PaiN line list for PN, and co-author of the 2024 ExoMol database release. Sources: [24SeElYu](../../Raw/Sources/24SeElYu.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
-## Related Paper
+## Related Papers
 
+- [24SeElYu](../Papers/24SeElYu.md)
 - [24TeYuZh](../Papers/24TeYuZh.md)
 
 ## Related Methods
 
 - [ExoMol Database](../Methods/ExoMol_Database.md)
+- [Duo](../Methods/Duo.md)

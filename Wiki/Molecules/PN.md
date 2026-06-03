@@ -19,28 +19,30 @@ associated_methods:
   - "ExoMol Database"
   - "MARVELization"
   - "ExoMolHR"
+  - "Duo"
 applications:
   - "Exoplanet Atmospheres"
-status: "seed"
+status: "complete"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-03"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
+  - "Raw/Sources/24SeElYu.json"
+source_count: 2
 ---
 
 # PN
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+Phosphorus mononitride. Formula-level MOC; isotopologue data is in separate files. Sources: [24SeElYu](../../Raw/Sources/24SeElYu.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Recommended Datasets
 
-| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PN | PaiN | 1 | 5000 | 1 | 634,243 | yes | [375] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| Molecule | Dataset | T max (K) | Electronic states | Transitions | MARVEL | Reference |
+| --- | --- | --- | --- | --- | --- | --- |
+| PN | PaiN | 5,000 | X¹Σ⁺, A¹Π | 1,333,445 | yes | [24SeElYu](../Papers/24SeElYu.md) |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [31P-14N](31P-14N.md) | PaiN |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [31P-14N](31P-14N.md) | PaiN | yes (1224 levels) | yes | [24SeElYu](../Papers/24SeElYu.md), [24TeYuZh](../Papers/24TeYuZh.md) |

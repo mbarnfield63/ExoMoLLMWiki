@@ -21,6 +21,7 @@
 - [Maire N. Gorman](M_N_Gorman.md)
 - [Marco Pezzella](M_Pezzella.md)
 - [Mikhail Semenov](M_Semenov.md)
+- [Nayla El-Kork](N_El-Kork.md)
 - [Nikolai F. Zobov](N_F_Zobov.md)
 - [Oleg L. Polyansky](O_L_Polyansky.md)
 - [Oleksiy Smola](O_Smola.md)

@@ -1,5 +1,6 @@
 # Papers Overview
 
+- [ExoMol line lists -- LXIV: Empirical rovibronic spectra of phosphorous mononitride (PN) covering the IR and UV regions](24SeElYu.md)
 - [The 2024 release of the ExoMol database: Molecular line lists for exoplanet and other hot atmospheres](24TeYuZh.md)
 - [ExoMol line lists -- LX. Molecular line list for the ammonia isotopologue 15NH3](24YuBoBr.md)
 - [ExoMol line lists -- LIX. High-temperature line list for N2O](24YuMeTe.md)
