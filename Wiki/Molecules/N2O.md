@@ -11,6 +11,10 @@ aliases:
   - "nitrous oxide"
 isotopologues:
   - "14N2-16O"
+  - "14N2-17O"
+  - "14N2-18O"
+  - "14N-15N-16O"
+  - "15N-14N-16O"
 line_list: ""
 marvel_data:
   is_marvelized: null
@@ -24,15 +28,16 @@ applications:
   - "Exoplanet Atmospheres"
 status: "seed"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-03"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
+  - "Raw/Sources/24YuMeTe.json"
+source_count: 2
 ---
 
 # N2O
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+This formula-level MOC records molecule-level line-list coverage. Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24YuMeTe](../../Raw/Sources/24YuMeTe.json).
 
 ## Recommended Datasets
 
@@ -44,4 +49,8 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [14N2-16O](14N2-16O.md) | TYM |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [14N2-16O](14N2-16O.md) | TYM | yes | yes | Parent isotopologue; MARVELised with 17,532 levels. Source: [24YuMeTe](../../Raw/Sources/24YuMeTe.json) |
+| [14N2-17O](14N2-17O.md) | TYM | no | — | Singly-substituted ¹⁷O. Source: [24YuMeTe](../../Raw/Sources/24YuMeTe.json) |
+| [14N2-18O](14N2-18O.md) | TYM | no | — | Singly-substituted ¹⁸O. Source: [24YuMeTe](../../Raw/Sources/24YuMeTe.json) |
+| [14N-15N-16O](14N-15N-16O.md) | TYM | no | — | Singly-substituted inner ¹⁵N. Source: [24YuMeTe](../../Raw/Sources/24YuMeTe.json) |
+| [15N-14N-16O](15N-14N-16O.md) | TYM | no | — | Singly-substituted outer ¹⁵N. Source: [24YuMeTe](../../Raw/Sources/24YuMeTe.json) |

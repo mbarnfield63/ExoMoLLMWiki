@@ -105,11 +105,15 @@
 - [13C-16O2](13C-16O2.md) - parent: CO2
 - [13C-17O2](13C-17O2.md) - parent: CO2
 - [13C-18O2](13C-18O2.md) - parent: CO2
+- [14N-15N-16O](14N-15N-16O.md) - parent: N2O
 - [14N-16O](14N-16O.md) - parent: NO
 - [14N-1H](14N-1H.md) - parent: NH
 - [14N-1H3](14N-1H3.md) - parent: NH3
 - [14N-2H](14N-2H.md) - parent: NH
 - [14N2-16O](14N2-16O.md) - parent: N2O
+- [14N2-17O](14N2-17O.md) - parent: N2O
+- [14N2-18O](14N2-18O.md) - parent: N2O
+- [15N-14N-16O](15N-14N-16O.md) - parent: N2O
 - [15N-1H](15N-1H.md) - parent: NH
 - [15N-1H3](15N-1H3.md) - parent: NH3
 - [15N-2H](15N-2H.md) - parent: NH
