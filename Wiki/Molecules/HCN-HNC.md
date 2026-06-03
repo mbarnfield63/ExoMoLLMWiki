@@ -1,6 +1,4 @@
 ﻿---
----
----
 tags:
   - molecule
 formula: ""

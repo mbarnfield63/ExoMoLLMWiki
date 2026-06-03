@@ -1,72 +1,6 @@
 # Molecules Overview
 
 ## Formula MOCs
-- [12C-14N](12C-14N.md)
-- [12C-16O2](12C-16O2.md)
-- [12C-1H4](12C-1H4.md)
-- [12C2-1H2](12C2-1H2.md)
-- [12C2](12C2.md)
-- [14N-16O](14N-16O.md)
-- [14N-1H](14N-1H.md)
-- [14N-1H3](14N-1H3.md)
-- [14N-2H](14N-2H.md)
-- [14N2-16O](14N2-16O.md)
-- [15N-1H](15N-1H.md)
-- [15N-1H3](15N-1H3.md)
-- [15N-2H](15N-2H.md)
-- [16O-12C-32S](16O-12C-32S.md)
-- [1H-2H-16O](1H-2H-16O.md)
-- [1H2-12C-16O](1H2-12C-16O.md)
-- [1H2-12C-32S](1H2-12C-32S.md)
-- [1H2-14O](1H2-14O.md)
-- [1H2-15O](1H2-15O.md)
-- [1H2-16O](1H2-16O.md)
-- [1H2-17O](1H2-17O.md)
-- [1H2-18O](1H2-18O.md)
-- [1H2-19O](1H2-19O.md)
-- [1H2-2H+](1H2-2H+.md)
-- [1H2-32S](1H2-32S.md)
-- [1H3+](1H3+.md)
-- [1H3-16O+](1H3-16O+.md)
-- [24Mg-17O](24Mg-17O.md)
-- [24Mg-18O](24Mg-18O.md)
-- [24Mg-1H](24Mg-1H.md)
-- [25Mg-16O](25Mg-16O.md)
-- [25Mg-1H](25Mg-1H.md)
-- [26Al-16O](26Al-16O.md)
-- [26Mg-16O](26Mg-16O.md)
-- [26Mg-1H](26Mg-1H.md)
-- [27Al-16O](27Al-16O.md)
-- [27Al-17O](27Al-17O.md)
-- [27Al-18O](27Al-18O.md)
-- [27Al-1H](27Al-1H.md)
-- [27Al-35Cl](27Al-35Cl.md)
-- [27Al-37Cl](27Al-37Cl.md)
-- [28Si-14N](28Si-14N.md)
-- [28Si-15N](28Si-15N.md)
-- [28Si-16O](28Si-16O.md)
-- [29Si-14N](29Si-14N.md)
-- [2H2-1H+](2H2-1H+.md)
-- [2H3+](2H3+.md)
-- [30Si-14N](30Si-14N.md)
-- [31P-14N](31P-14N.md)
-- [32S-16O](32S-16O.md)
-- [32S-16O2](32S-16O2.md)
-- [40Ca-16O-1H](40Ca-16O-1H.md)
-- [40Ca-1H](40Ca-1H.md)
-- [48Ti-16O](48Ti-16O.md)
-- [51V-16O](51V-16O.md)
-- [6Li-16O-1H](6Li-16O-1H.md)
-- [7Li-16O-1H](7Li-16O-1H.md)
-- [89Y-16O](89Y-16O.md)
-- [89Y-17O](89Y-17O.md)
-- [89Y-18O](89Y-18O.md)
-- [90Zr-16O](90Zr-16O.md)
-- [91Zr-16O](91Zr-16O.md)
-- [92Zr-16O](92Zr-16O.md)
-- [93Zr-16O](93Zr-16O.md)
-- [94Zr-16O](94Zr-16O.md)
-- [96Zr-16O](96Zr-16O.md)
 - [AlCl](AlCl.md)
 - [AlF](AlF.md)
 - [AlH](AlH.md)
@@ -161,14 +95,80 @@
 - [ZrO](ZrO.md)
 
 ## Isotopologue Notes
+- [12C-14N](12C-14N.md) - parent: CN
+- [12C-16O2](12C-16O2.md) - parent: CO2
 - [12C-17O2](12C-17O2.md) - parent: CO2
 - [12C-18O2](12C-18O2.md) - parent: CO2
+- [12C-1H4](12C-1H4.md) - parent: CH4
+- [12C2-1H2](12C2-1H2.md) - parent: C2H2
+- [12C2](12C2.md) - parent: C2
 - [13C-16O2](13C-16O2.md) - parent: CO2
 - [13C-17O2](13C-17O2.md) - parent: CO2
 - [13C-18O2](13C-18O2.md) - parent: CO2
+- [14N-16O](14N-16O.md) - parent: NO
+- [14N-1H](14N-1H.md) - parent: NH
+- [14N-1H3](14N-1H3.md) - parent: NH3
+- [14N-2H](14N-2H.md) - parent: NH
+- [14N2-16O](14N2-16O.md) - parent: N2O
+- [15N-1H](15N-1H.md) - parent: NH
+- [15N-1H3](15N-1H3.md) - parent: NH3
+- [15N-2H](15N-2H.md) - parent: NH
 - [16O-12C-17O](16O-12C-17O.md) - parent: CO2
 - [16O-12C-18O](16O-12C-18O.md) - parent: CO2
+- [16O-12C-32S](16O-12C-32S.md) - parent: OCS
 - [16O-13C-17O](16O-13C-17O.md) - parent: CO2
 - [16O-13C-18O](16O-13C-18O.md) - parent: CO2
 - [17O-12C-18O](17O-12C-18O.md) - parent: CO2
 - [17O-13C-18O](17O-13C-18O.md) - parent: CO2
+- [1H-2H-16O](1H-2H-16O.md) - parent: H2O
+- [1H2-12C-16O](1H2-12C-16O.md) - parent: H2CO
+- [1H2-12C-32S](1H2-12C-32S.md) - parent: H2CS
+- [1H2-14O](1H2-14O.md) - parent: H2O
+- [1H2-15O](1H2-15O.md) - parent: H2O
+- [1H2-16O](1H2-16O.md) - parent: H2O
+- [1H2-17O](1H2-17O.md) - parent: H2O
+- [1H2-18O](1H2-18O.md) - parent: H2O
+- [1H2-19O](1H2-19O.md) - parent: H2O
+- [1H2-2H+](1H2-2H+.md) - parent: H3+
+- [1H2-32S](1H2-32S.md) - parent: H2S
+- [1H3+](1H3+.md) - parent: H3+
+- [1H3-16O+](1H3-16O+.md) - parent: H3O+
+- [24Mg-17O](24Mg-17O.md) - parent: MgO
+- [24Mg-18O](24Mg-18O.md) - parent: MgO
+- [24Mg-1H](24Mg-1H.md) - parent: MgH
+- [25Mg-16O](25Mg-16O.md) - parent: MgO
+- [25Mg-1H](25Mg-1H.md) - parent: MgH
+- [26Al-16O](26Al-16O.md) - parent: AlO
+- [26Mg-16O](26Mg-16O.md) - parent: MgO
+- [26Mg-1H](26Mg-1H.md) - parent: MgH
+- [27Al-16O](27Al-16O.md) - parent: AlO
+- [27Al-17O](27Al-17O.md) - parent: AlO
+- [27Al-18O](27Al-18O.md) - parent: AlO
+- [27Al-1H](27Al-1H.md) - parent: AlH
+- [27Al-35Cl](27Al-35Cl.md) - parent: AlCl
+- [27Al-37Cl](27Al-37Cl.md) - parent: AlCl
+- [28Si-14N](28Si-14N.md) - parent: SiN
+- [28Si-15N](28Si-15N.md) - parent: SiN
+- [28Si-16O](28Si-16O.md) - parent: SiO
+- [29Si-14N](29Si-14N.md) - parent: SiN
+- [2H2-1H+](2H2-1H+.md) - parent: H3+
+- [2H3+](2H3+.md) - parent: H3+
+- [30Si-14N](30Si-14N.md) - parent: SiN
+- [31P-14N](31P-14N.md) - parent: PN
+- [32S-16O](32S-16O.md) - parent: SO
+- [32S-16O2](32S-16O2.md) - parent: SO2
+- [40Ca-16O-1H](40Ca-16O-1H.md) - parent: CaOH
+- [40Ca-1H](40Ca-1H.md) - parent: CaH
+- [48Ti-16O](48Ti-16O.md) - parent: TiO
+- [51V-16O](51V-16O.md) - parent: VO
+- [6Li-16O-1H](6Li-16O-1H.md) - parent: LiOH
+- [7Li-16O-1H](7Li-16O-1H.md) - parent: LiOH
+- [89Y-16O](89Y-16O.md) - parent: YO
+- [89Y-17O](89Y-17O.md) - parent: YO
+- [89Y-18O](89Y-18O.md) - parent: YO
+- [90Zr-16O](90Zr-16O.md) - parent: ZrO
+- [91Zr-16O](91Zr-16O.md) - parent: ZrO
+- [92Zr-16O](92Zr-16O.md) - parent: ZrO
+- [93Zr-16O](93Zr-16O.md) - parent: ZrO
+- [94Zr-16O](94Zr-16O.md) - parent: ZrO
+- [96Zr-16O](96Zr-16O.md) - parent: ZrO

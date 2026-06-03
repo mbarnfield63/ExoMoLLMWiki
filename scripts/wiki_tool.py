@@ -47,7 +47,7 @@ def today() -> str:
 
 
 def read_text(path: Path) -> str:
-    return path.read_text(encoding="utf-8")
+    return path.read_text(encoding="utf-8-sig")
 
 
 def write_text(path: Path, text: str) -> None:
