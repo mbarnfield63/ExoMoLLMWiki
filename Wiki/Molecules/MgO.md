@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - "molecule"
 formula: "MgO"
@@ -9,32 +9,36 @@ parent_molecule: ""
 exomol_id: ""
 aliases: []
 isotopologues:
+  - "24Mg-16O"
   - "24Mg-17O"
   - "24Mg-18O"
   - "25Mg-16O"
   - "26Mg-16O"
 line_list: ""
 marvel_data:
-  is_marvelized: null
+  is_marvelized: true
   latest_source_year: null
-  energy_levels: null
+  energy_levels: 820
 associated_methods:
   - "ExoMol Database"
   - "MARVELization"
+  - "Predicted Shift Method"
+  - "Isotopologue Extrapolation"
 applications:
   - "Exoplanet Atmospheres"
   - "Lava Planets"
-status: "seed"
+status: "complete"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-03"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
+  - "Raw/Sources/24McBoKe.json"
+source_count: 2
 ---
 
 # MgO
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+Formula-level MOC for magnesium oxide. Five isotopologues covered. Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24McBoKe](../../Raw/Sources/24McBoKe.json).
 
 ## Recommended Datasets
 
@@ -44,9 +48,10 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 ## Named Isotopologues
 
-| Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
-| --- | --- | --- | --- | --- |
-| [24Mg-17O](24Mg-17O.md) | LiTY |  |  | Named in the MgO section as updated with the isotopologue extrapolation procedure. |
-| [24Mg-18O](24Mg-18O.md) | LiTY |  |  | Named in the MgO section as updated with the isotopologue extrapolation procedure. |
-| [25Mg-16O](25Mg-16O.md) | LiTY |  |  | Named in the MgO section as updated with the isotopologue extrapolation procedure. |
-| [26Mg-16O](26Mg-16O.md) | LiTY |  |  | Named in the MgO section as updated with the isotopologue extrapolation procedure. |
+| Isotopologue | Line list | MARVEL | Evidence |
+| --- | --- | --- | --- |
+| [24Mg-16O](24Mg-16O.md) | LiTY | 820 energy levels | Main isotopologue; MARVEL + PS update in 24McBoKe. |
+| [24Mg-17O](24Mg-17O.md) | LiTY | IE | Updated via isotopologue extrapolation in 24McBoKe. |
+| [24Mg-18O](24Mg-18O.md) | LiTY | IE | Updated via isotopologue extrapolation in 24McBoKe. |
+| [25Mg-16O](25Mg-16O.md) | LiTY | IE | Updated via isotopologue extrapolation in 24McBoKe. |
+| [26Mg-16O](26Mg-16O.md) | LiTY | IE | Updated via isotopologue extrapolation in 24McBoKe. |

@@ -1,6 +1,7 @@
 # People Overview
 
 - [A.E. Lynas-Gray](A_E_Lynas-Gray.md)
+- [Anna-Maree Syme](A_M_Syme.md)
 - [Armando N. Perri](A_N_Perri.md)
 - [Alec Owens](A_Owens.md)
 - [Andrei Solokov](A_Solokov.md)

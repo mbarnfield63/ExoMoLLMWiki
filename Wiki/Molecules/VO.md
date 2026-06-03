@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - "molecule"
 formula: "VO"
@@ -12,26 +12,29 @@ isotopologues:
   - "51V-16O"
 line_list: ""
 marvel_data:
-  is_marvelized: null
+  is_marvelized: true
   latest_source_year: null
   energy_levels: null
 associated_methods:
   - "ExoMol Database"
   - "MARVELization"
   - "ExoMolHR"
+  - "Predicted Shift Method"
 applications:
   - "Exoplanet Atmospheres"
-status: "seed"
+  - "Stellar Atmospheres"
+status: "complete"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-03"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
+  - "Raw/Sources/24McBoKe.json"
+source_count: 2
 ---
 
 # VO
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+Formula-level MOC for vanadium oxide. Main isotopologue: 51V-16O (HyVO, hyperfine-resolved). Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24McBoKe](../../Raw/Sources/24McBoKe.json).
 
 ## Recommended Datasets
 
@@ -43,4 +46,4 @@ This formula-level MOC records molecule-level line-list coverage mentioned in th
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [51V-16O](51V-16O.md) | HyVO |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [51V-16O](51V-16O.md) | HyVO | 28,760 Ma; 4,813 hyperfine-unresolved | yes | Hyperfine-resolved line list; details in 24McBoKe. |
