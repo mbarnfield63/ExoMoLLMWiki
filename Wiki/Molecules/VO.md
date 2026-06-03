@@ -34,7 +34,7 @@ source_count: 2
 
 # VO
 
-Formula-level MOC for vanadium oxide. Main isotopologue: 51V-16O (HyVO, hyperfine-resolved). Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24McBoKe](../../Raw/Sources/24McBoKe.json).
+Formula-level MOC for vanadium oxide. Main isotopologue: 51V-16O (HyVO, hyperfine-resolved). Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24McBoKe](../Papers/24McBoKe.md).
 
 ## Recommended Datasets
 
@@ -46,4 +46,4 @@ Formula-level MOC for vanadium oxide. Main isotopologue: 51V-16O (HyVO, hyperfin
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [51V-16O](51V-16O.md) | HyVO | 28,760 Ma; 4,813 hyperfine-unresolved | yes | Hyperfine-resolved line list; details in 24McBoKe. |
+| [51V-16O](51V-16O.md) | HyVO | 28,760 Ma; 4,813 hyperfine-unresolved | yes | Hyperfine-resolved line list; details in [24McBoKe](../Papers/24McBoKe.md). |

@@ -39,7 +39,7 @@ source_count: 2
 
 # TiO
 
-Formula-level MOC for titanium oxide. Five isotopologues covered by Toto (2024). Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24McBoKe](../../Raw/Sources/24McBoKe.json).
+Formula-level MOC for titanium oxide. Five isotopologues covered by Toto (2024). Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24McBoKe](../Papers/24McBoKe.md).
 
 ## Recommended Datasets
 
@@ -51,8 +51,8 @@ Formula-level MOC for titanium oxide. Five isotopologues covered by Toto (2024).
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [46Ti-16O](46Ti-16O.md) | Toto | IE |  | .states updated via IE in 2024 Toto update (24McBoKe). |
-| [47Ti-16O](47Ti-16O.md) | Toto | IE |  | .states updated via IE in 2024 Toto update (24McBoKe). |
-| [48Ti-16O](48Ti-16O.md) | Toto | 12,164 energy levels (2024) | yes | Main isotopologue; 2024 MARVEL update in 24McBoKe. |
-| [49Ti-16O](49Ti-16O.md) | Toto | IE |  | .states updated via IE in 2024 Toto update (24McBoKe). |
-| [50Ti-16O](50Ti-16O.md) | Toto | IE |  | .states updated via IE in 2024 Toto update (24McBoKe). |
+| [46Ti-16O](46Ti-16O.md) | Toto | IE |  | .states updated via IE in 2024 Toto update ([24McBoKe](../Papers/24McBoKe.md)). |
+| [47Ti-16O](47Ti-16O.md) | Toto | IE |  | .states updated via IE in 2024 Toto update ([24McBoKe](../Papers/24McBoKe.md)). |
+| [48Ti-16O](48Ti-16O.md) | Toto | 12,164 energy levels (2024) | yes | Main isotopologue; 2024 MARVEL update in [24McBoKe](../Papers/24McBoKe.md). |
+| [49Ti-16O](49Ti-16O.md) | Toto | IE |  | .states updated via IE in 2024 Toto update ([24McBoKe](../Papers/24McBoKe.md)). |
+| [50Ti-16O](50Ti-16O.md) | Toto | IE |  | .states updated via IE in 2024 Toto update ([24McBoKe](../Papers/24McBoKe.md)). |

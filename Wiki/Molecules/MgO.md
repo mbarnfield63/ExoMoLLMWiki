@@ -38,7 +38,7 @@ source_count: 2
 
 # MgO
 
-Formula-level MOC for magnesium oxide. Five isotopologues covered. Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24McBoKe](../../Raw/Sources/24McBoKe.json).
+Formula-level MOC for magnesium oxide. Five isotopologues covered. Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24McBoKe](../Papers/24McBoKe.md).
 
 ## Recommended Datasets
 
@@ -50,8 +50,8 @@ Formula-level MOC for magnesium oxide. Five isotopologues covered. Sources: [24T
 
 | Isotopologue | Line list | MARVEL | Evidence |
 | --- | --- | --- | --- |
-| [24Mg-16O](24Mg-16O.md) | LiTY | 820 energy levels | Main isotopologue; MARVEL + PS update in 24McBoKe. |
-| [24Mg-17O](24Mg-17O.md) | LiTY | IE | Updated via isotopologue extrapolation in 24McBoKe. |
-| [24Mg-18O](24Mg-18O.md) | LiTY | IE | Updated via isotopologue extrapolation in 24McBoKe. |
-| [25Mg-16O](25Mg-16O.md) | LiTY | IE | Updated via isotopologue extrapolation in 24McBoKe. |
-| [26Mg-16O](26Mg-16O.md) | LiTY | IE | Updated via isotopologue extrapolation in 24McBoKe. |
+| [24Mg-16O](24Mg-16O.md) | LiTY | 820 energy levels | Main isotopologue; MARVEL + PS update in [24McBoKe](../Papers/24McBoKe.md). |
+| [24Mg-17O](24Mg-17O.md) | LiTY | IE | Updated via isotopologue extrapolation in [24McBoKe](../Papers/24McBoKe.md). |
+| [24Mg-18O](24Mg-18O.md) | LiTY | IE | Updated via isotopologue extrapolation in [24McBoKe](../Papers/24McBoKe.md). |
+| [25Mg-16O](25Mg-16O.md) | LiTY | IE | Updated via isotopologue extrapolation in [24McBoKe](../Papers/24McBoKe.md). |
+| [26Mg-16O](26Mg-16O.md) | LiTY | IE | Updated via isotopologue extrapolation in [24McBoKe](../Papers/24McBoKe.md). |
