@@ -67,6 +67,7 @@
 - [NaH](NaH.md)
 - [NaO](NaO.md)
 - [NaOH](NaOH.md)
+- [NiH](NiH.md)
 - [OCS](OCS.md)
 - [OH](OH.md)
 - [P2H2](P2H2.md)
@@ -173,6 +174,10 @@
 - [49Ti-16O](49Ti-16O.md) - parent: TiO
 - [50Ti-16O](50Ti-16O.md) - parent: TiO
 - [51V-16O](51V-16O.md) - parent: VO
+- [58Ni-1H](58Ni-1H.md) - parent: NiH
+- [58Ni-2H](58Ni-2H.md) - parent: NiH
+- [60Ni-1H](60Ni-1H.md) - parent: NiH
+- [62Ni-1H](62Ni-1H.md) - parent: NiH
 - [6Li-16O-1H](6Li-16O-1H.md) - parent: LiOH
 - [7Li-16O-1H](7Li-16O-1H.md) - parent: LiOH
 - [89Y-16O](89Y-16O.md) - parent: YO

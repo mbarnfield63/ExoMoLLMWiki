@@ -18,6 +18,7 @@ secondary_papers:
   - "26YuBaBo"
   - "24SeElYu"
   - "24LyPoTe"
+  - "24BaYuOw"
 status: "seed"
 created: "2026-05-21"
 updated: "2026-06-04"
@@ -29,13 +30,15 @@ sources:
   - "Raw/Sources/26YuBaBo.json"
   - "Raw/Sources/24SeElYu.json"
   - "Raw/Sources/24LyPoTe.json"
-source_count: 7
+  - "Raw/Sources/24BaYuOw.json"
+source_count: 8
 molecules:
   - "CO2"
   - "C3"
   - "MgO"
   - "N2O"
   - "NH3"
+  - "NiH"
   - "PN"
   - "TiO"
   - "VO"
@@ -43,7 +46,7 @@ molecules:
 
 # Jonathan Tennyson
 
-Jonathan Tennyson (UCL) is lead author of the 2024 ExoMol database release, co-author of the hybrid diatomic line list paper (MgO, TiO, VO), co-author of the ExoMol LX ¹⁵NH₃ CoYuTe-15 line list paper, co-author of the N₂O TYM line lists paper, co-author of the Dozen CO₂ line lists paper, co-author of the ExoMol LXIV PN PaiN line list paper, and co-author of the ExoMol LXII C₃ AtLast line list paper. Sources: [24McBoKe](../../Raw/Sources/24McBoKe.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24YuBoBr](../../Raw/Sources/24YuBoBr.json), [24YuMeTe](../../Raw/Sources/24YuMeTe.json), [26YuBaBo](../../Raw/Sources/26YuBaBo.json), [24SeElYu](../../Raw/Sources/24SeElYu.json), [24LyPoTe](../../Raw/Sources/24LyPoTe.json).
+Jonathan Tennyson (UCL) is lead author of the 2024 ExoMol database release, co-author of the hybrid diatomic line list paper (MgO, TiO, VO), co-author of the ExoMol LX ¹⁵NH₃ CoYuTe-15 line list paper, co-author of the N₂O TYM line lists paper, co-author of the Dozen CO₂ line lists paper, co-author of the ExoMol LXIV PN PaiN line list paper, co-author of the ExoMol LXII C₃ AtLast line list paper, and co-author of the ExoMol LXV NiH BYOT line list paper. Sources: [24McBoKe](../../Raw/Sources/24McBoKe.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24YuBoBr](../../Raw/Sources/24YuBoBr.json), [24YuMeTe](../../Raw/Sources/24YuMeTe.json), [26YuBaBo](../../Raw/Sources/26YuBaBo.json), [24SeElYu](../../Raw/Sources/24SeElYu.json), [24LyPoTe](../../Raw/Sources/24LyPoTe.json), [24BaYuOw](../../Raw/Sources/24BaYuOw.json).
 
 ## Related Papers
 
@@ -54,6 +57,7 @@ Jonathan Tennyson (UCL) is lead author of the 2024 ExoMol database release, co-a
 - [26YuBaBo](../Papers/26YuBaBo.md)
 - [24SeElYu](../Papers/24SeElYu.md)
 - [24LyPoTe](../Papers/24LyPoTe.md)
+- [24BaYuOw](../Papers/24BaYuOw.md)
 
 ## Related Methods
 

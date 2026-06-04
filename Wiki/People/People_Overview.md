@@ -1,9 +1,12 @@
 # People Overview
 
 - [A.E. Lynas-Gray](A_E_Lynas-Gray.md)
+- [Amanda J. Ross](A_J_Ross.md)
 - [Anna-Maree Syme](A_M_Syme.md)
+- [Alexander Mitrushchenkov](A_Mitrushchenkov.md)
 - [Armando N. Perri](A_N_Perri.md)
 - [Alec Owens](A_Owens.md)
+- [Asen Pashov](A_Pashov.md)
 - [Andrei Solokov](A_Solokov.md)
 - [Apoorva Upadhyay](A_Upadhyay.md)
 - [Charles A. Bowesman](C_A_Bowesman.md)
@@ -15,6 +18,7 @@
 - [Jeanna Buldyreva](J_Buldyreva.md)
 - [Jonathan Tennyson](J_Tennyson.md)
 - [Jingxin Zhang](J_Zhang.md)
+- [Kirill Batrakov](K_Batrakov.md)
 - [Kyriaki Kefala](K_Kefala.md)
 - [Katy L. Chubb](K_L_Chubb.md)
 - [Laura K. McKemmish](L_K_McKemmish.md)
@@ -26,6 +30,7 @@
 - [Nikolai F. Zobov](N_F_Zobov.md)
 - [Oleg L. Polyansky](O_L_Polyansky.md)
 - [Oleksiy Smola](O_Smola.md)
+- [Patrick Crozet](P_Crozet.md)
 - [Qing-He Ni](Q_H_Ni.md)
 - [Qianwei Qu](Q_Qu.md)
 - [Ryan P. Brady](R_P_Brady.md)
