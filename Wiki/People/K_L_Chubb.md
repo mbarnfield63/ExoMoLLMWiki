@@ -3,7 +3,7 @@ tags:
   - "person"
 title: "Katy L. Chubb"
 affiliations:
-  - institution: "HH Wills Physics Laboratory"
+  - institution: "University of Bristol"
     department: "School of Physics"
     country: "UK"
     start_year: null

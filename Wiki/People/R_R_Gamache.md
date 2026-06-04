@@ -4,7 +4,7 @@ tags:
 title: "Robert R. Gamache"
 affiliations:
   - institution: "University of Massachusetts Lowell"
-    department: "Department of Environmental"
+    department: "Department of Environmental, Earth, and Atmospheric Sciences"
     country: "USA"
     start_year: null
     end_year: null
