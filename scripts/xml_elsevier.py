@@ -12,7 +12,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 from config import ELSEVIER
-from models import PaperMetadata
+from models import AuthorEntry, PaperMetadata
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -69,6 +69,48 @@ def creator_names(root: ET.Element) -> list[str]:
                 creators.append(name)
 
     return creators
+
+
+def extract_affiliation_map(root: ET.Element) -> dict[str, str]:
+    """Build {id: affiliation_text} from <ce:affiliation> elements."""
+    aff_map: dict[str, str] = {}
+    for element in root.iter():
+        if local_name(element.tag) == "affiliation":
+            aff_id = element.get("id", "")
+            if not aff_id:
+                continue
+            text = first_text(element, {"textfn"}) or element_text(element)
+            if text:
+                aff_map[aff_id] = text
+    return aff_map
+
+
+def extract_author_details(
+    root: ET.Element, aff_map: dict[str, str]
+) -> list[AuthorEntry]:
+    """Return per-author entries with resolved affiliations from <ce:author> elements."""
+    entries: list[AuthorEntry] = []
+    seen: set[str] = set()
+    for element in root.iter():
+        if local_name(element.tag) not in {"contrib", "author"}:
+            continue
+        surname = first_text(element, {"surname"})
+        given = first_text(element, {"given-names", "givenname", "firstname"})
+        if surname:
+            name = f"{given} {surname}".strip() if given else surname
+        else:
+            name = first_text(element, {"string-name", "name"})
+        if not name or name in seen:
+            continue
+        affiliations: list[str] = []
+        for child in element.iter():
+            if local_name(child.tag) == "cross-ref":
+                refid = child.get("refid", "")
+                if refid and refid in aff_map and aff_map[refid] not in affiliations:
+                    affiliations.append(aff_map[refid])
+        seen.add(name)
+        entries.append(AuthorEntry(name=name, affiliations=affiliations))
+    return entries
 
 
 def surname_from_name(name: str) -> str:
@@ -159,10 +201,13 @@ def extract_body_text(root: ET.Element) -> str:
 
 def build_metadata(root: ET.Element, *, doi: str, bibcode: str) -> PaperMetadata:
     year_str = publication_year(root)
+    aff_map = extract_affiliation_map(root)
+    details = extract_author_details(root, aff_map)
     return PaperMetadata(
         bibcode=bibcode,
         title=first_text(root, {"title", "ce:title", "dctitle"}),
         authors=creator_names(root),
+        author_details=details if details else None,
         year=int(year_str),
         doi=doi,
         journal=extract_journal(root),

@@ -2,7 +2,12 @@
 tags:
   - "person"
 title: "Nayla El-Kork"
-institution: "Khalifa University"
+affiliations:
+  - institution: "Khalifa University"
+    department: "Space and Planetary Science Center"
+    country: "UAE"
+    start_year: null
+    end_year: null
 orcid: ""
 primary_papers: []
 secondary_papers:

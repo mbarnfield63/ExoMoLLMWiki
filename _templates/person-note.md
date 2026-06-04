@@ -1,7 +1,7 @@
 ---
 tags:
   - person
-institution: ""
+affiliations: []
 orcid: ""
 primary_papers: []
 secondary_papers: []

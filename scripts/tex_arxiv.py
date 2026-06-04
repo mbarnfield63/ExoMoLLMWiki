@@ -16,7 +16,7 @@ import re
 import sys
 from pathlib import Path
 
-from models import PaperMetadata
+from models import AuthorEntry, PaperMetadata
 
 ROOT = Path(__file__).resolve().parents[1]
 RAW_SOURCES = ROOT / "Raw" / "Sources"
@@ -234,20 +234,89 @@ def _extract_title(tex: str, commands: dict[str, tuple[int, str]]) -> str:
     return re.sub(r"\s+", " ", title).strip()
 
 
-def _extract_authors(tex: str) -> list[str]:
-    # \author[...]{...}  — ends before \date or \begin{document}
+def _split_author_block(tex: str) -> tuple[str, str]:
+    """Return (names_part, affiliations_part) from \\author{...} block."""
     m = re.search(r"\\author\s*(?:\[[^\]]*\])?\s*\{", tex)
     if not m:
-        return []
+        return "", ""
     raw, _ = _extract_braced(tex, m.end() - 1)
     raw = _strip_comments(raw)
-    raw = re.sub(r"\\thanks\{[^}]*\}", "", raw)       # strip \thanks{...}
-    raw = re.sub(r"\\\\.*", "", raw, flags=re.DOTALL)  # strip affiliation after \\
-    raw = re.sub(r"\\(?:newauthor|and|noindent)\b", ",", raw)
-    raw = re.sub(r"\\[A-Za-z]+\*?", "", raw)
-    raw = re.sub(r"[{}]", "", raw)
-    parts = [p.strip().strip(",").strip() for p in re.split(r",|\n", raw)]
+    parts = re.split(r"\\\\", raw, maxsplit=1)
+    return parts[0], parts[1] if len(parts) > 1 else ""
+
+
+def _parse_affiliation_lines(block: str) -> dict[int, str]:
+    """Parse $^N$ affiliation lines from the post-\\\\ author block."""
+    aff_map: dict[int, str] = {}
+    block = re.sub(r"\\thanks\{[^}]*\}", "", block)
+    for line in re.split(r"\\\\|\n", block):
+        line = line.strip()
+        m = re.match(r"\$\^\{?(\d+)\}?\$\s*(.*)", line)
+        if not m:
+            continue
+        idx = int(m.group(1))
+        text = re.sub(r"\\[A-Za-z]+\*?", " ", m.group(2))
+        text = re.sub(r"[{}\\]", "", text)
+        text = re.sub(r"\s+", " ", text).strip().strip(",").strip()
+        if text and len(text) > 3:
+            aff_map[idx] = text
+    return aff_map
+
+
+def _extract_superscripts(name: str) -> tuple[str, list[int]]:
+    """Return (clean_name, [marker_ints]) stripping $^1$ / $^{1,2}$ patterns."""
+    markers: list[int] = []
+    for m in re.finditer(r"\$\^\{?([0-9,]+)\}?\$?", name):
+        for num in m.group(1).split(","):
+            num = num.strip()
+            if num.isdigit():
+                markers.append(int(num))
+    clean = re.sub(r"\$\^\{?[0-9,]+\}?\$?", "", name)
+    return re.sub(r"\s+", " ", clean).strip(), markers
+
+
+def _resolve_author_affiliations(
+    names_part: str, aff_map: dict[int, str]
+) -> list[AuthorEntry]:
+    """Build AuthorEntry list by resolving superscript markers to affiliation text."""
+    names_part = re.sub(r"\\thanks\{[^}]*\}", "", names_part)
+    names_part = re.sub(r"\\(?:newauthor|and|noindent)\b", ",", names_part)
+    names_part = re.sub(r"\\[A-Za-z]+\*?", "", names_part)
+    names_part = re.sub(r"[{}]", "", names_part)
+    raw_names = [p.strip().strip(",").strip() for p in re.split(r",|\n", names_part)]
+    entries: list[AuthorEntry] = []
+    for raw_name in raw_names:
+        clean_name, markers = _extract_superscripts(raw_name)
+        if len(clean_name) <= 2 or not re.search(r"[A-Za-z]", clean_name):
+            continue
+        affiliations = [aff_map[i] for i in markers if i in aff_map]
+        entries.append(AuthorEntry(name=clean_name, affiliations=affiliations))
+    return entries
+
+
+def _extract_authors(tex: str) -> list[str]:
+    # \author[...]{...}  — ends before \date or \begin{document}
+    names_part, _ = _split_author_block(tex)
+    if not names_part:
+        return []
+    names_part = re.sub(r"\\thanks\{[^}]*\}", "", names_part)
+    names_part = re.sub(r"\\(?:newauthor|and|noindent)\b", ",", names_part)
+    names_part = re.sub(r"\\[A-Za-z]+\*?", "", names_part)
+    names_part = re.sub(r"[{}]", "", names_part)
+    names_part = re.sub(r"\$\^\{?[0-9,]+\}?\$?", "", names_part)  # strip markers
+    parts = [p.strip().strip(",").strip() for p in re.split(r",|\n", names_part)]
     return [p for p in parts if len(p) > 2 and re.search(r"[A-Za-z]", p)]
+
+
+def _extract_author_details(tex: str) -> list[AuthorEntry] | None:
+    """Return per-author entries with affiliations, or None if no affiliations found."""
+    names_part, aff_block = _split_author_block(tex)
+    if not names_part:
+        return None
+    aff_map = _parse_affiliation_lines(aff_block)
+    if not aff_map:
+        return None
+    return _resolve_author_affiliations(names_part, aff_map) or None
 
 
 def _extract_year(tex: str) -> int:
@@ -302,6 +371,7 @@ def build_metadata(
         bibcode=bibcode,
         title=_extract_title(tex, commands),
         authors=_extract_authors(tex),
+        author_details=_extract_author_details(tex),
         year=year_override or _extract_year(tex),
         doi=doi,
         journal=_extract_journal(tex),

@@ -2,7 +2,12 @@
 tags:
   - "person"
 title: "Jonathan Tennyson"
-institution: "UCL"
+affiliations:
+  - institution: "University College London"
+    department: "Department of Physics and Astronomy"
+    country: "UK"
+    start_year: null
+    end_year: null
 orcid: ""
 primary_papers:
   - "24TeYuZh"

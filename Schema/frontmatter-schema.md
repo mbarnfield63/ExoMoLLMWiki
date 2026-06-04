@@ -107,7 +107,12 @@ source_count: 0
 ```yaml
 tags:
   - "person"
-institution: ""
+affiliations:
+  - institution: ""
+    department: ""
+    country: ""
+    start_year: null
+    end_year: null
 orcid: ""
 primary_papers: []
 secondary_papers: []
@@ -117,6 +122,8 @@ updated: YYYY-MM-DD
 sources: []
 source_count: 0
 ```
+
+`affiliations` is a list to support multiple simultaneous or historical affiliations. `start_year` and `end_year` are populated from paper years as evidence accumulates; `null` means unknown. `end_year: null` means the affiliation is current or end date is unconfirmed.
 
 ## Application Notes
 

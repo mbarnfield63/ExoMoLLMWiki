@@ -340,7 +340,7 @@ def build_catalog_entries() -> list[dict]:
             "marvel_data",
             "developer_group",
             "software_type",
-            "institution",
+            "affiliations",
             "orcid",
             "primary_papers",
             "secondary_papers",

@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - "molecule"
 formula: "CO2"
