@@ -12,21 +12,25 @@ orcid: ""
 primary_papers: []
 secondary_papers:
   - "24TeYuZh"
+  - "24LyPoTe"
 status: "seed"
 created: "2026-05-29"
 updated: "2026-06-04"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
-molecules: []
+  - "Raw/Sources/24LyPoTe.json"
+source_count: 2
+molecules:
+  - "C3"
 ---
 
 # Nikolai F. Zobov
 
-Nikolai F. Zobov is listed as an author of the 2024 ExoMol database release. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+Nikolai F. Zobov (Institute of Applied Physics, Russian Academy of Sciences) is co-author of the ExoMol LXII C₃ AtLast line list paper and is listed as an author of the 2024 ExoMol database release. Sources: [24LyPoTe](../../Raw/Sources/24LyPoTe.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
-## Related Paper
+## Related Papers
 
+- [24LyPoTe](../Papers/24LyPoTe.md)
 - [24TeYuZh](../Papers/24TeYuZh.md)
 
 ## Related Methods

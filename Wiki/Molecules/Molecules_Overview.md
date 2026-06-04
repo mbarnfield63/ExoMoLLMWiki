@@ -95,6 +95,8 @@
 - [ZrO](ZrO.md)
 
 ## Isotopologue Notes
+- [12C-12C-13C](12C-12C-13C.md) - parent: C3
+- [12C-13C-12C](12C-13C-12C.md) - parent: C3
 - [12C-14N](12C-14N.md) - parent: CN
 - [12C-16O2](12C-16O2.md) - parent: CO2
 - [12C-17O2](12C-17O2.md) - parent: CO2
@@ -102,6 +104,7 @@
 - [12C-1H4](12C-1H4.md) - parent: CH4
 - [12C2-1H2](12C2-1H2.md) - parent: C2H2
 - [12C2](12C2.md) - parent: C2
+- [12C3](12C3.md) - parent: C3
 - [13C-16O2](13C-16O2.md) - parent: CO2
 - [13C-17O2](13C-17O2.md) - parent: CO2
 - [13C-18O2](13C-18O2.md) - parent: CO2

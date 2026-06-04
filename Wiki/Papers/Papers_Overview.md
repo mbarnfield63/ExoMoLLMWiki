@@ -1,5 +1,6 @@
 # Papers Overview
 
+- [ExoMol Line Lists — LXII: Ro-Vibrational Energy Levels and Line-Strengths for Propadienediylidene (C3) in its Ground Electronic State](24LyPoTe.md)
 - [A hybrid approach to generating diatomic line lists for high resolution studies of exoplanets and other hot astronomical objects: Updates to ExoMol MgO, TiO and VO line lists](24McBoKe.md)
 - [ExoMol line lists -- LXIV: Empirical rovibronic spectra of phosphorous mononitride (PN) covering the IR and UV regions](24SeElYu.md)
 - [The 2024 release of the ExoMol database: Molecular line lists for exoplanet and other hot atmospheres](24TeYuZh.md)
