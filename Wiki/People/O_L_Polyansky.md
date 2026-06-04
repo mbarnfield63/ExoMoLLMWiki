@@ -1,15 +1,25 @@
-﻿---
+---
 tags:
   - "person"
 title: "Oleg L. Polyansky"
-institution: ""
+affiliations:
+  - institution: "University College London"
+    department: "Department of Physics and Astronomy"
+    country: "UK"
+    start_year: null
+    end_year: null
+  - institution: "Russian Academy of Sciences"
+    department: "Institute of Applied Physics"
+    country: "Russia"
+    start_year: null
+    end_year: null
 orcid: ""
 primary_papers: []
 secondary_papers:
   - "24TeYuZh"
 status: "seed"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-04"
 sources:
   - "Raw/Sources/24TeYuZh.json"
 source_count: 1

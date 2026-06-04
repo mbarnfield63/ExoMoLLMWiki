@@ -6,6 +6,26 @@
     "Thomas M. Mellor",
     "Jonathan Tennyson"
   ],
+  "author_details": [
+    {
+      "name": "Sergei N. Yurchenko",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Thomas M. Mellor",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Jonathan Tennyson",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    }
+  ],
   "year": 2021,
   "doi": "",
   "journal": "Monthly Notices of the Royal Astronomical Society",

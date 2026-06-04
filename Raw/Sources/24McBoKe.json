@@ -2,14 +2,62 @@
   "bibcode": "24McBoKe",
   "title": "A hybrid approach to generating diatomic line lists for high resolution studies of exoplanets and other hot astronomical objects: Updates to ExoMol MgO, TiO and VO line lists",
   "authors": [
-    "Laura K. McKemmish$^1$",
-    "Charles A. Bowesman$^2$",
-    "Kyriaki Kefala$^2$",
-    "Armando N. Perri$^1",
-    "Anna-Maree Syme$^1$",
-    "Sergei  N. Yurchenko$^2$",
-    "Jonathan Tennyson$^2$",
+    "Laura K. McKemmish",
+    "Charles A. Bowesman",
+    "Kyriaki Kefala",
+    "Armando N. Perri",
+    "Anna-Maree Syme",
+    "Sergei  N. Yurchenko",
+    "Jonathan Tennyson",
     "4mm"
+  ],
+  "author_details": [
+    {
+      "name": "Laura K. McKemmish",
+      "affiliations": [
+        "School of Chemistry, University of New South Wales, 2052, Sydney, Australia"
+      ]
+    },
+    {
+      "name": "Charles A. Bowesman",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Kyriaki Kefala",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Armando N. Perri",
+      "affiliations": [
+        "School of Chemistry, University of New South Wales, 2052, Sydney, Australia"
+      ]
+    },
+    {
+      "name": "Anna-Maree Syme",
+      "affiliations": [
+        "School of Chemistry, University of New South Wales, 2052, Sydney, Australia"
+      ]
+    },
+    {
+      "name": "Sergei N. Yurchenko",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Jonathan Tennyson",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "4mm",
+      "affiliations": []
+    }
   ],
   "year": 2022,
   "doi": "",

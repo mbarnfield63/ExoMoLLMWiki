@@ -281,6 +281,8 @@ def _resolve_author_affiliations(
     """Build AuthorEntry list by resolving superscript markers to affiliation text."""
     names_part = re.sub(r"\\thanks\{[^}]*\}", "", names_part)
     names_part = re.sub(r"\\(?:newauthor|and|noindent)\b", ",", names_part)
+    # Remove layout commands with braced args before stripping bare commands
+    names_part = re.sub(r"\\(?:vspace|hspace)\*?\{[^}]*\}", "", names_part)
     names_part = re.sub(r"\\[A-Za-z]+\*?", "", names_part)
     names_part = re.sub(r"[{}]", "", names_part)
     raw_names = [p.strip().strip(",").strip() for p in re.split(r",|\n", names_part)]
@@ -308,6 +310,16 @@ def _extract_authors(tex: str) -> list[str]:
     return [p for p in parts if len(p) > 2 and re.search(r"[A-Za-z]", p)]
 
 
+def _clean_affiliation_text(text: str) -> str:
+    """Strip LaTeX markup from a raw affiliation string."""
+    text = re.sub(r"\\thanks\{[^}]*\}", "", text)
+    text = re.sub(r"\\(?:vspace|hspace)\*?\{[^}]*\}", "", text)
+    text = re.sub(r"\\[A-Za-z]+\*?\{[^}]*\}", " ", text)
+    text = re.sub(r"\\[A-Za-z]+\*?", " ", text)
+    text = re.sub(r"[{}~]", "", text)
+    return re.sub(r"\s+", " ", text).strip().strip(",").strip()
+
+
 def _extract_author_details(tex: str) -> list[AuthorEntry] | None:
     """Return per-author entries with affiliations, or None if no affiliations found."""
     names_part, aff_block = _split_author_block(tex)
@@ -315,7 +327,14 @@ def _extract_author_details(tex: str) -> list[AuthorEntry] | None:
         return None
     aff_map = _parse_affiliation_lines(aff_block)
     if not aff_map:
-        return None
+        if not aff_block.strip():
+            return None
+        # All authors share a single unnumbered affiliation (no $^N$ markers)
+        single_aff = _clean_affiliation_text(aff_block)
+        if not single_aff:
+            return None
+        base_entries = _resolve_author_affiliations(names_part, {})
+        return [AuthorEntry(name=e.name, affiliations=[single_aff]) for e in base_entries] or None
     return _resolve_author_affiliations(names_part, aff_map) or None
 
 

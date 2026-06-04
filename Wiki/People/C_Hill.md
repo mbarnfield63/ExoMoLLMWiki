@@ -1,15 +1,20 @@
-﻿---
+---
 tags:
   - "person"
 title: "Christian Hill"
-institution: ""
+affiliations:
+  - institution: "International Atomic Energy Agency"
+    department: "Nuclear Data Section"
+    country: "Austria"
+    start_year: null
+    end_year: null
 orcid: ""
 primary_papers: []
 secondary_papers:
   - "24TeYuZh"
 status: "seed"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-04"
 sources:
   - "Raw/Sources/24TeYuZh.json"
 source_count: 1

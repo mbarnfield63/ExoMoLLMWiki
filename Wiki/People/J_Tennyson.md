@@ -19,7 +19,7 @@ secondary_papers:
   - "24SeElYu"
 status: "seed"
 created: "2026-05-21"
-updated: "2026-06-03"
+updated: "2026-06-04"
 sources:
   - "Raw/Sources/24McBoKe.json"
   - "Raw/Sources/24TeYuZh.json"

@@ -2,7 +2,17 @@
 tags:
   - "person"
 title: "Armando N. Perri"
-institution: ""
+affiliations:
+  - institution: "University of New South Wales"
+    department: "School of Chemistry"
+    country: "Australia"
+    start_year: null
+    end_year: null
+  - institution: "University College London"
+    department: "Department of Physics and Astronomy"
+    country: "UK"
+    start_year: null
+    end_year: null
 orcid: ""
 primary_papers: []
 secondary_papers:
@@ -12,7 +22,7 @@ secondary_papers:
   - "26YuBaBo"
 status: "seed"
 created: "2026-05-29"
-updated: "2026-06-03"
+updated: "2026-06-04"
 sources:
   - "Raw/Sources/24McBoKe.json"
   - "Raw/Sources/24TeYuZh.json"

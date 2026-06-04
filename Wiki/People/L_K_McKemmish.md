@@ -2,7 +2,12 @@
 tags:
   - "person"
 title: "Laura K. McKemmish"
-institution: ""
+affiliations:
+  - institution: "University of New South Wales"
+    department: "School of Chemistry"
+    country: "Australia"
+    start_year: null
+    end_year: null
 orcid: ""
 primary_papers:
   - "24McBoKe"
@@ -10,7 +15,7 @@ secondary_papers:
   - "24TeYuZh"
 status: "seed"
 created: "2026-05-29"
-updated: "2026-06-03"
+updated: "2026-06-04"
 sources:
   - "Raw/Sources/24TeYuZh.json"
   - "Raw/Sources/24McBoKe.json"

@@ -15,7 +15,81 @@
     "Chenyi Tao",
     "Jonathan Tennyson"
   ],
-  "year": 2026,
+  "author_details": [
+    {
+      "name": "Sergei N. Yurchenko",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom"
+      ]
+    },
+    {
+      "name": "Marco G. Barnfield",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom"
+      ]
+    },
+    {
+      "name": "Charles A. Bowesman",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom"
+      ]
+    },
+    {
+      "name": "Ryan P. Brady",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom"
+      ]
+    },
+    {
+      "name": "Elizabeth R. Guest",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom"
+      ]
+    },
+    {
+      "name": "Kyriaki Kefala",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom"
+      ]
+    },
+    {
+      "name": "Qing-He Ni",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom"
+      ]
+    },
+    {
+      "name": "Armando N. Perri",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom"
+      ]
+    },
+    {
+      "name": "Oleksiy A. Smola",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom"
+      ]
+    },
+    {
+      "name": "Andrei Solokov",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom"
+      ]
+    },
+    {
+      "name": "Chenyi Tao",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom"
+      ]
+    },
+    {
+      "name": "Jonathan Tennyson",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom"
+      ]
+    }
+  ],
+  "year": 2024,
   "doi": "",
   "journal": "Monthly Notices of the Royal Astronomical Society",
   "abstract": "Extensive rovibrational line lists are constructed for 12 isotopologues of carbon dioxide: 2 6 , 3 6 , 2 7 , 3 7 , 2 8 , 3 8 , 6 2 7 , 6 2 8 , 6 3 7 , 6 3 8 , 7 2 8 , and 7 3 8 . The variational program TROVE was employed together with an exact kinetic energy operator, accurate empirical potential energy surface (Ames-2) and the ab initio dipole moment surface Ames-2021-40K. Empirical energy levels from the most recent MARVEL analyses, as well as from the HITRAN and CDSD databases, are used to replace calculated values where available. The line lists are further supplemented by assigning AFGL quantum numbers using machine-learning based estimators. The resulting data were employed to generate opacities with four radiative transfer codes, TauREx, ARCiS, NEMESIS, and petitRADTRANS, both for individual isotopologues and for CO2 at terrestrial isotopic natural abundance. All line lists and associated data are available at www.exomol.com.",

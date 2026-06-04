@@ -2,14 +2,19 @@
 tags:
   - "person"
 title: "Anna-Maree Syme"
-institution: ""
+affiliations:
+  - institution: "University of New South Wales"
+    department: "School of Chemistry"
+    country: "Australia"
+    start_year: null
+    end_year: null
 orcid: ""
 primary_papers: []
 secondary_papers:
   - "24McBoKe"
 status: "seed"
 created: "2026-06-03"
-updated: "2026-06-03"
+updated: "2026-06-04"
 sources:
   - "Raw/Sources/24McBoKe.json"
 source_count: 1

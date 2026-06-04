@@ -33,6 +33,8061 @@
     "Wright, Samuel O.M.",
     "Zobov, Nikolai F."
   ],
+  "author_details": [
+    {
+      "name": "Tennyson",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Yurchenko",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Zhang",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Bowesman",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Brady",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Buldyreva",
+      "affiliations": [
+        "Institut UTINAM UMR CNRS 6213, Université de Franche-Comté, 16 Route de Gray, 25030 Besançon cedex, France"
+      ]
+    },
+    {
+      "name": "Chubb",
+      "affiliations": [
+        "School of Physics, HH Wills Physics Laboratory, Tyndall Avenue, Bristol, BS8 1TL, UK"
+      ]
+    },
+    {
+      "name": "Gamache",
+      "affiliations": [
+        "Department of Environmental, Earth, and Atmospheric Sciences University of Massachusetts Lowell, Lowell, MA 01854, USA"
+      ]
+    },
+    {
+      "name": "Gorman",
+      "affiliations": [
+        "School of Physics, HH Wills Physics Laboratory, Tyndall Avenue, Bristol, BS8 1TL, UK",
+        "School of Mathematical and Physical Sciences, University of Sussex, Brighton, BN1 9QH, UK"
+      ]
+    },
+    {
+      "name": "Guest",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Hill",
+      "affiliations": [
+        "Nuclear Data Section, International Atomic Energy Agency, Vienna A-1400, Austria"
+      ]
+    },
+    {
+      "name": "Kefala",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Lynas-Gray",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK",
+        "Department of Physics, University of Oxford, Keble Road, Oxford OX1 3RH, UK",
+        "Department of Physics and Astronomy, University of the Western Cape, Private Bag X17, Bellville 7535, South Africa"
+      ]
+    },
+    {
+      "name": "Mellor",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "McKemmish",
+      "affiliations": [
+        "School of Chemistry, University of New South Wales, 2052 Sydney, Australia"
+      ]
+    },
+    {
+      "name": "Mitev",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Mizus",
+      "affiliations": [
+        "Institute of Applied Physics, Russian Academy of Sciences, 46 Ulyanov Street, Nizhny Novgorod, 603950, Russia"
+      ]
+    },
+    {
+      "name": "Owens",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Peng",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Perri",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Pezzella",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK",
+        "Dipartimento di Fisica e Geologia, Universitá di Perugia, Via Pascoli SNC, 06123 Perugia, Italy"
+      ]
+    },
+    {
+      "name": "Polyansky",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK",
+        "Institute of Applied Physics, Russian Academy of Sciences, 46 Ulyanov Street, Nizhny Novgorod, 603950, Russia"
+      ]
+    },
+    {
+      "name": "Qu",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Semenov",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Smola",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Solokov",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Somogyi",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Upadhyay",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Wright",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK"
+      ]
+    },
+    {
+      "name": "Zobov",
+      "affiliations": [
+        "Institute of Applied Physics, Russian Academy of Sciences, 46 Ulyanov Street, Nizhny Novgorod, 603950, Russia"
+      ]
+    },
+    {
+      "name": "Gordon",
+      "affiliations": []
+    },
+    {
+      "name": "Rothman",
+      "affiliations": []
+    },
+    {
+      "name": "Hargreaves",
+      "affiliations": []
+    },
+    {
+      "name": "Hashemi",
+      "affiliations": []
+    },
+    {
+      "name": "Karlovets",
+      "affiliations": []
+    },
+    {
+      "name": "Skinner",
+      "affiliations": []
+    },
+    {
+      "name": "Conway",
+      "affiliations": []
+    },
+    {
+      "name": "Kochanov",
+      "affiliations": []
+    },
+    {
+      "name": "Tan",
+      "affiliations": []
+    },
+    {
+      "name": "Wcisło",
+      "affiliations": []
+    },
+    {
+      "name": "Finenko",
+      "affiliations": []
+    },
+    {
+      "name": "Nelson",
+      "affiliations": []
+    },
+    {
+      "name": "Bernath",
+      "affiliations": []
+    },
+    {
+      "name": "Birk",
+      "affiliations": []
+    },
+    {
+      "name": "Boudon",
+      "affiliations": []
+    },
+    {
+      "name": "Campargue",
+      "affiliations": []
+    },
+    {
+      "name": "Chance",
+      "affiliations": []
+    },
+    {
+      "name": "Coustenis",
+      "affiliations": []
+    },
+    {
+      "name": "Drouin",
+      "affiliations": []
+    },
+    {
+      "name": "Flaud",
+      "affiliations": []
+    },
+    {
+      "name": "Hodges",
+      "affiliations": []
+    },
+    {
+      "name": "Jacquemart",
+      "affiliations": []
+    },
+    {
+      "name": "Mlawer",
+      "affiliations": []
+    },
+    {
+      "name": "Nikitin",
+      "affiliations": []
+    },
+    {
+      "name": "Perevalov",
+      "affiliations": []
+    },
+    {
+      "name": "Rotger",
+      "affiliations": []
+    },
+    {
+      "name": "Toon",
+      "affiliations": []
+    },
+    {
+      "name": "Tran",
+      "affiliations": []
+    },
+    {
+      "name": "Tyuterev",
+      "affiliations": []
+    },
+    {
+      "name": "Adkins",
+      "affiliations": []
+    },
+    {
+      "name": "Baker",
+      "affiliations": []
+    },
+    {
+      "name": "Barbe",
+      "affiliations": []
+    },
+    {
+      "name": "Canè",
+      "affiliations": []
+    },
+    {
+      "name": "Császár",
+      "affiliations": []
+    },
+    {
+      "name": "Dudaryonok",
+      "affiliations": []
+    },
+    {
+      "name": "Egorov",
+      "affiliations": []
+    },
+    {
+      "name": "Fleisher",
+      "affiliations": []
+    },
+    {
+      "name": "Fleurbaey",
+      "affiliations": []
+    },
+    {
+      "name": "Foltynowicz",
+      "affiliations": []
+    },
+    {
+      "name": "Furtenbacher",
+      "affiliations": []
+    },
+    {
+      "name": "Harrison",
+      "affiliations": []
+    },
+    {
+      "name": "Hartmann",
+      "affiliations": []
+    },
+    {
+      "name": "Horneman",
+      "affiliations": []
+    },
+    {
+      "name": "Huang",
+      "affiliations": []
+    },
+    {
+      "name": "Karman",
+      "affiliations": []
+    },
+    {
+      "name": "Karns",
+      "affiliations": []
+    },
+    {
+      "name": "Kassi",
+      "affiliations": []
+    },
+    {
+      "name": "Kleiner",
+      "affiliations": []
+    },
+    {
+      "name": "Kofman",
+      "affiliations": []
+    },
+    {
+      "name": "Kwabia-Tchana",
+      "affiliations": []
+    },
+    {
+      "name": "Lavrentieva",
+      "affiliations": []
+    },
+    {
+      "name": "Lee",
+      "affiliations": []
+    },
+    {
+      "name": "Long",
+      "affiliations": []
+    },
+    {
+      "name": "Lukashevskaya",
+      "affiliations": []
+    },
+    {
+      "name": "Lyulin",
+      "affiliations": []
+    },
+    {
+      "name": "Makhnev",
+      "affiliations": []
+    },
+    {
+      "name": "Matt",
+      "affiliations": []
+    },
+    {
+      "name": "Massie",
+      "affiliations": []
+    },
+    {
+      "name": "Melosso",
+      "affiliations": []
+    },
+    {
+      "name": "Mikhailenko",
+      "affiliations": []
+    },
+    {
+      "name": "Mondelain",
+      "affiliations": []
+    },
+    {
+      "name": "Müller",
+      "affiliations": []
+    },
+    {
+      "name": "Naumenko",
+      "affiliations": []
+    },
+    {
+      "name": "Perrin",
+      "affiliations": []
+    },
+    {
+      "name": "Raddaoui",
+      "affiliations": []
+    },
+    {
+      "name": "Raston",
+      "affiliations": []
+    },
+    {
+      "name": "Reed",
+      "affiliations": []
+    },
+    {
+      "name": "Rey",
+      "affiliations": []
+    },
+    {
+      "name": "Richard",
+      "affiliations": []
+    },
+    {
+      "name": "Tóbiás",
+      "affiliations": []
+    },
+    {
+      "name": "Sadiek",
+      "affiliations": []
+    },
+    {
+      "name": "Schwenke",
+      "affiliations": []
+    },
+    {
+      "name": "Starikova",
+      "affiliations": []
+    },
+    {
+      "name": "Sung",
+      "affiliations": []
+    },
+    {
+      "name": "Tamassia",
+      "affiliations": []
+    },
+    {
+      "name": "Tashkun",
+      "affiliations": []
+    },
+    {
+      "name": "Vander Auwera",
+      "affiliations": []
+    },
+    {
+      "name": "Vasilenko",
+      "affiliations": []
+    },
+    {
+      "name": "Vigasin",
+      "affiliations": []
+    },
+    {
+      "name": "Villanueva",
+      "affiliations": []
+    },
+    {
+      "name": "Vispoel",
+      "affiliations": []
+    },
+    {
+      "name": "Wagner",
+      "affiliations": []
+    },
+    {
+      "name": "Yachmenev",
+      "affiliations": []
+    },
+    {
+      "name": "Lodi",
+      "affiliations": []
+    },
+    {
+      "name": "Al-Refaie",
+      "affiliations": []
+    },
+    {
+      "name": "Barton",
+      "affiliations": []
+    },
+    {
+      "name": "Coles",
+      "affiliations": []
+    },
+    {
+      "name": "Diamantopoulou",
+      "affiliations": []
+    },
+    {
+      "name": "Lam",
+      "affiliations": []
+    },
+    {
+      "name": "Na",
+      "affiliations": []
+    },
+    {
+      "name": "Rivlin",
+      "affiliations": []
+    },
+    {
+      "name": "Sousa-Silva",
+      "affiliations": []
+    },
+    {
+      "name": "Underwood",
+      "affiliations": []
+    },
+    {
+      "name": "Zak",
+      "affiliations": []
+    },
+    {
+      "name": "Clark",
+      "affiliations": []
+    },
+    {
+      "name": "Dewan",
+      "affiliations": []
+    },
+    {
+      "name": "Tinetti",
+      "affiliations": []
+    },
+    {
+      "name": "Waldmann",
+      "affiliations": []
+    },
+    {
+      "name": "Wang",
+      "affiliations": []
+    },
+    {
+      "name": "Bailey",
+      "affiliations": []
+    },
+    {
+      "name": "Hollis",
+      "affiliations": []
+    },
+    {
+      "name": "Snellen",
+      "affiliations": []
+    },
+    {
+      "name": "Brogi",
+      "affiliations": []
+    },
+    {
+      "name": "Birkby",
+      "affiliations": []
+    },
+    {
+      "name": "Hoeijmakers",
+      "affiliations": []
+    },
+    {
+      "name": "de Kok",
+      "affiliations": []
+    },
+    {
+      "name": "Schwarz",
+      "affiliations": []
+    },
+    {
+      "name": "de Regt",
+      "affiliations": []
+    },
+    {
+      "name": "Kesseli",
+      "affiliations": []
+    },
+    {
+      "name": "Merritt",
+      "affiliations": []
+    },
+    {
+      "name": "Syme",
+      "affiliations": []
+    },
+    {
+      "name": "Szajna",
+      "affiliations": []
+    },
+    {
+      "name": "Hakalla",
+      "affiliations": []
+    },
+    {
+      "name": "Sokolov",
+      "affiliations": []
+    },
+    {
+      "name": "Pavlenko",
+      "affiliations": []
+    },
+    {
+      "name": "Schmidt",
+      "affiliations": []
+    },
+    {
+      "name": "Hood",
+      "affiliations": []
+    },
+    {
+      "name": "Fortney",
+      "affiliations": []
+    },
+    {
+      "name": "Line",
+      "affiliations": []
+    },
+    {
+      "name": "Martin",
+      "affiliations": []
+    },
+    {
+      "name": "Morley",
+      "affiliations": []
+    },
+    {
+      "name": "Rustamkulov",
+      "affiliations": []
+    },
+    {
+      "name": "Lupu",
+      "affiliations": []
+    },
+    {
+      "name": "Freedman",
+      "affiliations": []
+    },
+    {
+      "name": "Piette",
+      "affiliations": []
+    },
+    {
+      "name": "Madhusudhan",
+      "affiliations": []
+    },
+    {
+      "name": "Tsai",
+      "affiliations": []
+    },
+    {
+      "name": "Innes",
+      "affiliations": []
+    },
+    {
+      "name": "Lichtenberg",
+      "affiliations": []
+    },
+    {
+      "name": "Taylor",
+      "affiliations": []
+    },
+    {
+      "name": "Malik",
+      "affiliations": []
+    },
+    {
+      "name": "Pierrehumbert",
+      "affiliations": []
+    },
+    {
+      "name": "Blain",
+      "affiliations": []
+    },
+    {
+      "name": "Charnay",
+      "affiliations": []
+    },
+    {
+      "name": "Bézard",
+      "affiliations": []
+    },
+    {
+      "name": "Bezard",
+      "affiliations": []
+    },
+    {
+      "name": "Leconte",
+      "affiliations": []
+    },
+    {
+      "name": "Turbet",
+      "affiliations": []
+    },
+    {
+      "name": "Falco",
+      "affiliations": []
+    },
+    {
+      "name": "Gasman",
+      "affiliations": []
+    },
+    {
+      "name": "Min",
+      "affiliations": []
+    },
+    {
+      "name": "Batalha",
+      "affiliations": []
+    },
+    {
+      "name": "Wolfgang",
+      "affiliations": []
+    },
+    {
+      "name": "Teske",
+      "affiliations": []
+    },
+    {
+      "name": "Alam",
+      "affiliations": []
+    },
+    {
+      "name": "Alderson",
+      "affiliations": []
+    },
+    {
+      "name": "López-Morales",
+      "affiliations": []
+    },
+    {
+      "name": "Wakeford",
+      "affiliations": []
+    },
+    {
+      "name": "Zamyatina",
+      "affiliations": []
+    },
+    {
+      "name": "Hébrard",
+      "affiliations": []
+    },
+    {
+      "name": "Drummond",
+      "affiliations": []
+    },
+    {
+      "name": "Mayne",
+      "affiliations": []
+    },
+    {
+      "name": "Manners",
+      "affiliations": []
+    },
+    {
+      "name": "Christie",
+      "affiliations": []
+    },
+    {
+      "name": "Tremblin",
+      "affiliations": []
+    },
+    {
+      "name": "Sing",
+      "affiliations": []
+    },
+    {
+      "name": "Kohary",
+      "affiliations": []
+    },
+    {
+      "name": "Constantinou",
+      "affiliations": []
+    },
+    {
+      "name": "Guzmán-Mesa",
+      "affiliations": []
+    },
+    {
+      "name": "Kitzmann",
+      "affiliations": []
+    },
+    {
+      "name": "Mordasini",
+      "affiliations": []
+    },
+    {
+      "name": "Heng",
+      "affiliations": []
+    },
+    {
+      "name": "Lowson",
+      "affiliations": []
+    },
+    {
+      "name": "Zhou",
+      "affiliations": []
+    },
+    {
+      "name": "Edwards",
+      "affiliations": []
+    },
+    {
+      "name": "Nabbie",
+      "affiliations": []
+    },
+    {
+      "name": "Venner",
+      "affiliations": []
+    },
+    {
+      "name": "Quinn",
+      "affiliations": []
+    },
+    {
+      "name": "Collins",
+      "affiliations": []
+    },
+    {
+      "name": "Gillen",
+      "affiliations": []
+    },
+    {
+      "name": "Battley",
+      "affiliations": []
+    },
+    {
+      "name": "Triaud",
+      "affiliations": []
+    },
+    {
+      "name": "Hellier",
+      "affiliations": []
+    },
+    {
+      "name": "Seager",
+      "affiliations": []
+    },
+    {
+      "name": "Winn",
+      "affiliations": []
+    },
+    {
+      "name": "Jenkins",
+      "affiliations": []
+    },
+    {
+      "name": "Wohler",
+      "affiliations": []
+    },
+    {
+      "name": "Shporer",
+      "affiliations": []
+    },
+    {
+      "name": "Murgas",
+      "affiliations": []
+    },
+    {
+      "name": "Pallé",
+      "affiliations": []
+    },
+    {
+      "name": "Anderson",
+      "affiliations": []
+    },
+    {
+      "name": "West",
+      "affiliations": []
+    },
+    {
+      "name": "Wittenmyer",
+      "affiliations": []
+    },
+    {
+      "name": "Bowler",
+      "affiliations": []
+    },
+    {
+      "name": "Horner",
+      "affiliations": []
+    },
+    {
+      "name": "Kane",
+      "affiliations": []
+    },
+    {
+      "name": "Kielkopf",
+      "affiliations": []
+    },
+    {
+      "name": "Plavchan",
+      "affiliations": []
+    },
+    {
+      "name": "Fairnington",
+      "affiliations": []
+    },
+    {
+      "name": "Okumura",
+      "affiliations": []
+    },
+    {
+      "name": "Mengel",
+      "affiliations": []
+    },
+    {
+      "name": "Addison",
+      "affiliations": []
+    },
+    {
+      "name": "Gao",
+      "affiliations": []
+    },
+    {
+      "name": "Steinrueck",
+      "affiliations": []
+    },
+    {
+      "name": "Nixon",
+      "affiliations": []
+    },
+    {
+      "name": "Kempton",
+      "affiliations": []
+    },
+    {
+      "name": "Bean",
+      "affiliations": []
+    },
+    {
+      "name": "Rauscher",
+      "affiliations": []
+    },
+    {
+      "name": "Parmentier",
+      "affiliations": []
+    },
+    {
+      "name": "Savel",
+      "affiliations": []
+    },
+    {
+      "name": "Arnold",
+      "affiliations": []
+    },
+    {
+      "name": "Roman",
+      "affiliations": []
+    },
+    {
+      "name": "Malsky",
+      "affiliations": []
+    },
+    {
+      "name": "Bell",
+      "affiliations": []
+    },
+    {
+      "name": "Xue",
+      "affiliations": []
+    },
+    {
+      "name": "Stevenson",
+      "affiliations": []
+    },
+    {
+      "name": "Mansfield",
+      "affiliations": []
+    },
+    {
+      "name": "Kendrew",
+      "affiliations": []
+    },
+    {
+      "name": "Zieba",
+      "affiliations": []
+    },
+    {
+      "name": "Ducrot",
+      "affiliations": []
+    },
+    {
+      "name": "Dyrek",
+      "affiliations": []
+    },
+    {
+      "name": "Lagage",
+      "affiliations": []
+    },
+    {
+      "name": "Stassun",
+      "affiliations": []
+    },
+    {
+      "name": "Henry",
+      "affiliations": []
+    },
+    {
+      "name": "Barman",
+      "affiliations": []
+    },
+    {
+      "name": "Kataria",
+      "affiliations": []
+    },
+    {
+      "name": "Ih",
+      "affiliations": []
+    },
+    {
+      "name": "Fu",
+      "affiliations": []
+    },
+    {
+      "name": "Welbanks",
+      "affiliations": []
+    },
+    {
+      "name": "McGill",
+      "affiliations": []
+    },
+    {
+      "name": "Mikal-Evans",
+      "affiliations": []
+    },
+    {
+      "name": "Dittmann",
+      "affiliations": []
+    },
+    {
+      "name": "Günther",
+      "affiliations": []
+    },
+    {
+      "name": "Eylen",
+      "affiliations": []
+    },
+    {
+      "name": "Crossfield",
+      "affiliations": []
+    },
+    {
+      "name": "Daylan",
+      "affiliations": []
+    },
+    {
+      "name": "Kreidberg",
+      "affiliations": []
+    },
+    {
+      "name": "Holmberg",
+      "affiliations": []
+    },
+    {
+      "name": "Måns",
+      "affiliations": []
+    },
+    {
+      "name": "Nikku",
+      "affiliations": []
+    },
+    {
+      "name": "Dash",
+      "affiliations": []
+    },
+    {
+      "name": "Gandhi",
+      "affiliations": []
+    },
+    {
+      "name": "Lafarga",
+      "affiliations": []
+    },
+    {
+      "name": "Meech",
+      "affiliations": []
+    },
+    {
+      "name": "Bello-Arufe",
+      "affiliations": []
+    },
+    {
+      "name": "Wheatley",
+      "affiliations": []
+    },
+    {
+      "name": "Fisher",
+      "affiliations": []
+    },
+    {
+      "name": "Burgasser",
+      "affiliations": []
+    },
+    {
+      "name": "Márquez-Neila",
+      "affiliations": []
+    },
+    {
+      "name": "Grimm",
+      "affiliations": []
+    },
+    {
+      "name": "Mandell",
+      "affiliations": []
+    },
+    {
+      "name": "Sznitman",
+      "affiliations": []
+    },
+    {
+      "name": "Guilluy",
+      "affiliations": []
+    },
+    {
+      "name": "Gressier",
+      "affiliations": []
+    },
+    {
+      "name": "Santerne",
+      "affiliations": []
+    },
+    {
+      "name": "Jaziri",
+      "affiliations": []
+    },
+    {
+      "name": "Changeat",
+      "affiliations": []
+    },
+    {
+      "name": "Modirrousta-Galian",
+      "affiliations": []
+    },
+    {
+      "name": "Skaf",
+      "affiliations": []
+    },
+    {
+      "name": "Baeyens",
+      "affiliations": []
+    },
+    {
+      "name": "Bieger",
+      "affiliations": []
+    },
+    {
+      "name": "Kiefer",
+      "affiliations": []
+    },
+    {
+      "name": "Morvan",
+      "affiliations": []
+    },
+    {
+      "name": "Mugnai",
+      "affiliations": []
+    },
+    {
+      "name": "Pluriel",
+      "affiliations": []
+    },
+    {
+      "name": "Poveda",
+      "affiliations": []
+    },
+    {
+      "name": "Zingales",
+      "affiliations": []
+    },
+    {
+      "name": "Whiteford",
+      "affiliations": []
+    },
+    {
+      "name": "Yip",
+      "affiliations": []
+    },
+    {
+      "name": "Drossart",
+      "affiliations": []
+    },
+    {
+      "name": "Sozzetti",
+      "affiliations": []
+    },
+    {
+      "name": "Marcq",
+      "affiliations": []
+    },
+    {
+      "name": "Tsiaras",
+      "affiliations": []
+    },
+    {
+      "name": "Venot",
+      "affiliations": []
+    },
+    {
+      "name": "Beaulieu",
+      "affiliations": []
+    },
+    {
+      "name": "A-thano",
+      "affiliations": []
+    },
+    {
+      "name": "Awiphan",
+      "affiliations": []
+    },
+    {
+      "name": "Jiang",
+      "affiliations": []
+    },
+    {
+      "name": "Kerins",
+      "affiliations": []
+    },
+    {
+      "name": "Priyadarshi",
+      "affiliations": []
+    },
+    {
+      "name": "McDonald",
+      "affiliations": []
+    },
+    {
+      "name": "Joshi",
+      "affiliations": []
+    },
+    {
+      "name": "Chulikorn",
+      "affiliations": []
+    },
+    {
+      "name": "Hayes",
+      "affiliations": []
+    },
+    {
+      "name": "Charles",
+      "affiliations": []
+    },
+    {
+      "name": "Rattanamala",
+      "affiliations": []
+    },
+    {
+      "name": "Yeh",
+      "affiliations": []
+    },
+    {
+      "name": "Dhillon",
+      "affiliations": []
+    },
+    {
+      "name": "Allan",
+      "affiliations": []
+    },
+    {
+      "name": "Behr",
+      "affiliations": []
+    },
+    {
+      "name": "Hagey",
+      "affiliations": []
+    },
+    {
+      "name": "Himes",
+      "affiliations": []
+    },
+    {
+      "name": "Ma",
+      "affiliations": []
+    },
+    {
+      "name": "Thomas",
+      "affiliations": []
+    },
+    {
+      "name": "Thompson",
+      "affiliations": []
+    },
+    {
+      "name": "Boley",
+      "affiliations": []
+    },
+    {
+      "name": "Booth",
+      "affiliations": []
+    },
+    {
+      "name": "Bouwman",
+      "affiliations": []
+    },
+    {
+      "name": "France",
+      "affiliations": []
+    },
+    {
+      "name": "Phillips",
+      "affiliations": []
+    },
+    {
+      "name": "Vidotto",
+      "affiliations": []
+    },
+    {
+      "name": "Janin",
+      "affiliations": []
+    },
+    {
+      "name": "Leonardi",
+      "affiliations": []
+    },
+    {
+      "name": "Sarkar",
+      "affiliations": []
+    },
+    {
+      "name": "Yang",
+      "affiliations": []
+    },
+    {
+      "name": "Ward-Thompson",
+      "affiliations": []
+    },
+    {
+      "name": "Radica",
+      "affiliations": []
+    },
+    {
+      "name": "Coulombe",
+      "affiliations": []
+    },
+    {
+      "name": "Albert",
+      "affiliations": []
+    },
+    {
+      "name": "Allart",
+      "affiliations": []
+    },
+    {
+      "name": "Benneke",
+      "affiliations": []
+    },
+    {
+      "name": "Cowan",
+      "affiliations": []
+    },
+    {
+      "name": "Dang",
+      "affiliations": []
+    },
+    {
+      "name": "Lafrenière",
+      "affiliations": []
+    },
+    {
+      "name": "Thorngren",
+      "affiliations": []
+    },
+    {
+      "name": "Artigau",
+      "affiliations": []
+    },
+    {
+      "name": "Doyon",
+      "affiliations": []
+    },
+    {
+      "name": "Flagg",
+      "affiliations": []
+    },
+    {
+      "name": "Johnstone",
+      "affiliations": []
+    },
+    {
+      "name": "Pelletier",
+      "affiliations": []
+    },
+    {
+      "name": "Roy",
+      "affiliations": []
+    },
+    {
+      "name": "Moses",
+      "affiliations": []
+    },
+    {
+      "name": "Lessard",
+      "affiliations": []
+    },
+    {
+      "name": "Rogers",
+      "affiliations": []
+    },
+    {
+      "name": "Futrowsky",
+      "affiliations": []
+    },
+    {
+      "name": "Marounina",
+      "affiliations": []
+    },
+    {
+      "name": "Munoz-Romero",
+      "affiliations": []
+    },
+    {
+      "name": "Spake",
+      "affiliations": []
+    },
+    {
+      "name": "Nikolov",
+      "affiliations": []
+    },
+    {
+      "name": "Deming",
+      "affiliations": []
+    },
+    {
+      "name": "Barstow",
+      "affiliations": []
+    },
+    {
+      "name": "Carter",
+      "affiliations": []
+    },
+    {
+      "name": "Gillon",
+      "affiliations": []
+    },
+    {
+      "name": "Goyal",
+      "affiliations": []
+    },
+    {
+      "name": "Hebrard",
+      "affiliations": []
+    },
+    {
+      "name": "Anisman",
+      "affiliations": []
+    },
+    {
+      "name": "Colón",
+      "affiliations": []
+    },
+    {
+      "name": "Beatty",
+      "affiliations": []
+    },
+    {
+      "name": "Tamburo",
+      "affiliations": []
+    },
+    {
+      "name": "Rodriguez",
+      "affiliations": []
+    },
+    {
+      "name": "Barclay",
+      "affiliations": []
+    },
+    {
+      "name": "Lopez",
+      "affiliations": []
+    },
+    {
+      "name": "Angerhausen",
+      "affiliations": []
+    },
+    {
+      "name": "James",
+      "affiliations": []
+    },
+    {
+      "name": "Pepper",
+      "affiliations": []
+    },
+    {
+      "name": "Ahlers",
+      "affiliations": []
+    },
+    {
+      "name": "Kotnik",
+      "affiliations": []
+    },
+    {
+      "name": "McLeod",
+      "affiliations": []
+    },
+    {
+      "name": "Murawski",
+      "affiliations": []
+    },
+    {
+      "name": "Chotani",
+      "affiliations": []
+    },
+    {
+      "name": "LeBrun",
+      "affiliations": []
+    },
+    {
+      "name": "Matzko",
+      "affiliations": []
+    },
+    {
+      "name": "Rea",
+      "affiliations": []
+    },
+    {
+      "name": "Vidaurri",
+      "affiliations": []
+    },
+    {
+      "name": "Webster",
+      "affiliations": []
+    },
+    {
+      "name": "Williams",
+      "affiliations": []
+    },
+    {
+      "name": "Cox",
+      "affiliations": []
+    },
+    {
+      "name": "Gilbert",
+      "affiliations": []
+    },
+    {
+      "name": "Maimone",
+      "affiliations": []
+    },
+    {
+      "name": "Chiavassa",
+      "affiliations": []
+    },
+    {
+      "name": "van den Ancker",
+      "affiliations": []
+    },
+    {
+      "name": "Manara",
+      "affiliations": []
+    },
+    {
+      "name": "Ahrer",
+      "affiliations": []
+    },
+    {
+      "name": "Berta-Thompson",
+      "affiliations": []
+    },
+    {
+      "name": "Espinoza",
+      "affiliations": []
+    },
+    {
+      "name": "Feinstein",
+      "affiliations": []
+    },
+    {
+      "name": "Gibson",
+      "affiliations": []
+    },
+    {
+      "name": "Kirk",
+      "affiliations": []
+    },
+    {
+      "name": "Lopez-Morales",
+      "affiliations": []
+    },
+    {
+      "name": "Lothringer",
+      "affiliations": []
+    },
+    {
+      "name": "Moran",
+      "affiliations": []
+    },
+    {
+      "name": "Mukherjee",
+      "affiliations": []
+    },
+    {
+      "name": "Ohno",
+      "affiliations": []
+    },
+    {
+      "name": "Piaulet",
+      "affiliations": []
+    },
+    {
+      "name": "Schlawin",
+      "affiliations": []
+    },
+    {
+      "name": "Allen",
+      "affiliations": []
+    },
+    {
+      "name": "Birkmann",
+      "affiliations": []
+    },
+    {
+      "name": "Brande",
+      "affiliations": []
+    },
+    {
+      "name": "Crouzet",
+      "affiliations": []
+    },
+    {
+      "name": "Cubillos",
+      "affiliations": []
+    },
+    {
+      "name": "Damiano",
+      "affiliations": []
+    },
+    {
+      "name": "Desert",
+      "affiliations": []
+    },
+    {
+      "name": "Harrington",
+      "affiliations": []
+    },
+    {
+      "name": "Hu",
+      "affiliations": []
+    },
+    {
+      "name": "Knutson",
+      "affiliations": []
+    },
+    {
+      "name": "Lendl",
+      "affiliations": []
+    },
+    {
+      "name": "MacDonald",
+      "affiliations": []
+    },
+    {
+      "name": "May",
+      "affiliations": []
+    },
+    {
+      "name": "Miguel",
+      "affiliations": []
+    },
+    {
+      "name": "Molaverdikhani",
+      "affiliations": []
+    },
+    {
+      "name": "Murray",
+      "affiliations": []
+    },
+    {
+      "name": "Nehring",
+      "affiliations": []
+    },
+    {
+      "name": "de la Roche",
+      "affiliations": []
+    },
+    {
+      "name": "Waalkes",
+      "affiliations": []
+    },
+    {
+      "name": "Wachiraphan",
+      "affiliations": []
+    },
+    {
+      "name": "Aggarwal",
+      "affiliations": []
+    },
+    {
+      "name": "Banerjee",
+      "affiliations": []
+    },
+    {
+      "name": "Blecic",
+      "affiliations": []
+    },
+    {
+      "name": "Casewell",
+      "affiliations": []
+    },
+    {
+      "name": "Colon",
+      "affiliations": []
+    },
+    {
+      "name": "De Val-Borro",
+      "affiliations": []
+    },
+    {
+      "name": "Decin",
+      "affiliations": []
+    },
+    {
+      "name": "Dos Santos",
+      "affiliations": []
+    },
+    {
+      "name": "Munoz",
+      "affiliations": []
+    },
+    {
+      "name": "Gizis",
+      "affiliations": []
+    },
+    {
+      "name": "Glidden",
+      "affiliations": []
+    },
+    {
+      "name": "Grant",
+      "affiliations": []
+    },
+    {
+      "name": "Henning",
+      "affiliations": []
+    },
+    {
+      "name": "Hong",
+      "affiliations": []
+    },
+    {
+      "name": "Inglis",
+      "affiliations": []
+    },
+    {
+      "name": "Iro",
+      "affiliations": []
+    },
+    {
+      "name": "Komacek",
+      "affiliations": []
+    },
+    {
+      "name": "Krick",
+      "affiliations": []
+    },
+    {
+      "name": "Lewis",
+      "affiliations": []
+    },
+    {
+      "name": "Lillo-Box",
+      "affiliations": []
+    },
+    {
+      "name": "Lustig-Yaeger",
+      "affiliations": []
+    },
+    {
+      "name": "Mancini",
+      "affiliations": []
+    },
+    {
+      "name": "Marley",
+      "affiliations": []
+    },
+    {
+      "name": "Morello",
+      "affiliations": []
+    },
+    {
+      "name": "Ceballos",
+      "affiliations": []
+    },
+    {
+      "name": "Powell",
+      "affiliations": []
+    },
+    {
+      "name": "Rackham",
+      "affiliations": []
+    },
+    {
+      "name": "Ramos-Rosado",
+      "affiliations": []
+    },
+    {
+      "name": "Redfield",
+      "affiliations": []
+    },
+    {
+      "name": "Roudier",
+      "affiliations": []
+    },
+    {
+      "name": "Scarsdale",
+      "affiliations": []
+    },
+    {
+      "name": "Shkolnik",
+      "affiliations": []
+    },
+    {
+      "name": "Southworth",
+      "affiliations": []
+    },
+    {
+      "name": "Tucker",
+      "affiliations": []
+    },
+    {
+      "name": "Turner",
+      "affiliations": []
+    },
+    {
+      "name": "Valenti",
+      "affiliations": []
+    },
+    {
+      "name": "Wallack",
+      "affiliations": []
+    },
+    {
+      "name": "Smalley",
+      "affiliations": []
+    },
+    {
+      "name": "Jordan",
+      "affiliations": []
+    },
+    {
+      "name": "Bierson",
+      "affiliations": []
+    },
+    {
+      "name": "Carone",
+      "affiliations": []
+    },
+    {
+      "name": "Barat",
+      "affiliations": []
+    },
+    {
+      "name": "de Val-Borro",
+      "affiliations": []
+    },
+    {
+      "name": "Louca",
+      "affiliations": []
+    },
+    {
+      "name": "Nasedkin",
+      "affiliations": []
+    },
+    {
+      "name": "Visscher",
+      "affiliations": []
+    },
+    {
+      "name": "Youngblood",
+      "affiliations": []
+    },
+    {
+      "name": "Désert",
+      "affiliations": []
+    },
+    {
+      "name": "Palle",
+      "affiliations": []
+    },
+    {
+      "name": "Shorttle",
+      "affiliations": []
+    },
+    {
+      "name": "Samra",
+      "affiliations": []
+    },
+    {
+      "name": "Helling",
+      "affiliations": []
+    },
+    {
+      "name": "Schneider",
+      "affiliations": []
+    },
+    {
+      "name": "Baghel",
+      "affiliations": []
+    },
+    {
+      "name": "Lafreni‘ere",
+      "affiliations": []
+    },
+    {
+      "name": "Cook",
+      "affiliations": []
+    },
+    {
+      "name": "Fournier-Tondreau",
+      "affiliations": []
+    },
+    {
+      "name": "Talens",
+      "affiliations": []
+    },
+    {
+      "name": "Filippazzo",
+      "affiliations": []
+    },
+    {
+      "name": "Pontoppidan",
+      "affiliations": []
+    },
+    {
+      "name": "Volk",
+      "affiliations": []
+    },
+    {
+      "name": "Redai",
+      "affiliations": []
+    },
+    {
+      "name": "Foreman-Mackey",
+      "affiliations": []
+    },
+    {
+      "name": "Morel",
+      "affiliations": []
+    },
+    {
+      "name": "Lim",
+      "affiliations": []
+    },
+    {
+      "name": "Rowe",
+      "affiliations": []
+    },
+    {
+      "name": "Darveau-Bernier",
+      "affiliations": []
+    },
+    {
+      "name": "Genest",
+      "affiliations": []
+    },
+    {
+      "name": "Kaltenegger",
+      "affiliations": []
+    },
+    {
+      "name": "Roth",
+      "affiliations": []
+    },
+    {
+      "name": "Boucher",
+      "affiliations": []
+    },
+    {
+      "name": "Lafreniére",
+      "affiliations": []
+    },
+    {
+      "name": "Debras",
+      "affiliations": []
+    },
+    {
+      "name": "Gaidos",
+      "affiliations": []
+    },
+    {
+      "name": "Cadieux",
+      "affiliations": []
+    },
+    {
+      "name": "Carmona",
+      "affiliations": []
+    },
+    {
+      "name": "Cloutier",
+      "affiliations": []
+    },
+    {
+      "name": "Cortés-Zuleta",
+      "affiliations": []
+    },
+    {
+      "name": "Delfosse",
+      "affiliations": []
+    },
+    {
+      "name": "Donati",
+      "affiliations": []
+    },
+    {
+      "name": "Fouqué",
+      "affiliations": []
+    },
+    {
+      "name": "Forveille",
+      "affiliations": []
+    },
+    {
+      "name": "Grankin",
+      "affiliations": []
+    },
+    {
+      "name": "Martins",
+      "affiliations": []
+    },
+    {
+      "name": "Martioli",
+      "affiliations": []
+    },
+    {
+      "name": "Masson",
+      "affiliations": []
+    },
+    {
+      "name": "Vinatier",
+      "affiliations": []
+    },
+    {
+      "name": "Glasse",
+      "affiliations": []
+    },
+    {
+      "name": "Ray",
+      "affiliations": []
+    },
+    {
+      "name": "Biller",
+      "affiliations": []
+    },
+    {
+      "name": "Palmer",
+      "affiliations": []
+    },
+    {
+      "name": "Rice",
+      "affiliations": []
+    },
+    {
+      "name": "Xu",
+      "affiliations": []
+    },
+    {
+      "name": "Diamond-Lowe",
+      "affiliations": []
+    },
+    {
+      "name": "Vanderburg",
+      "affiliations": []
+    },
+    {
+      "name": "Blouin",
+      "affiliations": []
+    },
+    {
+      "name": "Dufour",
+      "affiliations": []
+    },
+    {
+      "name": "Leggett",
+      "affiliations": []
+    },
+    {
+      "name": "Mann",
+      "affiliations": []
+    },
+    {
+      "name": "Stephens",
+      "affiliations": []
+    },
+    {
+      "name": "O’Connor",
+      "affiliations": []
+    },
+    {
+      "name": "Thao",
+      "affiliations": []
+    },
+    {
+      "name": "Giacobbe",
+      "affiliations": []
+    },
+    {
+      "name": "Carleo",
+      "affiliations": []
+    },
+    {
+      "name": "Bonomo",
+      "affiliations": []
+    },
+    {
+      "name": "Fossati",
+      "affiliations": []
+    },
+    {
+      "name": "Nascimbeni",
+      "affiliations": []
+    },
+    {
+      "name": "Turrini",
+      "affiliations": []
+    },
+    {
+      "name": "Schisano",
+      "affiliations": []
+    },
+    {
+      "name": "Borsa",
+      "affiliations": []
+    },
+    {
+      "name": "Lanza",
+      "affiliations": []
+    },
+    {
+      "name": "Maggio",
+      "affiliations": []
+    },
+    {
+      "name": "Malavolta",
+      "affiliations": []
+    },
+    {
+      "name": "Micela",
+      "affiliations": []
+    },
+    {
+      "name": "Pino",
+      "affiliations": []
+    },
+    {
+      "name": "Rainer",
+      "affiliations": []
+    },
+    {
+      "name": "Bignamini",
+      "affiliations": []
+    },
+    {
+      "name": "Claudi",
+      "affiliations": []
+    },
+    {
+      "name": "Cosentino",
+      "affiliations": []
+    },
+    {
+      "name": "Covino",
+      "affiliations": []
+    },
+    {
+      "name": "Desidera",
+      "affiliations": []
+    },
+    {
+      "name": "Fiorenzano",
+      "affiliations": []
+    },
+    {
+      "name": "Harutyunyan",
+      "affiliations": []
+    },
+    {
+      "name": "Lorenzi",
+      "affiliations": []
+    },
+    {
+      "name": "Knapic",
+      "affiliations": []
+    },
+    {
+      "name": "Molinari",
+      "affiliations": []
+    },
+    {
+      "name": "Pacetti",
+      "affiliations": []
+    },
+    {
+      "name": "Pagano",
+      "affiliations": []
+    },
+    {
+      "name": "Pedani",
+      "affiliations": []
+    },
+    {
+      "name": "Piotto",
+      "affiliations": []
+    },
+    {
+      "name": "Poretti",
+      "affiliations": []
+    },
+    {
+      "name": "Mollière",
+      "affiliations": []
+    },
+    {
+      "name": "Hawkins",
+      "affiliations": []
+    },
+    {
+      "name": "Manea",
+      "affiliations": []
+    },
+    {
+      "name": "Skemer",
+      "affiliations": []
+    },
+    {
+      "name": "Franson",
+      "affiliations": []
+    },
+    {
+      "name": "Maas",
+      "affiliations": []
+    },
+    {
+      "name": "Sneden",
+      "affiliations": []
+    },
+    {
+      "name": "Biazzo",
+      "affiliations": []
+    },
+    {
+      "name": "Scandariato",
+      "affiliations": []
+    },
+    {
+      "name": "Andreuzzi",
+      "affiliations": []
+    },
+    {
+      "name": "Stoev",
+      "affiliations": []
+    },
+    {
+      "name": "Greene",
+      "affiliations": []
+    },
+    {
+      "name": "Wiser",
+      "affiliations": []
+    },
+    {
+      "name": "Boyer",
+      "affiliations": []
+    },
+    {
+      "name": "Rieke",
+      "affiliations": []
+    },
+    {
+      "name": "Stansberry",
+      "affiliations": []
+    },
+    {
+      "name": "Kanodia",
+      "affiliations": []
+    },
+    {
+      "name": "Mahadevan",
+      "affiliations": []
+    },
+    {
+      "name": "Libby-Roberts",
+      "affiliations": []
+    },
+    {
+      "name": "Stefansson",
+      "affiliations": []
+    },
+    {
+      "name": "Canas",
+      "affiliations": []
+    },
+    {
+      "name": "Boss",
+      "affiliations": []
+    },
+    {
+      "name": "Chambers",
+      "affiliations": []
+    },
+    {
+      "name": "Zeimann",
+      "affiliations": []
+    },
+    {
+      "name": "Monson",
+      "affiliations": []
+    },
+    {
+      "name": "Robertson",
+      "affiliations": []
+    },
+    {
+      "name": "Ninan",
+      "affiliations": []
+    },
+    {
+      "name": "Lin",
+      "affiliations": []
+    },
+    {
+      "name": "Bender",
+      "affiliations": []
+    },
+    {
+      "name": "Cochran",
+      "affiliations": []
+    },
+    {
+      "name": "Diddams",
+      "affiliations": []
+    },
+    {
+      "name": "Gupta",
+      "affiliations": []
+    },
+    {
+      "name": "Halverson",
+      "affiliations": []
+    },
+    {
+      "name": "Hawley",
+      "affiliations": []
+    },
+    {
+      "name": "Kobulnicky",
+      "affiliations": []
+    },
+    {
+      "name": "Metcalf",
+      "affiliations": []
+    },
+    {
+      "name": "Parker",
+      "affiliations": []
+    },
+    {
+      "name": "Powers",
+      "affiliations": []
+    },
+    {
+      "name": "Ramsey",
+      "affiliations": []
+    },
+    {
+      "name": "Schwab",
+      "affiliations": []
+    },
+    {
+      "name": "Swaby",
+      "affiliations": []
+    },
+    {
+      "name": "Terrien",
+      "affiliations": []
+    },
+    {
+      "name": "Wisniewski",
+      "affiliations": []
+    },
+    {
+      "name": "Chachan",
+      "affiliations": []
+    },
+    {
+      "name": "Chang",
+      "affiliations": []
+    },
+    {
+      "name": "Masseron",
+      "affiliations": []
+    },
+    {
+      "name": "Csizmadia",
+      "affiliations": []
+    },
+    {
+      "name": "Deline",
+      "affiliations": []
+    },
+    {
+      "name": "Hoyer",
+      "affiliations": []
+    },
+    {
+      "name": "Salmon",
+      "affiliations": []
+    },
+    {
+      "name": "Benz",
+      "affiliations": []
+    },
+    {
+      "name": "Broeg",
+      "affiliations": []
+    },
+    {
+      "name": "Ehrenreich",
+      "affiliations": []
+    },
+    {
+      "name": "Fortier",
+      "affiliations": []
+    },
+    {
+      "name": "Queloz",
+      "affiliations": []
+    },
+    {
+      "name": "Bonfanti",
+      "affiliations": []
+    },
+    {
+      "name": "Brandeker",
+      "affiliations": []
+    },
+    {
+      "name": "Collier Cameron",
+      "affiliations": []
+    },
+    {
+      "name": "Delrez",
+      "affiliations": []
+    },
+    {
+      "name": "Garcia Muñoz",
+      "affiliations": []
+    },
+    {
+      "name": "Hooton",
+      "affiliations": []
+    },
+    {
+      "name": "Maxted",
+      "affiliations": []
+    },
+    {
+      "name": "Morris",
+      "affiliations": []
+    },
+    {
+      "name": "Van Grootel",
+      "affiliations": []
+    },
+    {
+      "name": "Wilson",
+      "affiliations": []
+    },
+    {
+      "name": "Alibert",
+      "affiliations": []
+    },
+    {
+      "name": "Alonso",
+      "affiliations": []
+    },
+    {
+      "name": "Asquier",
+      "affiliations": []
+    },
+    {
+      "name": "Bandy",
+      "affiliations": []
+    },
+    {
+      "name": "Bárczy",
+      "affiliations": []
+    },
+    {
+      "name": "Barrado",
+      "affiliations": []
+    },
+    {
+      "name": "Barros",
+      "affiliations": []
+    },
+    {
+      "name": "Baumjohann",
+      "affiliations": []
+    },
+    {
+      "name": "Beck",
+      "affiliations": []
+    },
+    {
+      "name": "Bekkelien",
+      "affiliations": []
+    },
+    {
+      "name": "Bergomi",
+      "affiliations": []
+    },
+    {
+      "name": "Billot",
+      "affiliations": []
+    },
+    {
+      "name": "Biondi",
+      "affiliations": []
+    },
+    {
+      "name": "Bonfils",
+      "affiliations": []
+    },
+    {
+      "name": "Bourrier",
+      "affiliations": []
+    },
+    {
+      "name": "Busch",
+      "affiliations": []
+    },
+    {
+      "name": "Cabrera",
+      "affiliations": []
+    },
+    {
+      "name": "Cessa",
+      "affiliations": []
+    },
+    {
+      "name": "Charnoz",
+      "affiliations": []
+    },
+    {
+      "name": "Chazelas",
+      "affiliations": []
+    },
+    {
+      "name": "Corral Van Damme",
+      "affiliations": []
+    },
+    {
+      "name": "Davies",
+      "affiliations": []
+    },
+    {
+      "name": "Deleuil",
+      "affiliations": []
+    },
+    {
+      "name": "Demangeon",
+      "affiliations": []
+    },
+    {
+      "name": "Demory",
+      "affiliations": []
+    },
+    {
+      "name": "Erikson",
+      "affiliations": []
+    },
+    {
+      "name": "Farinato",
+      "affiliations": []
+    },
+    {
+      "name": "Fridlund",
+      "affiliations": []
+    },
+    {
+      "name": "Futyan",
+      "affiliations": []
+    },
+    {
+      "name": "Gandolfi",
+      "affiliations": []
+    },
+    {
+      "name": "Guterman",
+      "affiliations": []
+    },
+    {
+      "name": "Hasiba",
+      "affiliations": []
+    },
+    {
+      "name": "Hernandez",
+      "affiliations": []
+    },
+    {
+      "name": "Isaak",
+      "affiliations": []
+    },
+    {
+      "name": "Kiss",
+      "affiliations": []
+    },
+    {
+      "name": "Kuntzer",
+      "affiliations": []
+    },
+    {
+      "name": "Lecavelier des Etangs",
+      "affiliations": []
+    },
+    {
+      "name": "Lüftinger",
+      "affiliations": []
+    },
+    {
+      "name": "Laskar",
+      "affiliations": []
+    },
+    {
+      "name": "Lovis",
+      "affiliations": []
+    },
+    {
+      "name": "Magrin",
+      "affiliations": []
+    },
+    {
+      "name": "Malvasio",
+      "affiliations": []
+    },
+    {
+      "name": "Marafatto",
+      "affiliations": []
+    },
+    {
+      "name": "Michaelis",
+      "affiliations": []
+    },
+    {
+      "name": "Munari",
+      "affiliations": []
+    },
+    {
+      "name": "Olofsson",
+      "affiliations": []
+    },
+    {
+      "name": "Ottacher",
+      "affiliations": []
+    },
+    {
+      "name": "Ottensamer",
+      "affiliations": []
+    },
+    {
+      "name": "Peter",
+      "affiliations": []
+    },
+    {
+      "name": "Piazza",
+      "affiliations": []
+    },
+    {
+      "name": "Pollacco",
+      "affiliations": []
+    },
+    {
+      "name": "Ratti",
+      "affiliations": []
+    },
+    {
+      "name": "Rauer",
+      "affiliations": []
+    },
+    {
+      "name": "Ragazzoni",
+      "affiliations": []
+    },
+    {
+      "name": "Rando",
+      "affiliations": []
+    },
+    {
+      "name": "Ribas",
+      "affiliations": []
+    },
+    {
+      "name": "Rieder",
+      "affiliations": []
+    },
+    {
+      "name": "Rohlfs",
+      "affiliations": []
+    },
+    {
+      "name": "Safa",
+      "affiliations": []
+    },
+    {
+      "name": "Santos",
+      "affiliations": []
+    },
+    {
+      "name": "Ségransan",
+      "affiliations": []
+    },
+    {
+      "name": "Simon",
+      "affiliations": []
+    },
+    {
+      "name": "Singh",
+      "affiliations": []
+    },
+    {
+      "name": "Smith",
+      "affiliations": []
+    },
+    {
+      "name": "Sordet",
+      "affiliations": []
+    },
+    {
+      "name": "Sousa",
+      "affiliations": []
+    },
+    {
+      "name": "Steller",
+      "affiliations": []
+    },
+    {
+      "name": "Szabó",
+      "affiliations": []
+    },
+    {
+      "name": "Tschentscher",
+      "affiliations": []
+    },
+    {
+      "name": "Udry",
+      "affiliations": []
+    },
+    {
+      "name": "Viotto",
+      "affiliations": []
+    },
+    {
+      "name": "Walter",
+      "affiliations": []
+    },
+    {
+      "name": "Walton",
+      "affiliations": []
+    },
+    {
+      "name": "Wildi",
+      "affiliations": []
+    },
+    {
+      "name": "Wolter",
+      "affiliations": []
+    },
+    {
+      "name": "Lacy",
+      "affiliations": []
+    },
+    {
+      "name": "Burrows",
+      "affiliations": []
+    },
+    {
+      "name": "Chen",
+      "affiliations": []
+    },
+    {
+      "name": "Casasayas-Barris",
+      "affiliations": []
+    },
+    {
+      "name": "Luque",
+      "affiliations": []
+    },
+    {
+      "name": "Wilcomb",
+      "affiliations": []
+    },
+    {
+      "name": "Konopacky",
+      "affiliations": []
+    },
+    {
+      "name": "Theissen",
+      "affiliations": []
+    },
+    {
+      "name": "Ruffio",
+      "affiliations": []
+    },
+    {
+      "name": "Brock",
+      "affiliations": []
+    },
+    {
+      "name": "Macintosh",
+      "affiliations": []
+    },
+    {
+      "name": "Marois",
+      "affiliations": []
+    },
+    {
+      "name": "Benatti",
+      "affiliations": []
+    },
+    {
+      "name": "Damasso",
+      "affiliations": []
+    },
+    {
+      "name": "Ghedina",
+      "affiliations": []
+    },
+    {
+      "name": "Leto",
+      "affiliations": []
+    },
+    {
+      "name": "Maldonado",
+      "affiliations": []
+    },
+    {
+      "name": "Fantinel",
+      "affiliations": []
+    },
+    {
+      "name": "Galli",
+      "affiliations": []
+    },
+    {
+      "name": "Sanna",
+      "affiliations": []
+    },
+    {
+      "name": "Tozzi",
+      "affiliations": []
+    },
+    {
+      "name": "Stangret",
+      "affiliations": []
+    },
+    {
+      "name": "Tabernero",
+      "affiliations": []
+    },
+    {
+      "name": "Yan",
+      "affiliations": []
+    },
+    {
+      "name": "Zapatero Osorio",
+      "affiliations": []
+    },
+    {
+      "name": "Oshagh",
+      "affiliations": []
+    },
+    {
+      "name": "Pepe",
+      "affiliations": []
+    },
+    {
+      "name": "Rebolo",
+      "affiliations": []
+    },
+    {
+      "name": "Molaro",
+      "affiliations": []
+    },
+    {
+      "name": "Cristiani",
+      "affiliations": []
+    },
+    {
+      "name": "Adibekyan",
+      "affiliations": []
+    },
+    {
+      "name": "Prieto",
+      "affiliations": []
+    },
+    {
+      "name": "Bouchy",
+      "affiliations": []
+    },
+    {
+      "name": "Marcantonio",
+      "affiliations": []
+    },
+    {
+      "name": "D́Odorico",
+      "affiliations": []
+    },
+    {
+      "name": "Figueira",
+      "affiliations": []
+    },
+    {
+      "name": "González Hernández",
+      "affiliations": []
+    },
+    {
+      "name": "Lavie",
+      "affiliations": []
+    },
+    {
+      "name": "Curto",
+      "affiliations": []
+    },
+    {
+      "name": "Mehner",
+      "affiliations": []
+    },
+    {
+      "name": "Nunes",
+      "affiliations": []
+    },
+    {
+      "name": "Mascareño",
+      "affiliations": []
+    },
+    {
+      "name": "Serindag",
+      "affiliations": []
+    },
+    {
+      "name": "Sheppard",
+      "affiliations": []
+    },
+    {
+      "name": "Williamson",
+      "affiliations": []
+    },
+    {
+      "name": "Sanz-Forcada",
+      "affiliations": []
+    },
+    {
+      "name": "Lavvas",
+      "affiliations": []
+    },
+    {
+      "name": "Ballester",
+      "affiliations": []
+    },
+    {
+      "name": "Evans",
+      "affiliations": []
+    },
+    {
+      "name": "Muñoz",
+      "affiliations": []
+    },
+    {
+      "name": "dos Santos",
+      "affiliations": []
+    },
+    {
+      "name": "Braam",
+      "affiliations": []
+    },
+    {
+      "name": "van der Tak",
+      "affiliations": []
+    },
+    {
+      "name": "Rathcke",
+      "affiliations": []
+    },
+    {
+      "name": "ao M. Mendonça",
+      "affiliations": []
+    },
+    {
+      "name": "Buchhave",
+      "affiliations": []
+    },
+    {
+      "name": "Ishizuka",
+      "affiliations": []
+    },
+    {
+      "name": "Kawahara",
+      "affiliations": []
+    },
+    {
+      "name": "Nugroho",
+      "affiliations": []
+    },
+    {
+      "name": "Kawashima",
+      "affiliations": []
+    },
+    {
+      "name": "Hirano",
+      "affiliations": []
+    },
+    {
+      "name": "Tamura",
+      "affiliations": []
+    },
+    {
+      "name": "Keating",
+      "affiliations": []
+    },
+    {
+      "name": "Vos",
+      "affiliations": []
+    },
+    {
+      "name": "Burningham",
+      "affiliations": []
+    },
+    {
+      "name": "Ygouf",
+      "affiliations": []
+    },
+    {
+      "name": "Karalidi",
+      "affiliations": []
+    },
+    {
+      "name": "Gonzales",
+      "affiliations": []
+    },
+    {
+      "name": "Hammond",
+      "affiliations": []
+    },
+    {
+      "name": "Agúndez",
+      "affiliations": []
+    },
+    {
+      "name": "Molli‘ere",
+      "affiliations": []
+    },
+    {
+      "name": "Hoch",
+      "affiliations": []
+    },
+    {
+      "name": "Rosa",
+      "affiliations": []
+    },
+    {
+      "name": "Czekala",
+      "affiliations": []
+    },
+    {
+      "name": "Sedaghati",
+      "affiliations": []
+    },
+    {
+      "name": "Boffin",
+      "affiliations": []
+    },
+    {
+      "name": "Rodler",
+      "affiliations": []
+    },
+    {
+      "name": "Brahm",
+      "affiliations": []
+    },
+    {
+      "name": "Jones",
+      "affiliations": []
+    },
+    {
+      "name": "Sánchez-López",
+      "affiliations": []
+    },
+    {
+      "name": "López-Puertas",
+      "affiliations": []
+    },
+    {
+      "name": "Zalesky",
+      "affiliations": []
+    },
+    {
+      "name": "Mace",
+      "affiliations": []
+    },
+    {
+      "name": "Patience",
+      "affiliations": []
+    },
+    {
+      "name": "Wardenier",
+      "affiliations": []
+    },
+    {
+      "name": "Delorme",
+      "affiliations": []
+    },
+    {
+      "name": "Jovanovic",
+      "affiliations": []
+    },
+    {
+      "name": "Pezzato",
+      "affiliations": []
+    },
+    {
+      "name": "Echeverri",
+      "affiliations": []
+    },
+    {
+      "name": "Finnerty",
+      "affiliations": []
+    },
+    {
+      "name": "Zanazzi",
+      "affiliations": []
+    },
+    {
+      "name": "Bryan",
+      "affiliations": []
+    },
+    {
+      "name": "Bond",
+      "affiliations": []
+    },
+    {
+      "name": "Cetre",
+      "affiliations": []
+    },
+    {
+      "name": "Mawet",
+      "affiliations": []
+    },
+    {
+      "name": "Xuan",
+      "affiliations": []
+    },
+    {
+      "name": "Wallace",
+      "affiliations": []
+    },
+    {
+      "name": "Bartos",
+      "affiliations": []
+    },
+    {
+      "name": "Blake",
+      "affiliations": []
+    },
+    {
+      "name": "Boden",
+      "affiliations": []
+    },
+    {
+      "name": "Buzard",
+      "affiliations": []
+    },
+    {
+      "name": "Calvin",
+      "affiliations": []
+    },
+    {
+      "name": "Chun",
+      "affiliations": []
+    },
+    {
+      "name": "Doppmann",
+      "affiliations": []
+    },
+    {
+      "name": "Dupuy",
+      "affiliations": []
+    },
+    {
+      "name": "Duchêne",
+      "affiliations": []
+    },
+    {
+      "name": "Feng",
+      "affiliations": []
+    },
+    {
+      "name": "Fitzgerald",
+      "affiliations": []
+    },
+    {
+      "name": "Lilley",
+      "affiliations": []
+    },
+    {
+      "name": "Liu",
+      "affiliations": []
+    },
+    {
+      "name": "Meshkat",
+      "affiliations": []
+    },
+    {
+      "name": "Miles",
+      "affiliations": []
+    },
+    {
+      "name": "Millar-Blanchaer",
+      "affiliations": []
+    },
+    {
+      "name": "Ragland",
+      "affiliations": []
+    },
+    {
+      "name": "Ruane",
+      "affiliations": []
+    },
+    {
+      "name": "Sappey",
+      "affiliations": []
+    },
+    {
+      "name": "Schofield",
+      "affiliations": []
+    },
+    {
+      "name": "Weiss",
+      "affiliations": []
+    },
+    {
+      "name": "Wetherell",
+      "affiliations": []
+    },
+    {
+      "name": "Wizinowich",
+      "affiliations": []
+    },
+    {
+      "name": "Saba",
+      "affiliations": []
+    },
+    {
+      "name": "Jolly",
+      "affiliations": []
+    },
+    {
+      "name": "Cho",
+      "affiliations": []
+    },
+    {
+      "name": "Ikoma",
+      "affiliations": []
+    },
+    {
+      "name": "Shibata",
+      "affiliations": []
+    },
+    {
+      "name": "Jørgensen",
+      "affiliations": []
+    },
+    {
+      "name": "Kasper",
+      "affiliations": []
+    },
+    {
+      "name": "Seifahrt",
+      "affiliations": []
+    },
+    {
+      "name": "Stürmer",
+      "affiliations": []
+    },
+    {
+      "name": "Webb",
+      "affiliations": []
+    },
+    {
+      "name": "de Mooij",
+      "affiliations": []
+    },
+    {
+      "name": "Deitrick",
+      "affiliations": []
+    },
+    {
+      "name": "Schroffenegger",
+      "affiliations": []
+    },
+    {
+      "name": "a. M. Mendonça",
+      "affiliations": []
+    },
+    {
+      "name": "Blažek",
+      "affiliations": []
+    },
+    {
+      "name": "Kabáth",
+      "affiliations": []
+    },
+    {
+      "name": "Skarka",
+      "affiliations": []
+    },
+    {
+      "name": "Šubjak",
+      "affiliations": []
+    },
+    {
+      "name": "Cáceres",
+      "affiliations": []
+    },
+    {
+      "name": "Ivanov",
+      "affiliations": []
+    },
+    {
+      "name": "Rojo",
+      "affiliations": []
+    },
+    {
+      "name": "Selsis",
+      "affiliations": []
+    },
+    {
+      "name": "Borde",
+      "affiliations": []
+    },
+    {
+      "name": "Spyratos",
+      "affiliations": []
+    },
+    {
+      "name": "Bazinet",
+      "affiliations": []
+    },
+    {
+      "name": "Salinas",
+      "affiliations": []
+    },
+    {
+      "name": "García Muñoz",
+      "affiliations": []
+    },
+    {
+      "name": "Rajpaul",
+      "affiliations": []
+    },
+    {
+      "name": "Koskinen",
+      "affiliations": []
+    },
+    {
+      "name": "Sreejith",
+      "affiliations": []
+    },
+    {
+      "name": "Wilson Cauley",
+      "affiliations": []
+    },
+    {
+      "name": "Haswell",
+      "affiliations": []
+    },
+    {
+      "name": "Mendonca",
+      "affiliations": []
+    },
+    {
+      "name": "Cabot",
+      "affiliations": []
+    },
+    {
+      "name": "Ulla",
+      "affiliations": []
+    },
+    {
+      "name": "Vissapragada",
+      "affiliations": []
+    },
+    {
+      "name": "Stam",
+      "affiliations": []
+    },
+    {
+      "name": "Petit dit de la Roche",
+      "affiliations": []
+    },
+    {
+      "name": "Kubyshkina",
+      "affiliations": []
+    },
+    {
+      "name": "Caceres",
+      "affiliations": []
+    },
+    {
+      "name": "Mullens",
+      "affiliations": []
+    },
+    {
+      "name": "nas",
+      "affiliations": []
+    },
+    {
+      "name": "Clampin",
+      "affiliations": []
+    },
+    {
+      "name": "Louie",
+      "affiliations": []
+    },
+    {
+      "name": "na Guerrero",
+      "affiliations": []
+    },
+    {
+      "name": "Ranjan",
+      "affiliations": []
+    },
+    {
+      "name": "Sotzen",
+      "affiliations": []
+    },
+    {
+      "name": "Valentine",
+      "affiliations": []
+    },
+    {
+      "name": "Balmer",
+      "affiliations": []
+    },
+    {
+      "name": "Bellini",
+      "affiliations": []
+    },
+    {
+      "name": "Kammerer",
+      "affiliations": []
+    },
+    {
+      "name": "Libralato",
+      "affiliations": []
+    },
+    {
+      "name": "Mountain",
+      "affiliations": []
+    },
+    {
+      "name": "Pueyo",
+      "affiliations": []
+    },
+    {
+      "name": "Rickman",
+      "affiliations": []
+    },
+    {
+      "name": "Rebollido",
+      "affiliations": []
+    },
+    {
+      "name": "Sohn",
+      "affiliations": []
+    },
+    {
+      "name": "van der Marel",
+      "affiliations": []
+    },
+    {
+      "name": "Watkins",
+      "affiliations": []
+    },
+    {
+      "name": "Rugers",
+      "affiliations": []
+    },
+    {
+      "name": "van Leur",
+      "affiliations": []
+    },
+    {
+      "name": "Bosschaart",
+      "affiliations": []
+    },
+    {
+      "name": "Zapata Trujillo",
+      "affiliations": []
+    },
+    {
+      "name": "Pettyjohn",
+      "affiliations": []
+    },
+    {
+      "name": "Sur",
+      "affiliations": []
+    },
+    {
+      "name": "Arevalo",
+      "affiliations": []
+    },
+    {
+      "name": "Hayoz",
+      "affiliations": []
+    },
+    {
+      "name": "Cugno",
+      "affiliations": []
+    },
+    {
+      "name": "Quanz",
+      "affiliations": []
+    },
+    {
+      "name": "Patapis",
+      "affiliations": []
+    },
+    {
+      "name": "Alei",
+      "affiliations": []
+    },
+    {
+      "name": "Bonse",
+      "affiliations": []
+    },
+    {
+      "name": "Dannert",
+      "affiliations": []
+    },
+    {
+      "name": "Garvin",
+      "affiliations": []
+    },
+    {
+      "name": "Gebhard",
+      "affiliations": []
+    },
+    {
+      "name": "Konrad",
+      "affiliations": []
+    },
+    {
+      "name": "Sartori",
+      "affiliations": []
+    },
+    {
+      "name": "Irwin",
+      "affiliations": []
+    },
+    {
+      "name": "Cheverall",
+      "affiliations": []
+    },
+    {
+      "name": "Gill",
+      "affiliations": []
+    },
+    {
+      "name": "Bayliss",
+      "affiliations": []
+    },
+    {
+      "name": "Bryant",
+      "affiliations": []
+    },
+    {
+      "name": "Burleigh",
+      "affiliations": []
+    },
+    {
+      "name": "Lesjak",
+      "affiliations": []
+    },
+    {
+      "name": "Nortmann",
+      "affiliations": []
+    },
+    {
+      "name": "Cont",
+      "affiliations": []
+    },
+    {
+      "name": "Reiners",
+      "affiliations": []
+    },
+    {
+      "name": "Piskunov",
+      "affiliations": []
+    },
+    {
+      "name": "Hatzes",
+      "affiliations": []
+    },
+    {
+      "name": "Boldt-Christmas",
+      "affiliations": []
+    },
+    {
+      "name": "Czesla",
+      "affiliations": []
+    },
+    {
+      "name": "Heiter",
+      "affiliations": []
+    },
+    {
+      "name": "Kochukhov",
+      "affiliations": []
+    },
+    {
+      "name": "Lavail",
+      "affiliations": []
+    },
+    {
+      "name": "Nagel",
+      "affiliations": []
+    },
+    {
+      "name": "Rains",
+      "affiliations": []
+    },
+    {
+      "name": "Rengel",
+      "affiliations": []
+    },
+    {
+      "name": "Seemann",
+      "affiliations": []
+    },
+    {
+      "name": "Shulyak",
+      "affiliations": []
+    },
+    {
+      "name": "August",
+      "affiliations": []
+    },
+    {
+      "name": "Lunine",
+      "affiliations": []
+    },
+    {
+      "name": "Sanchez",
+      "affiliations": []
+    },
+    {
+      "name": "Fowler",
+      "affiliations": []
+    },
+    {
+      "name": "Louppe",
+      "affiliations": []
+    },
+    {
+      "name": "Mendonça",
+      "affiliations": []
+    },
+    {
+      "name": "Teinturier",
+      "affiliations": []
+    },
+    {
+      "name": "Challener",
+      "affiliations": []
+    },
+    {
+      "name": "Dobbs-Dixon",
+      "affiliations": []
+    },
+    {
+      "name": "dit de la Roche",
+      "affiliations": []
+    },
+    {
+      "name": "Meier Valdés",
+      "affiliations": []
+    },
+    {
+      "name": "Oza",
+      "affiliations": []
+    },
+    {
+      "name": "Landman",
+      "affiliations": []
+    },
+    {
+      "name": "Stolker",
+      "affiliations": []
+    },
+    {
+      "name": "Costes",
+      "affiliations": []
+    },
+    {
+      "name": "Molliere",
+      "affiliations": []
+    },
+    {
+      "name": "Vigan",
+      "affiliations": []
+    },
+    {
+      "name": "Sanchez-Lopez",
+      "affiliations": []
+    },
+    {
+      "name": "Jermyn",
+      "affiliations": []
+    },
+    {
+      "name": "Allende Prieto",
+      "affiliations": []
+    },
+    {
+      "name": "D’Odorico",
+      "affiliations": []
+    },
+    {
+      "name": "Dumusque",
+      "affiliations": []
+    },
+    {
+      "name": "Faria",
+      "affiliations": []
+    },
+    {
+      "name": "Genova Santos",
+      "affiliations": []
+    },
+    {
+      "name": "Gonzalez Hernandez",
+      "affiliations": []
+    },
+    {
+      "name": "Hojjatpanah",
+      "affiliations": []
+    },
+    {
+      "name": "Lo Curto",
+      "affiliations": []
+    },
+    {
+      "name": "Seidel",
+      "affiliations": []
+    },
+    {
+      "name": "Suarez Mascareno",
+      "affiliations": []
+    },
+    {
+      "name": "Aliverti",
+      "affiliations": []
+    },
+    {
+      "name": "Affolter",
+      "affiliations": []
+    },
+    {
+      "name": "Alves",
+      "affiliations": []
+    },
+    {
+      "name": "Amate",
+      "affiliations": []
+    },
+    {
+      "name": "Avila",
+      "affiliations": []
+    },
+    {
+      "name": "Bianco",
+      "affiliations": []
+    },
+    {
+      "name": "Cabral",
+      "affiliations": []
+    },
+    {
+      "name": "Conconi",
+      "affiliations": []
+    },
+    {
+      "name": "Coelho",
+      "affiliations": []
+    },
+    {
+      "name": "Cumani",
+      "affiliations": []
+    },
+    {
+      "name": "Deiries",
+      "affiliations": []
+    },
+    {
+      "name": "Dekker",
+      "affiliations": []
+    },
+    {
+      "name": "Delabre",
+      "affiliations": []
+    },
+    {
+      "name": "Fragoso",
+      "affiliations": []
+    },
+    {
+      "name": "Genoni",
+      "affiliations": []
+    },
+    {
+      "name": "Genolet",
+      "affiliations": []
+    },
+    {
+      "name": "Hughes",
+      "affiliations": []
+    },
+    {
+      "name": "Knudstrup",
+      "affiliations": []
+    },
+    {
+      "name": "Kerber",
+      "affiliations": []
+    },
+    {
+      "name": "Landoni",
+      "affiliations": []
+    },
+    {
+      "name": "Lizon",
+      "affiliations": []
+    },
+    {
+      "name": "Maire",
+      "affiliations": []
+    },
+    {
+      "name": "Manescau",
+      "affiliations": []
+    },
+    {
+      "name": "Di Marcantonio",
+      "affiliations": []
+    },
+    {
+      "name": "Megevand",
+      "affiliations": []
+    },
+    {
+      "name": "Monteiro",
+      "affiliations": []
+    },
+    {
+      "name": "Moschetti",
+      "affiliations": []
+    },
+    {
+      "name": "Mueller",
+      "affiliations": []
+    },
+    {
+      "name": "Modigliani",
+      "affiliations": []
+    },
+    {
+      "name": "Oggioni",
+      "affiliations": []
+    },
+    {
+      "name": "Oliveira",
+      "affiliations": []
+    },
+    {
+      "name": "Pariani",
+      "affiliations": []
+    },
+    {
+      "name": "Pasquini",
+      "affiliations": []
+    },
+    {
+      "name": "Rasilla",
+      "affiliations": []
+    },
+    {
+      "name": "Redaelli",
+      "affiliations": []
+    },
+    {
+      "name": "Riva",
+      "affiliations": []
+    },
+    {
+      "name": "Santana-Tschudi",
+      "affiliations": []
+    },
+    {
+      "name": "Santin",
+      "affiliations": []
+    },
+    {
+      "name": "Segovia",
+      "affiliations": []
+    },
+    {
+      "name": "Sosnowska",
+      "affiliations": []
+    },
+    {
+      "name": "Spano",
+      "affiliations": []
+    },
+    {
+      "name": "Tenegi",
+      "affiliations": []
+    },
+    {
+      "name": "Iwert",
+      "affiliations": []
+    },
+    {
+      "name": "Zanutta",
+      "affiliations": []
+    },
+    {
+      "name": "Zerbi",
+      "affiliations": []
+    },
+    {
+      "name": "Showman",
+      "affiliations": []
+    },
+    {
+      "name": "Gharib-Nezhad",
+      "affiliations": []
+    },
+    {
+      "name": "Iyer",
+      "affiliations": []
+    },
+    {
+      "name": "Osip",
+      "affiliations": []
+    },
+    {
+      "name": "Skillen",
+      "affiliations": []
+    },
+    {
+      "name": "Apai",
+      "affiliations": []
+    },
+    {
+      "name": "Bixel",
+      "affiliations": []
+    },
+    {
+      "name": "Jordán",
+      "affiliations": []
+    },
+    {
+      "name": "Louden",
+      "affiliations": []
+    },
+    {
+      "name": "McGruder",
+      "affiliations": []
+    },
+    {
+      "name": "Weaver",
+      "affiliations": []
+    },
+    {
+      "name": "Prinoth",
+      "affiliations": []
+    },
+    {
+      "name": "Borsato",
+      "affiliations": []
+    },
+    {
+      "name": "Sandvik",
+      "affiliations": []
+    },
+    {
+      "name": "Thorsbro",
+      "affiliations": []
+    },
+    {
+      "name": "Kravchenko",
+      "affiliations": []
+    },
+    {
+      "name": "Cegla",
+      "affiliations": []
+    },
+    {
+      "name": "Guzman-Mesa",
+      "affiliations": []
+    },
+    {
+      "name": "Oreshenko",
+      "affiliations": []
+    },
+    {
+      "name": "Liberman",
+      "affiliations": []
+    },
+    {
+      "name": "López",
+      "affiliations": []
+    },
+    {
+      "name": "Venenciano",
+      "affiliations": []
+    },
+    {
+      "name": "Pudmenzky",
+      "affiliations": []
+    },
+    {
+      "name": "Latham",
+      "affiliations": []
+    },
+    {
+      "name": "Bieryla",
+      "affiliations": []
+    },
+    {
+      "name": "Esquerdo",
+      "affiliations": []
+    },
+    {
+      "name": "Berlind",
+      "affiliations": []
+    },
+    {
+      "name": "Calkins",
+      "affiliations": []
+    },
+    {
+      "name": "Beltz",
+      "affiliations": []
+    },
+    {
+      "name": "Wong",
+      "affiliations": []
+    },
+    {
+      "name": "Shivkumar",
+      "affiliations": []
+    },
+    {
+      "name": "Petz",
+      "affiliations": []
+    },
+    {
+      "name": "Johnson",
+      "affiliations": []
+    },
+    {
+      "name": "Asnodkar",
+      "affiliations": []
+    },
+    {
+      "name": "Gaudi",
+      "affiliations": []
+    },
+    {
+      "name": "Keles",
+      "affiliations": []
+    },
+    {
+      "name": "Poppenhaeger",
+      "affiliations": []
+    },
+    {
+      "name": "Sicilia",
+      "affiliations": []
+    },
+    {
+      "name": "Strassmeier",
+      "affiliations": []
+    },
+    {
+      "name": "Lueber",
+      "affiliations": []
+    },
+    {
+      "name": "Ali-Dib",
+      "affiliations": []
+    },
+    {
+      "name": "Klein",
+      "affiliations": []
+    },
+    {
+      "name": "Shi",
+      "affiliations": []
+    },
+    {
+      "name": "Zhao",
+      "affiliations": []
+    },
+    {
+      "name": "Zhai",
+      "affiliations": []
+    },
+    {
+      "name": "Ouyang",
+      "affiliations": []
+    },
+    {
+      "name": "van Boekel",
+      "affiliations": []
+    },
+    {
+      "name": "Esteves",
+      "affiliations": []
+    },
+    {
+      "name": "Ridden-Harper",
+      "affiliations": []
+    },
+    {
+      "name": "Jayawardhana",
+      "affiliations": []
+    },
+    {
+      "name": "Karjalainen",
+      "affiliations": []
+    },
+    {
+      "name": "Maguire",
+      "affiliations": []
+    },
+    {
+      "name": "Emeka-Okafor",
+      "affiliations": []
+    },
+    {
+      "name": "Korhonen",
+      "affiliations": []
+    },
+    {
+      "name": "Burheim",
+      "affiliations": []
+    },
+    {
+      "name": "Stuermer",
+      "affiliations": []
+    },
+    {
+      "name": "van Sluijs",
+      "affiliations": []
+    },
+    {
+      "name": "Kulesa",
+      "affiliations": []
+    },
+    {
+      "name": "McCarthy",
+      "affiliations": []
+    },
+    {
+      "name": "Charbonneau",
+      "affiliations": []
+    },
+    {
+      "name": "Nättilä",
+      "affiliations": []
+    },
+    {
+      "name": "Joshua",
+      "affiliations": []
+    },
+    {
+      "name": "Xin",
+      "affiliations": []
+    },
+    {
+      "name": "Agrawal",
+      "affiliations": []
+    },
+    {
+      "name": "Hsu",
+      "affiliations": []
+    },
+    {
+      "name": "Fortune",
+      "affiliations": []
+    },
+    {
+      "name": "Ramkumar",
+      "affiliations": []
+    },
+    {
+      "name": "Mori",
+      "affiliations": []
+    },
+    {
+      "name": "Grenfell",
+      "affiliations": []
+    },
+    {
+      "name": "Rugheimer",
+      "affiliations": []
+    },
+    {
+      "name": "Wunderlich",
+      "affiliations": []
+    },
+    {
+      "name": "Collaboration",
+      "affiliations": []
+    },
+    {
+      "name": "Bower",
+      "affiliations": []
+    },
+    {
+      "name": "Hakim",
+      "affiliations": []
+    },
+    {
+      "name": "Sossi",
+      "affiliations": []
+    },
+    {
+      "name": "Sanan",
+      "affiliations": []
+    },
+    {
+      "name": "Zhu",
+      "affiliations": []
+    },
+    {
+      "name": "Martínez",
+      "affiliations": []
+    },
+    {
+      "name": "Peacock",
+      "affiliations": []
+    },
+    {
+      "name": "Mayorga",
+      "affiliations": []
+    },
+    {
+      "name": "Bennett",
+      "affiliations": []
+    },
+    {
+      "name": "Gonzalez-Quiles",
+      "affiliations": []
+    },
+    {
+      "name": "Highland",
+      "affiliations": []
+    },
+    {
+      "name": "Kruse",
+      "affiliations": []
+    },
+    {
+      "name": "Zilinskas",
+      "affiliations": []
+    },
+    {
+      "name": "van Buchem",
+      "affiliations": []
+    },
+    {
+      "name": "van Westrenen",
+      "affiliations": []
+    },
+    {
+      "name": "Whittaker",
+      "affiliations": []
+    },
+    {
+      "name": "Kite",
+      "affiliations": []
+    },
+    {
+      "name": "Koll",
+      "affiliations": []
+    },
+    {
+      "name": "Cronin",
+      "affiliations": []
+    },
+    {
+      "name": "Foley",
+      "affiliations": []
+    },
+    {
+      "name": "Polanski",
+      "affiliations": []
+    },
+    {
+      "name": "Coria",
+      "affiliations": []
+    },
+    {
+      "name": "Wienke",
+      "affiliations": []
+    },
+    {
+      "name": "Dragomir",
+      "affiliations": []
+    },
+    {
+      "name": "Gorjian",
+      "affiliations": []
+    },
+    {
+      "name": "Christiansen",
+      "affiliations": []
+    },
+    {
+      "name": "Morales",
+      "affiliations": []
+    },
+    {
+      "name": "Nguyen",
+      "affiliations": []
+    },
+    {
+      "name": "Janssen",
+      "affiliations": []
+    },
+    {
+      "name": "Woitke",
+      "affiliations": []
+    },
+    {
+      "name": "Herbort",
+      "affiliations": []
+    },
+    {
+      "name": "Brugman",
+      "affiliations": []
+    },
+    {
+      "name": "Shahar",
+      "affiliations": []
+    },
+    {
+      "name": "Miozzi",
+      "affiliations": []
+    },
+    {
+      "name": "Driscoll",
+      "affiliations": []
+    },
+    {
+      "name": "Deibert",
+      "affiliations": []
+    },
+    {
+      "name": "Kotani",
+      "affiliations": []
+    },
+    {
+      "name": "Kuzuhara",
+      "affiliations": []
+    },
+    {
+      "name": "Omiya",
+      "affiliations": []
+    },
+    {
+      "name": "Kusakabe",
+      "affiliations": []
+    },
+    {
+      "name": "Owen",
+      "affiliations": []
+    },
+    {
+      "name": "Schulik",
+      "affiliations": []
+    },
+    {
+      "name": "Seligman",
+      "affiliations": []
+    },
+    {
+      "name": "Lai",
+      "affiliations": []
+    },
+    {
+      "name": "Becker",
+      "affiliations": []
+    },
+    {
+      "name": "Adams",
+      "affiliations": []
+    },
+    {
+      "name": "Morgan",
+      "affiliations": []
+    },
+    {
+      "name": "Bergner",
+      "affiliations": []
+    },
+    {
+      "name": "Greaves",
+      "affiliations": []
+    },
+    {
+      "name": "Rimmer",
+      "affiliations": []
+    },
+    {
+      "name": "Richards",
+      "affiliations": []
+    },
+    {
+      "name": "Petkowski",
+      "affiliations": []
+    },
+    {
+      "name": "Bains",
+      "affiliations": []
+    },
+    {
+      "name": "Clements",
+      "affiliations": []
+    },
+    {
+      "name": "Silva",
+      "affiliations": []
+    },
+    {
+      "name": "Fraser",
+      "affiliations": []
+    },
+    {
+      "name": "Dias",
+      "affiliations": []
+    },
+    {
+      "name": "Machado",
+      "affiliations": []
+    },
+    {
+      "name": "Ribeiro",
+      "affiliations": []
+    },
+    {
+      "name": "Koga",
+      "affiliations": []
+    },
+    {
+      "name": "Suzuki",
+      "affiliations": []
+    },
+    {
+      "name": "Tsuchiya",
+      "affiliations": []
+    },
+    {
+      "name": "Sakanoi",
+      "affiliations": []
+    },
+    {
+      "name": "Hirahara",
+      "affiliations": []
+    },
+    {
+      "name": "Cambianica",
+      "affiliations": []
+    },
+    {
+      "name": "Cremonese",
+      "affiliations": []
+    },
+    {
+      "name": "Munaretto",
+      "affiliations": []
+    },
+    {
+      "name": "Capria",
+      "affiliations": []
+    },
+    {
+      "name": "Fulle",
+      "affiliations": []
+    },
+    {
+      "name": "Boschin",
+      "affiliations": []
+    },
+    {
+      "name": "Di Fabrizio",
+      "affiliations": []
+    },
+    {
+      "name": "Arfaux",
+      "affiliations": []
+    },
+    {
+      "name": "Lefèvre",
+      "affiliations": []
+    },
+    {
+      "name": "Ito",
+      "affiliations": []
+    },
+    {
+      "name": "Konings",
+      "affiliations": []
+    },
+    {
+      "name": "Stotesbury",
+      "affiliations": []
+    },
+    {
+      "name": "Bocchieri",
+      "affiliations": []
+    },
+    {
+      "name": "Pascale",
+      "affiliations": []
+    },
+    {
+      "name": "Zellem",
+      "affiliations": []
+    },
+    {
+      "name": "Lueftinger",
+      "affiliations": []
+    },
+    {
+      "name": "Rocchetto",
+      "affiliations": []
+    },
+    {
+      "name": "Lust",
+      "affiliations": []
+    },
+    {
+      "name": "Bowman",
+      "affiliations": []
+    },
+    {
+      "name": "Blumenthal",
+      "affiliations": []
+    },
+    {
+      "name": "Foster",
+      "affiliations": []
+    },
+    {
+      "name": "Green",
+      "affiliations": []
+    },
+    {
+      "name": "Loredo",
+      "affiliations": []
+    },
+    {
+      "name": "McIntyre",
+      "affiliations": []
+    },
+    {
+      "name": "Stemm",
+      "affiliations": []
+    },
+    {
+      "name": "Fauchez",
+      "affiliations": []
+    },
+    {
+      "name": "Leung",
+      "affiliations": []
+    },
+    {
+      "name": "Faggi",
+      "affiliations": []
+    },
+    {
+      "name": "Mak",
+      "affiliations": []
+    },
+    {
+      "name": "Sergeev",
+      "affiliations": []
+    },
+    {
+      "name": "Kozakis",
+      "affiliations": []
+    },
+    {
+      "name": "Schwieterman",
+      "affiliations": []
+    },
+    {
+      "name": "Howe",
+      "affiliations": []
+    },
+    {
+      "name": "Ormel",
+      "affiliations": []
+    },
+    {
+      "name": "Wheeler",
+      "affiliations": []
+    },
+    {
+      "name": "Casey",
+      "affiliations": []
+    },
+    {
+      "name": "Abruzzo",
+      "affiliations": []
+    },
+    {
+      "name": "Zhan",
+      "affiliations": []
+    },
+    {
+      "name": "Ishikawa",
+      "affiliations": []
+    },
+    {
+      "name": "Aoki",
+      "affiliations": []
+    },
+    {
+      "name": "Zechmeister",
+      "affiliations": []
+    },
+    {
+      "name": "Lyubchyk",
+      "affiliations": []
+    },
+    {
+      "name": "Lyubchik",
+      "affiliations": []
+    },
+    {
+      "name": "Bessell",
+      "affiliations": []
+    },
+    {
+      "name": "Allard",
+      "affiliations": []
+    },
+    {
+      "name": "Pinfield",
+      "affiliations": []
+    },
+    {
+      "name": "Cristofari",
+      "affiliations": []
+    },
+    {
+      "name": "Folsom",
+      "affiliations": []
+    },
+    {
+      "name": "Moutou",
+      "affiliations": []
+    },
+    {
+      "name": "Petit",
+      "affiliations": []
+    },
+    {
+      "name": "the SLS consortium",
+      "affiliations": []
+    },
+    {
+      "name": "Geballe",
+      "affiliations": []
+    },
+    {
+      "name": "Gehrz",
+      "affiliations": []
+    },
+    {
+      "name": "Woodward",
+      "affiliations": []
+    },
+    {
+      "name": "Starrfield",
+      "affiliations": []
+    },
+    {
+      "name": "Brandt",
+      "affiliations": []
+    },
+    {
+      "name": "Gagliuffi",
+      "affiliations": []
+    },
+    {
+      "name": "Faherty",
+      "affiliations": []
+    },
+    {
+      "name": "Michalik",
+      "affiliations": []
+    },
+    {
+      "name": "von Essen",
+      "affiliations": []
+    },
+    {
+      "name": "Mallonn",
+      "affiliations": []
+    },
+    {
+      "name": "Agol",
+      "affiliations": []
+    },
+    {
+      "name": "Antoci",
+      "affiliations": []
+    },
+    {
+      "name": "Khalafinejad",
+      "affiliations": []
+    },
+    {
+      "name": "Tautvaisiene",
+      "affiliations": []
+    },
+    {
+      "name": "Jensen-Clem",
+      "affiliations": []
+    },
+    {
+      "name": "Saumon",
+      "affiliations": []
+    },
+    {
+      "name": "Seay",
+      "affiliations": []
+    },
+    {
+      "name": "Teal",
+      "affiliations": []
+    },
+    {
+      "name": "Cushing",
+      "affiliations": []
+    },
+    {
+      "name": "Kirkpatrick",
+      "affiliations": []
+    },
+    {
+      "name": "Gelino",
+      "affiliations": []
+    },
+    {
+      "name": "Eisenhardt",
+      "affiliations": []
+    },
+    {
+      "name": "Skrutskie",
+      "affiliations": []
+    },
+    {
+      "name": "Marsh",
+      "affiliations": []
+    },
+    {
+      "name": "Tannock",
+      "affiliations": []
+    },
+    {
+      "name": "Metchev",
+      "affiliations": []
+    },
+    {
+      "name": "Jaffe",
+      "affiliations": []
+    },
+    {
+      "name": "Kolecki",
+      "affiliations": []
+    },
+    {
+      "name": "Horstman",
+      "affiliations": []
+    },
+    {
+      "name": "Ren",
+      "affiliations": []
+    },
+    {
+      "name": "Rowland",
+      "affiliations": []
+    },
+    {
+      "name": "Ardevol Martinez",
+      "affiliations": []
+    },
+    {
+      "name": "Vasist",
+      "affiliations": []
+    },
+    {
+      "name": "Argyriou",
+      "affiliations": []
+    },
+    {
+      "name": "Samland",
+      "affiliations": []
+    },
+    {
+      "name": "Waters",
+      "affiliations": []
+    },
+    {
+      "name": "Morales-Calderón",
+      "affiliations": []
+    },
+    {
+      "name": "Guedel",
+      "affiliations": []
+    },
+    {
+      "name": "Vandenbussche",
+      "affiliations": []
+    },
+    {
+      "name": "Absil",
+      "affiliations": []
+    },
+    {
+      "name": "Baudoz",
+      "affiliations": []
+    },
+    {
+      "name": "Boccaletti",
+      "affiliations": []
+    },
+    {
+      "name": "Cossou",
+      "affiliations": []
+    },
+    {
+      "name": "Coulais",
+      "affiliations": []
+    },
+    {
+      "name": "Gastaud",
+      "affiliations": []
+    },
+    {
+      "name": "Glauser",
+      "affiliations": []
+    },
+    {
+      "name": "Kamp",
+      "affiliations": []
+    },
+    {
+      "name": "Krause",
+      "affiliations": []
+    },
+    {
+      "name": "Lahuis",
+      "affiliations": []
+    },
+    {
+      "name": "Pye",
+      "affiliations": []
+    },
+    {
+      "name": "Rouan",
+      "affiliations": []
+    },
+    {
+      "name": "Royer",
+      "affiliations": []
+    },
+    {
+      "name": "Scheithauer",
+      "affiliations": []
+    },
+    {
+      "name": "Colina",
+      "affiliations": []
+    },
+    {
+      "name": "van Dishoeck",
+      "affiliations": []
+    },
+    {
+      "name": "Östlin",
+      "affiliations": []
+    },
+    {
+      "name": "Bonavita",
+      "affiliations": []
+    },
+    {
+      "name": "Wolf",
+      "affiliations": []
+    },
+    {
+      "name": "Chilcote",
+      "affiliations": []
+    },
+    {
+      "name": "Crepp",
+      "affiliations": []
+    },
+    {
+      "name": "Fontanive",
+      "affiliations": []
+    },
+    {
+      "name": "Groff",
+      "affiliations": []
+    },
+    {
+      "name": "Gratton",
+      "affiliations": []
+    },
+    {
+      "name": "Guyon",
+      "affiliations": []
+    },
+    {
+      "name": "Kasdin",
+      "affiliations": []
+    },
+    {
+      "name": "Lozi",
+      "affiliations": []
+    },
+    {
+      "name": "Magnier",
+      "affiliations": []
+    },
+    {
+      "name": "Mužić",
+      "affiliations": []
+    },
+    {
+      "name": "Sanghi",
+      "affiliations": []
+    },
+    {
+      "name": "Bezanson",
+      "affiliations": []
+    },
+    {
+      "name": "Labbe",
+      "affiliations": []
+    },
+    {
+      "name": "Brammer",
+      "affiliations": []
+    },
+    {
+      "name": "Cutler",
+      "affiliations": []
+    },
+    {
+      "name": "Furtak",
+      "affiliations": []
+    },
+    {
+      "name": "Gerasimov",
+      "affiliations": []
+    },
+    {
+      "name": "Leja",
+      "affiliations": []
+    },
+    {
+      "name": "Pan",
+      "affiliations": []
+    },
+    {
+      "name": "Price",
+      "affiliations": []
+    },
+    {
+      "name": "Whitaker",
+      "affiliations": []
+    },
+    {
+      "name": "Fujimoto",
+      "affiliations": []
+    },
+    {
+      "name": "Kokorev",
+      "affiliations": []
+    },
+    {
+      "name": "Dayal",
+      "affiliations": []
+    },
+    {
+      "name": "Nanayakkara",
+      "affiliations": []
+    },
+    {
+      "name": "Marchesini",
+      "affiliations": []
+    },
+    {
+      "name": "Zitrin",
+      "affiliations": []
+    },
+    {
+      "name": "van Dokkum",
+      "affiliations": []
+    },
+    {
+      "name": "Lew",
+      "affiliations": []
+    },
+    {
+      "name": "Roellig",
+      "affiliations": []
+    },
+    {
+      "name": "Murkherjee",
+      "affiliations": []
+    },
+    {
+      "name": "Meyer",
+      "affiliations": []
+    },
+    {
+      "name": "Beichman",
+      "affiliations": []
+    },
+    {
+      "name": "de Oliveira",
+      "affiliations": []
+    },
+    {
+      "name": "De Furio",
+      "affiliations": []
+    },
+    {
+      "name": "Greenbaum",
+      "affiliations": []
+    },
+    {
+      "name": "Young",
+      "affiliations": []
+    },
+    {
+      "name": "Leisenring",
+      "affiliations": []
+    },
+    {
+      "name": "Hodapp",
+      "affiliations": []
+    },
+    {
+      "name": "Misselt",
+      "affiliations": []
+    },
+    {
+      "name": "Guo",
+      "affiliations": []
+    },
+    {
+      "name": "Lucas",
+      "affiliations": []
+    },
+    {
+      "name": "Kurtev",
+      "affiliations": []
+    },
+    {
+      "name": "Borissova",
+      "affiliations": []
+    },
+    {
+      "name": "Contreras Peña",
+      "affiliations": []
+    },
+    {
+      "name": "Minniti",
+      "affiliations": []
+    },
+    {
+      "name": "Saito",
+      "affiliations": []
+    },
+    {
+      "name": "Bayo",
+      "affiliations": []
+    },
+    {
+      "name": "Catelan",
+      "affiliations": []
+    },
+    {
+      "name": "Alonso-García",
+      "affiliations": []
+    },
+    {
+      "name": "Caratti o Garatti",
+      "affiliations": []
+    },
+    {
+      "name": "Froebrich",
+      "affiliations": []
+    },
+    {
+      "name": "Maucó",
+      "affiliations": []
+    },
+    {
+      "name": "Aguayo",
+      "affiliations": []
+    },
+    {
+      "name": "Miller",
+      "affiliations": []
+    },
+    {
+      "name": "Muthu",
+      "affiliations": []
+    },
+    {
+      "name": "Danilovich",
+      "affiliations": []
+    },
+    {
+      "name": "Gottlieb",
+      "affiliations": []
+    },
+    {
+      "name": "Kaminski",
+      "affiliations": []
+    },
+    {
+      "name": "Patel",
+      "affiliations": []
+    },
+    {
+      "name": "Menten",
+      "affiliations": []
+    },
+    {
+      "name": "Pastorelli",
+      "affiliations": []
+    },
+    {
+      "name": "Marigo",
+      "affiliations": []
+    },
+    {
+      "name": "Girardi",
+      "affiliations": []
+    },
+    {
+      "name": "Aringer",
+      "affiliations": []
+    },
+    {
+      "name": "Rubele",
+      "affiliations": []
+    },
+    {
+      "name": "Trabucchi",
+      "affiliations": []
+    },
+    {
+      "name": "Bladh",
+      "affiliations": []
+    },
+    {
+      "name": "Bressan",
+      "affiliations": []
+    },
+    {
+      "name": "Dalcanton",
+      "affiliations": []
+    },
+    {
+      "name": "Groenewegen",
+      "affiliations": []
+    },
+    {
+      "name": "Lebzelter",
+      "affiliations": []
+    },
+    {
+      "name": "Mowlavi",
+      "affiliations": []
+    },
+    {
+      "name": "Cioni",
+      "affiliations": []
+    },
+    {
+      "name": "de Grijs",
+      "affiliations": []
+    },
+    {
+      "name": "Nanni",
+      "affiliations": []
+    },
+    {
+      "name": "van Loon",
+      "affiliations": []
+    },
+    {
+      "name": "Zaggia",
+      "affiliations": []
+    },
+    {
+      "name": "García-Hernández",
+      "affiliations": []
+    },
+    {
+      "name": "Kameswara Rao",
+      "affiliations": []
+    },
+    {
+      "name": "Lambert",
+      "affiliations": []
+    },
+    {
+      "name": "Eriksson",
+      "affiliations": []
+    },
+    {
+      "name": "Reddy",
+      "affiliations": []
+    },
+    {
+      "name": "Mobeen",
+      "affiliations": []
+    },
+    {
+      "name": "Matter",
+      "affiliations": []
+    },
+    {
+      "name": "Wittkowski",
+      "affiliations": []
+    },
+    {
+      "name": "Paladini",
+      "affiliations": []
+    },
+    {
+      "name": "Liljegren",
+      "affiliations": []
+    },
+    {
+      "name": "Jerkstrand",
+      "affiliations": []
+    },
+    {
+      "name": "Barklem",
+      "affiliations": []
+    },
+    {
+      "name": "Nyman",
+      "affiliations": []
+    },
+    {
+      "name": "Nickerson",
+      "affiliations": []
+    },
+    {
+      "name": "Rangwala",
+      "affiliations": []
+    },
+    {
+      "name": "Colgan",
+      "affiliations": []
+    },
+    {
+      "name": "DeWitt",
+      "affiliations": []
+    },
+    {
+      "name": "Acharyya",
+      "affiliations": []
+    },
+    {
+      "name": "Drozdovskaya",
+      "affiliations": []
+    },
+    {
+      "name": "Fortenberry",
+      "affiliations": []
+    },
+    {
+      "name": "Herbst",
+      "affiliations": []
+    },
+    {
+      "name": "Monzon",
+      "affiliations": []
+    },
+    {
+      "name": "Bowen",
+      "affiliations": []
+    },
+    {
+      "name": "Hillenbrand",
+      "affiliations": []
+    },
+    {
+      "name": "Lievin",
+      "affiliations": []
+    },
+    {
+      "name": "Savin",
+      "affiliations": []
+    },
+    {
+      "name": "Urbain",
+      "affiliations": []
+    },
+    {
+      "name": "LoCurto",
+      "affiliations": []
+    },
+    {
+      "name": "Welch",
+      "affiliations": []
+    },
+    {
+      "name": "Sippel",
+      "affiliations": []
+    },
+    {
+      "name": "Michael",
+      "affiliations": []
+    },
+    {
+      "name": "Daniel",
+      "affiliations": []
+    },
+    {
+      "name": "Murzyn",
+      "affiliations": []
+    },
+    {
+      "name": "Lynch",
+      "affiliations": []
+    },
+    {
+      "name": "Downing",
+      "affiliations": []
+    },
+    {
+      "name": "Baca",
+      "affiliations": []
+    },
+    {
+      "name": "Ching",
+      "affiliations": []
+    },
+    {
+      "name": "Marinis",
+      "affiliations": []
+    },
+    {
+      "name": "Gilvey",
+      "affiliations": []
+    },
+    {
+      "name": "Ruesch",
+      "affiliations": []
+    },
+    {
+      "name": "Goldenstein",
+      "affiliations": []
+    },
+    {
+      "name": "Abraham",
+      "affiliations": []
+    },
+    {
+      "name": "Glumac",
+      "affiliations": []
+    },
+    {
+      "name": "Riedel",
+      "affiliations": []
+    },
+    {
+      "name": "Hufgard",
+      "affiliations": []
+    },
+    {
+      "name": "You",
+      "affiliations": []
+    },
+    {
+      "name": "Bobrovnikov",
+      "affiliations": []
+    },
+    {
+      "name": "Gorlov",
+      "affiliations": []
+    },
+    {
+      "name": "Zharkov",
+      "affiliations": []
+    },
+    {
+      "name": "Merten",
+      "affiliations": []
+    },
+    {
+      "name": "Nicholas",
+      "affiliations": []
+    },
+    {
+      "name": "Ethridge",
+      "affiliations": []
+    },
+    {
+      "name": "Bariola",
+      "affiliations": []
+    },
+    {
+      "name": "Chestnut",
+      "affiliations": []
+    },
+    {
+      "name": "Anders",
+      "affiliations": []
+    },
+    {
+      "name": "Brees",
+      "affiliations": []
+    },
+    {
+      "name": "Pawelec",
+      "affiliations": []
+    },
+    {
+      "name": "Borodin",
+      "affiliations": []
+    },
+    {
+      "name": "Brezinsek",
+      "affiliations": []
+    },
+    {
+      "name": "Dittmar",
+      "affiliations": []
+    },
+    {
+      "name": "Douai",
+      "affiliations": []
+    },
+    {
+      "name": "Mazur",
+      "affiliations": []
+    },
+    {
+      "name": "Meigs",
+      "affiliations": []
+    },
+    {
+      "name": "Shaw",
+      "affiliations": []
+    },
+    {
+      "name": "Contributors",
+      "affiliations": []
+    },
+    {
+      "name": "Exploitation",
+      "affiliations": []
+    },
+    {
+      "name": "Yekta",
+      "affiliations": []
+    },
+    {
+      "name": "Zanjanchi",
+      "affiliations": []
+    },
+    {
+      "name": "Roohi",
+      "affiliations": []
+    },
+    {
+      "name": "Mathews",
+      "affiliations": []
+    },
+    {
+      "name": "Son",
+      "affiliations": []
+    },
+    {
+      "name": "Fateev",
+      "affiliations": []
+    },
+    {
+      "name": "Qin",
+      "affiliations": []
+    },
+    {
+      "name": "Bai",
+      "affiliations": []
+    },
+    {
+      "name": "da Silva",
+      "affiliations": []
+    },
+    {
+      "name": "Ventura",
+      "affiliations": []
+    },
+    {
+      "name": "Fellows",
+      "affiliations": []
+    },
+    {
+      "name": "Charmet",
+      "affiliations": []
+    },
+    {
+      "name": "Stoppa",
+      "affiliations": []
+    },
+    {
+      "name": "De Lorenzi",
+      "affiliations": []
+    },
+    {
+      "name": "Achilli",
+      "affiliations": []
+    },
+    {
+      "name": "Dore",
+      "affiliations": []
+    },
+    {
+      "name": "Puzzarini",
+      "affiliations": []
+    },
+    {
+      "name": "Cane",
+      "affiliations": []
+    },
+    {
+      "name": "Velasco",
+      "affiliations": []
+    },
+    {
+      "name": "Lavín",
+      "affiliations": []
+    },
+    {
+      "name": "Shapko",
+      "affiliations": []
+    },
+    {
+      "name": "Dohnal",
+      "affiliations": []
+    },
+    {
+      "name": "Roucka",
+      "affiliations": []
+    },
+    {
+      "name": "Uvarova",
+      "affiliations": []
+    },
+    {
+      "name": "Kassayova",
+      "affiliations": []
+    },
+    {
+      "name": "Plasil",
+      "affiliations": []
+    },
+    {
+      "name": "Glosik",
+      "affiliations": []
+    },
+    {
+      "name": "Znotins",
+      "affiliations": []
+    },
+    {
+      "name": "Grussie",
+      "affiliations": []
+    },
+    {
+      "name": "Kreckel",
+      "affiliations": []
+    },
+    {
+      "name": "Manceron",
+      "affiliations": []
+    },
+    {
+      "name": "Armante",
+      "affiliations": []
+    },
+    {
+      "name": "He",
+      "affiliations": []
+    },
+    {
+      "name": "Hanicinec",
+      "affiliations": []
+    },
+    {
+      "name": "Mohr",
+      "affiliations": []
+    },
+    {
+      "name": "Balciunaite",
+      "affiliations": []
+    },
+    {
+      "name": "Yuan",
+      "affiliations": []
+    },
+    {
+      "name": "Lodders",
+      "affiliations": []
+    },
+    {
+      "name": "Amundsen",
+      "affiliations": []
+    },
+    {
+      "name": "Baraffe",
+      "affiliations": []
+    },
+    {
+      "name": "Acreman",
+      "affiliations": []
+    },
+    {
+      "name": "Homeier",
+      "affiliations": []
+    },
+    {
+      "name": "Chabrier",
+      "affiliations": []
+    },
+    {
+      "name": "Protopapa",
+      "affiliations": []
+    },
+    {
+      "name": "Kurucz",
+      "affiliations": []
+    },
+    {
+      "name": "Hirose",
+      "affiliations": []
+    },
+    {
+      "name": "Hauschildt",
+      "affiliations": []
+    },
+    {
+      "name": "Minoshima",
+      "affiliations": []
+    },
+    {
+      "name": "Tomida",
+      "affiliations": []
+    },
+    {
+      "name": "Sano",
+      "affiliations": []
+    },
+    {
+      "name": "Muirhead",
+      "affiliations": []
+    },
+    {
+      "name": "Čermak",
+      "affiliations": []
+    },
+    {
+      "name": "Barber",
+      "affiliations": []
+    },
+    {
+      "name": "Dothe",
+      "affiliations": []
+    },
+    {
+      "name": "Goldman",
+      "affiliations": []
+    },
+    {
+      "name": "Babikov",
+      "affiliations": []
+    },
+    {
+      "name": "Clausen",
+      "affiliations": []
+    },
+    {
+      "name": "Ryabchikova",
+      "affiliations": []
+    },
+    {
+      "name": "Stempels",
+      "affiliations": []
+    },
+    {
+      "name": "Pakhomov",
+      "affiliations": []
+    },
+    {
+      "name": "Hrodmarsson",
+      "affiliations": []
+    },
+    {
+      "name": "Strange",
+      "affiliations": []
+    },
+    {
+      "name": "Mellau",
+      "affiliations": []
+    },
+    {
+      "name": "Chiu",
+      "affiliations": []
+    },
+    {
+      "name": "Golpayegani",
+      "affiliations": []
+    },
+    {
+      "name": "Frohman",
+      "affiliations": []
+    },
+    {
+      "name": "Patrascu",
+      "affiliations": []
+    },
+    {
+      "name": "Le Roy",
+      "affiliations": []
+    },
+    {
+      "name": "Pavlyuchko",
+      "affiliations": []
+    },
+    {
+      "name": "Paulose",
+      "affiliations": []
+    },
+    {
+      "name": "Blissett",
+      "affiliations": []
+    },
+    {
+      "name": "Asari",
+      "affiliations": []
+    },
+    {
+      "name": "Vasilios",
+      "affiliations": []
+    },
+    {
+      "name": "Ovsyannikov",
+      "affiliations": []
+    },
+    {
+      "name": "Azzam",
+      "affiliations": []
+    },
+    {
+      "name": "Kyuberis",
+      "affiliations": []
+    },
+    {
+      "name": "Alijah",
+      "affiliations": []
+    },
+    {
+      "name": "Thiel",
+      "affiliations": []
+    },
+    {
+      "name": "Prajapat",
+      "affiliations": []
+    },
+    {
+      "name": "Jagoda",
+      "affiliations": []
+    },
+    {
+      "name": "Sinden",
+      "affiliations": []
+    },
+    {
+      "name": "Nunn",
+      "affiliations": []
+    },
+    {
+      "name": "Shah",
+      "affiliations": []
+    },
+    {
+      "name": "Mant",
+      "affiliations": []
+    },
+    {
+      "name": "Szabo",
+      "affiliations": []
+    },
+    {
+      "name": "Pyatenko",
+      "affiliations": []
+    },
+    {
+      "name": "Li",
+      "affiliations": []
+    },
+    {
+      "name": "Pérez-Mesa",
+      "affiliations": []
+    },
+    {
+      "name": "Langleben",
+      "affiliations": []
+    },
+    {
+      "name": "Melnikov",
+      "affiliations": []
+    },
+    {
+      "name": "O’Donoghue",
+      "affiliations": []
+    },
+    {
+      "name": "Moore",
+      "affiliations": []
+    },
+    {
+      "name": "Buchachenko",
+      "affiliations": []
+    },
+    {
+      "name": "Stolyarov",
+      "affiliations": []
+    },
+    {
+      "name": "Adam",
+      "affiliations": []
+    },
+    {
+      "name": "Cooper",
+      "affiliations": []
+    },
+    {
+      "name": "Dobney",
+      "affiliations": []
+    },
+    {
+      "name": "Donnelly",
+      "affiliations": []
+    },
+    {
+      "name": "Meltzer",
+      "affiliations": []
+    },
+    {
+      "name": "Dooley",
+      "affiliations": []
+    },
+    {
+      "name": "McLaughlin",
+      "affiliations": []
+    },
+    {
+      "name": "Nogué",
+      "affiliations": []
+    },
+    {
+      "name": "Sarka",
+      "affiliations": []
+    },
+    {
+      "name": "Poirier",
+      "affiliations": []
+    },
+    {
+      "name": "Mitrushchenkov",
+      "affiliations": []
+    },
+    {
+      "name": "Koput",
+      "affiliations": []
+    },
+    {
+      "name": "Pearce",
+      "affiliations": []
+    },
+    {
+      "name": "Smirnov",
+      "affiliations": []
+    },
+    {
+      "name": "Vasilyev",
+      "affiliations": []
+    },
+    {
+      "name": "Solomonik",
+      "affiliations": []
+    },
+    {
+      "name": "Kim",
+      "affiliations": []
+    },
+    {
+      "name": "El-Kork",
+      "affiliations": []
+    },
+    {
+      "name": "Harris",
+      "affiliations": []
+    },
+    {
+      "name": "Larner",
+      "affiliations": []
+    },
+    {
+      "name": "Kaminsky",
+      "affiliations": []
+    },
+    {
+      "name": "Brown",
+      "affiliations": []
+    },
+    {
+      "name": "Carleer",
+      "affiliations": []
+    },
+    {
+      "name": "Jenouvrier",
+      "affiliations": []
+    },
+    {
+      "name": "Toth",
+      "affiliations": []
+    },
+    {
+      "name": "Vandaele",
+      "affiliations": []
+    },
+    {
+      "name": "Daumont",
+      "affiliations": []
+    },
+    {
+      "name": "Fazliev",
+      "affiliations": []
+    },
+    {
+      "name": "Shirin",
+      "affiliations": []
+    },
+    {
+      "name": "Akbari",
+      "affiliations": []
+    },
+    {
+      "name": "Hopkins",
+      "affiliations": []
+    },
+    {
+      "name": "Camy-Peyret",
+      "affiliations": []
+    },
+    {
+      "name": "Maillard",
+      "affiliations": []
+    },
+    {
+      "name": "Al-Derzi",
+      "affiliations": []
+    },
+    {
+      "name": "Tobias",
+      "affiliations": []
+    },
+    {
+      "name": "Germann",
+      "affiliations": []
+    },
+    {
+      "name": "Hjalten",
+      "affiliations": []
+    },
+    {
+      "name": "Pett",
+      "affiliations": []
+    },
+    {
+      "name": "Silander",
+      "affiliations": []
+    },
+    {
+      "name": "Krzempek",
+      "affiliations": []
+    },
+    {
+      "name": "Hudzikowski",
+      "affiliations": []
+    },
+    {
+      "name": "Gluszek",
+      "affiliations": []
+    },
+    {
+      "name": "Sobon",
+      "affiliations": []
+    },
+    {
+      "name": "Shuai",
+      "affiliations": []
+    },
+    {
+      "name": "Bol’shakov",
+      "affiliations": []
+    },
+    {
+      "name": "Mao",
+      "affiliations": []
+    },
+    {
+      "name": "Russo",
+      "affiliations": []
+    },
+    {
+      "name": "Hou",
+      "affiliations": []
+    },
+    {
+      "name": "Zorba",
+      "affiliations": []
+    },
+    {
+      "name": "McConkey",
+      "affiliations": []
+    },
+    {
+      "name": "Tsurikov",
+      "affiliations": []
+    },
+    {
+      "name": "Bisikalo",
+      "affiliations": []
+    },
+    {
+      "name": "Suárez Mascareño",
+      "affiliations": []
+    },
+    {
+      "name": "Leyland",
+      "affiliations": []
+    },
+    {
+      "name": "Ridgway",
+      "affiliations": []
+    },
+    {
+      "name": "Nagahara",
+      "affiliations": []
+    },
+    {
+      "name": "Nakamoto",
+      "affiliations": []
+    },
+    {
+      "name": "Moores",
+      "affiliations": []
+    },
+    {
+      "name": "Yadin",
+      "affiliations": []
+    },
+    {
+      "name": "Vaness",
+      "affiliations": []
+    },
+    {
+      "name": "Conti",
+      "affiliations": []
+    },
+    {
+      "name": "Darby-Lewis",
+      "affiliations": []
+    },
+    {
+      "name": "Lawson",
+      "affiliations": []
+    },
+    {
+      "name": "Stamp",
+      "affiliations": []
+    },
+    {
+      "name": "Brugamyer",
+      "affiliations": []
+    },
+    {
+      "name": "Dodson-Robinson",
+      "affiliations": []
+    },
+    {
+      "name": "Bordiu",
+      "affiliations": []
+    },
+    {
+      "name": "Rizzo",
+      "affiliations": []
+    },
+    {
+      "name": "Bufano",
+      "affiliations": []
+    },
+    {
+      "name": "Quintana-Lacaci",
+      "affiliations": []
+    },
+    {
+      "name": "Buemi",
+      "affiliations": []
+    },
+    {
+      "name": "Cavallaro",
+      "affiliations": []
+    },
+    {
+      "name": "Cerrigone",
+      "affiliations": []
+    },
+    {
+      "name": "Ingallinera",
+      "affiliations": []
+    },
+    {
+      "name": "Loru",
+      "affiliations": []
+    },
+    {
+      "name": "Riggi",
+      "affiliations": []
+    },
+    {
+      "name": "Trigilio",
+      "affiliations": []
+    },
+    {
+      "name": "Umana",
+      "affiliations": []
+    },
+    {
+      "name": "Sciacca",
+      "affiliations": []
+    },
+    {
+      "name": "Schilke",
+      "affiliations": []
+    },
+    {
+      "name": "Leurini",
+      "affiliations": []
+    },
+    {
+      "name": "Alcolea",
+      "affiliations": []
+    },
+    {
+      "name": "Dalgarno",
+      "affiliations": []
+    },
+    {
+      "name": "Feldman",
+      "affiliations": []
+    },
+    {
+      "name": "Matthews",
+      "affiliations": []
+    },
+    {
+      "name": "Herzberg",
+      "affiliations": []
+    },
+    {
+      "name": "Endo",
+      "affiliations": []
+    },
+    {
+      "name": "Hirota",
+      "affiliations": []
+    },
+    {
+      "name": "Davis",
+      "affiliations": []
+    },
+    {
+      "name": "Yousefi",
+      "affiliations": []
+    },
+    {
+      "name": "Hegedus",
+      "affiliations": []
+    },
+    {
+      "name": "Yorke",
+      "affiliations": []
+    },
+    {
+      "name": "Sochi",
+      "affiliations": []
+    },
+    {
+      "name": "Stallard",
+      "affiliations": []
+    },
+    {
+      "name": "Tolchenov",
+      "affiliations": []
+    },
+    {
+      "name": "Partridge",
+      "affiliations": []
+    },
+    {
+      "name": "Melin",
+      "affiliations": []
+    },
+    {
+      "name": "Sanders",
+      "affiliations": []
+    },
+    {
+      "name": "Nasir",
+      "affiliations": []
+    },
+    {
+      "name": "Voronin",
+      "affiliations": []
+    },
+    {
+      "name": "Lugovskoy",
+      "affiliations": []
+    },
+    {
+      "name": "Koshelev",
+      "affiliations": []
+    },
+    {
+      "name": "Makarov",
+      "affiliations": []
+    },
+    {
+      "name": "Boyarkin",
+      "affiliations": []
+    },
+    {
+      "name": "Fally",
+      "affiliations": []
+    },
+    {
+      "name": "A",
+      "affiliations": []
+    },
+    {
+      "name": "Chesnokova",
+      "affiliations": []
+    },
+    {
+      "name": "Chentsov",
+      "affiliations": []
+    },
+    {
+      "name": "Bykov",
+      "affiliations": []
+    },
+    {
+      "name": "Makarova",
+      "affiliations": []
+    },
+    {
+      "name": "Voronina",
+      "affiliations": []
+    },
+    {
+      "name": "Cruz",
+      "affiliations": []
+    },
+    {
+      "name": "Poberovskii",
+      "affiliations": []
+    },
+    {
+      "name": "Dudnikiva",
+      "affiliations": []
+    },
+    {
+      "name": "Bielska",
+      "affiliations": []
+    },
+    {
+      "name": "Ghysels",
+      "affiliations": []
+    },
+    {
+      "name": "Jensen",
+      "affiliations": []
+    },
+    {
+      "name": "Balashov",
+      "affiliations": []
+    },
+    {
+      "name": "Raj",
+      "affiliations": []
+    },
+    {
+      "name": "Wójtewicz",
+      "affiliations": []
+    },
+    {
+      "name": "Ciuryłlo",
+      "affiliations": []
+    },
+    {
+      "name": "Lisak",
+      "affiliations": []
+    },
+    {
+      "name": "Ibrahim",
+      "affiliations": []
+    },
+    {
+      "name": "Alatoom",
+      "affiliations": []
+    },
+    {
+      "name": "Csaszar",
+      "affiliations": []
+    },
+    {
+      "name": "Alghizzawi",
+      "affiliations": []
+    },
+    {
+      "name": "Küpper",
+      "affiliations": []
+    },
+    {
+      "name": "Grilli",
+      "affiliations": []
+    },
+    {
+      "name": "Korablev",
+      "affiliations": []
+    },
+    {
+      "name": "Belyaev",
+      "affiliations": []
+    },
+    {
+      "name": "Dobrolenskiy",
+      "affiliations": []
+    },
+    {
+      "name": "Trokhimovskiy",
+      "affiliations": []
+    },
+    {
+      "name": "Kalinnikov",
+      "affiliations": []
+    },
+    {
+      "name": "Reid",
+      "affiliations": []
+    },
+    {
+      "name": "Dahn",
+      "affiliations": []
+    },
+    {
+      "name": "Monet",
+      "affiliations": []
+    },
+    {
+      "name": "Liebert",
+      "affiliations": []
+    },
+    {
+      "name": "Esparza-Borges",
+      "affiliations": []
+    },
+    {
+      "name": "Adams Redai",
+      "affiliations": []
+    },
+    {
+      "name": "Olson",
+      "affiliations": []
+    },
+    {
+      "name": "Pidhorodetska",
+      "affiliations": []
+    },
+    {
+      "name": "Reinhard",
+      "affiliations": []
+    },
+    {
+      "name": "Ganti",
+      "affiliations": []
+    },
+    {
+      "name": "Bastelberger",
+      "affiliations": []
+    },
+    {
+      "name": "Crouse",
+      "affiliations": []
+    },
+    {
+      "name": "Ridgwell",
+      "affiliations": []
+    },
+    {
+      "name": "Lyons",
+      "affiliations": []
+    },
+    {
+      "name": "Hansen",
+      "affiliations": []
+    },
+    {
+      "name": "Initiative",
+      "affiliations": []
+    },
+    {
+      "name": "Yu",
+      "affiliations": []
+    },
+    {
+      "name": "Hayden",
+      "affiliations": []
+    },
+    {
+      "name": "Hugi",
+      "affiliations": []
+    },
+    {
+      "name": "Engeln",
+      "affiliations": []
+    },
+    {
+      "name": "Lang",
+      "affiliations": []
+    },
+    {
+      "name": "van Helden",
+      "affiliations": []
+    },
+    {
+      "name": "Bowles",
+      "affiliations": []
+    },
+    {
+      "name": "Braude",
+      "affiliations": []
+    },
+    {
+      "name": "Garland",
+      "affiliations": []
+    },
+    {
+      "name": "Calcutt",
+      "affiliations": []
+    },
+    {
+      "name": "Joseph",
+      "affiliations": []
+    },
+    {
+      "name": "Franklin",
+      "affiliations": []
+    },
+    {
+      "name": "Choudhury",
+      "affiliations": []
+    },
+    {
+      "name": "Gaspard",
+      "affiliations": []
+    },
+    {
+      "name": "Oguoko",
+      "affiliations": []
+    },
+    {
+      "name": "Kelly",
+      "affiliations": []
+    },
+    {
+      "name": "Plez",
+      "affiliations": []
+    },
+    {
+      "name": "Van Eck",
+      "affiliations": []
+    },
+    {
+      "name": "Colin",
+      "affiliations": []
+    },
+    {
+      "name": "Daoutidis",
+      "affiliations": []
+    },
+    {
+      "name": "Godefroid",
+      "affiliations": []
+    },
+    {
+      "name": "Coheur",
+      "affiliations": []
+    },
+    {
+      "name": "Jorissen",
+      "affiliations": []
+    },
+    {
+      "name": "Christlieb",
+      "affiliations": []
+    },
+    {
+      "name": "Brooke",
+      "affiliations": []
+    },
+    {
+      "name": "Bittner",
+      "affiliations": []
+    },
+    {
+      "name": "Dulick",
+      "affiliations": []
+    },
+    {
+      "name": "Bauschlicher",
+      "affiliations": []
+    },
+    {
+      "name": "Ram",
+      "affiliations": []
+    },
+    {
+      "name": "Sharp",
+      "affiliations": []
+    },
+    {
+      "name": "Milsom",
+      "affiliations": []
+    },
+    {
+      "name": "Chowdhury",
+      "affiliations": []
+    },
+    {
+      "name": "Merer",
+      "affiliations": []
+    },
+    {
+      "name": "Rixon",
+      "affiliations": []
+    },
+    {
+      "name": "Wende",
+      "affiliations": []
+    },
+    {
+      "name": "Dodangodage",
+      "affiliations": []
+    },
+    {
+      "name": "Liévin",
+      "affiliations": []
+    },
+    {
+      "name": "Hajigeorgiou",
+      "affiliations": []
+    },
+    {
+      "name": "Coxon",
+      "affiliations": []
+    },
+    {
+      "name": "Medvedev",
+      "affiliations": []
+    },
+    {
+      "name": "Western",
+      "affiliations": []
+    },
+    {
+      "name": "Coppola",
+      "affiliations": []
+    },
+    {
+      "name": "Amaral",
+      "affiliations": []
+    },
+    {
+      "name": "Diniz",
+      "affiliations": []
+    },
+    {
+      "name": "Stanke",
+      "affiliations": []
+    },
+    {
+      "name": "Adamowicz",
+      "affiliations": []
+    },
+    {
+      "name": "Mohallem",
+      "affiliations": []
+    },
+    {
+      "name": "Roueff",
+      "affiliations": []
+    },
+    {
+      "name": "Abgrall",
+      "affiliations": []
+    },
+    {
+      "name": "Czachorowski",
+      "affiliations": []
+    },
+    {
+      "name": "Pachucki",
+      "affiliations": []
+    },
+    {
+      "name": "Puchalski",
+      "affiliations": []
+    },
+    {
+      "name": "Komasa",
+      "affiliations": []
+    },
+    {
+      "name": "Launay",
+      "affiliations": []
+    },
+    {
+      "name": "Roncin",
+      "affiliations": []
+    },
+    {
+      "name": "Kovacich",
+      "affiliations": []
+    },
+    {
+      "name": "Hobby",
+      "affiliations": []
+    },
+    {
+      "name": "Taher",
+      "affiliations": []
+    },
+    {
+      "name": "Carter-Blatchford",
+      "affiliations": []
+    },
+    {
+      "name": "Crozet",
+      "affiliations": []
+    },
+    {
+      "name": "Ross",
+      "affiliations": []
+    },
+    {
+      "name": "Morville",
+      "affiliations": []
+    },
+    {
+      "name": "Tokaryk",
+      "affiliations": []
+    },
+    {
+      "name": "Solodov",
+      "affiliations": []
+    },
+    {
+      "name": "Cygan",
+      "affiliations": []
+    },
+    {
+      "name": "Ciuryło",
+      "affiliations": []
+    },
+    {
+      "name": "Ebert",
+      "affiliations": []
+    },
+    {
+      "name": "Domysławska",
+      "affiliations": []
+    },
+    {
+      "name": "Zobov amd D. Lisak",
+      "affiliations": []
+    },
+    {
+      "name": "Khalil",
+      "affiliations": []
+    },
+    {
+      "name": "Mahmoud",
+      "affiliations": []
+    },
+    {
+      "name": "Almehairbi",
+      "affiliations": []
+    },
+    {
+      "name": "Gacesa",
+      "affiliations": []
+    },
+    {
+      "name": "Ghaferi",
+      "affiliations": []
+    },
+    {
+      "name": "Borsovszky",
+      "affiliations": []
+    },
+    {
+      "name": "Goodhew",
+      "affiliations": []
+    },
+    {
+      "name": "Sturgeon",
+      "affiliations": []
+    },
+    {
+      "name": "Sorensen",
+      "affiliations": []
+    },
+    {
+      "name": "Khan",
+      "affiliations": []
+    },
+    {
+      "name": "Kauwo",
+      "affiliations": []
+    },
+    {
+      "name": "Sethi",
+      "affiliations": []
+    },
+    {
+      "name": "van Hemert",
+      "affiliations": []
+    },
+    {
+      "name": "Groenenboom",
+      "affiliations": []
+    },
+    {
+      "name": "Fernando",
+      "affiliations": []
+    },
+    {
+      "name": "Jans",
+      "affiliations": []
+    },
+    {
+      "name": "Vallon",
+      "affiliations": []
+    },
+    {
+      "name": "Wannous",
+      "affiliations": []
+    },
+    {
+      "name": "Harker",
+      "affiliations": []
+    },
+    {
+      "name": "Tourasse",
+      "affiliations": []
+    },
+    {
+      "name": "Havalyova",
+      "affiliations": []
+    },
+    {
+      "name": "Bozhinova",
+      "affiliations": []
+    },
+    {
+      "name": "Pashov",
+      "affiliations": []
+    },
+    {
+      "name": "Spiegelman",
+      "affiliations": []
+    },
+    {
+      "name": "Leininger",
+      "affiliations": []
+    },
+    {
+      "name": "Myneni",
+      "affiliations": []
+    },
+    {
+      "name": "Blakely",
+      "affiliations": []
+    },
+    {
+      "name": "Roller",
+      "affiliations": []
+    },
+    {
+      "name": "Lopes",
+      "affiliations": []
+    },
+    {
+      "name": "Sauval",
+      "affiliations": []
+    },
+    {
+      "name": "Tatum",
+      "affiliations": []
+    },
+    {
+      "name": "Collet",
+      "affiliations": []
+    },
+    {
+      "name": "Hesketh",
+      "affiliations": []
+    },
+    {
+      "name": "Hulme",
+      "affiliations": []
+    },
+    {
+      "name": "Naim",
+      "affiliations": []
+    },
+    {
+      "name": "Dipti",
+      "affiliations": []
+    },
+    {
+      "name": "Pezoa",
+      "affiliations": []
+    },
+    {
+      "name": "Reutter",
+      "affiliations": []
+    },
+    {
+      "name": "Suarez",
+      "affiliations": []
+    },
+    {
+      "name": "Ugarte",
+      "affiliations": []
+    },
+    {
+      "name": "Vrgoč",
+      "affiliations": []
+    },
+    {
+      "name": "Szidarovszky",
+      "affiliations": []
+    },
+    {
+      "name": "Hruby",
+      "affiliations": []
+    },
+    {
+      "name": "Wells",
+      "affiliations": []
+    },
+    {
+      "name": "Greisen",
+      "affiliations": []
+    },
+    {
+      "name": "Harten",
+      "affiliations": []
+    },
+    {
+      "name": "Teanby",
+      "affiliations": []
+    },
+    {
+      "name": "Fletcher",
+      "affiliations": []
+    },
+    {
+      "name": "Howett",
+      "affiliations": []
+    },
+    {
+      "name": "Tsang",
+      "affiliations": []
+    },
+    {
+      "name": "Parrish",
+      "affiliations": []
+    },
+    {
+      "name": "Robinson",
+      "affiliations": []
+    },
+    {
+      "name": "Domagal-Goldman",
+      "affiliations": []
+    },
+    {
+      "name": "Del Genio",
+      "affiliations": []
+    },
+    {
+      "name": "ib Nezhad",
+      "affiliations": []
+    },
+    {
+      "name": "Airapetian",
+      "affiliations": []
+    },
+    {
+      "name": "Ramirez",
+      "affiliations": []
+    },
+    {
+      "name": "Rieker",
+      "affiliations": []
+    },
+    {
+      "name": "Wordsworth",
+      "affiliations": []
+    },
+    {
+      "name": "Dong",
+      "affiliations": []
+    },
+    {
+      "name": "Haghighipour",
+      "affiliations": []
+    },
+    {
+      "name": "Horst",
+      "affiliations": []
+    },
+    {
+      "name": "you Kao",
+      "affiliations": []
+    },
+    {
+      "name": "Dressing",
+      "affiliations": []
+    },
+    {
+      "name": "Fleury",
+      "affiliations": []
+    },
+    {
+      "name": "Ascenzi",
+      "affiliations": []
+    },
+    {
+      "name": "Milam",
+      "affiliations": []
+    },
+    {
+      "name": "Linnartz",
+      "affiliations": []
+    },
+    {
+      "name": "Gudipati",
+      "affiliations": []
+    },
+    {
+      "name": "Gronoff",
+      "affiliations": []
+    },
+    {
+      "name": "Salama",
+      "affiliations": []
+    },
+    {
+      "name": "Gavilan",
+      "affiliations": []
+    },
+    {
+      "name": "Benilan",
+      "affiliations": []
+    },
+    {
+      "name": "Henderson",
+      "affiliations": []
+    },
+    {
+      "name": "Arney",
+      "affiliations": []
+    },
+    {
+      "name": "Swain",
+      "affiliations": []
+    },
+    {
+      "name": "Bott",
+      "affiliations": []
+    },
+    {
+      "name": "Krissansen-Totton",
+      "affiliations": []
+    },
+    {
+      "name": "Kitiashvili",
+      "affiliations": []
+    },
+    {
+      "name": "Close",
+      "affiliations": []
+    },
+    {
+      "name": "Czurylo",
+      "affiliations": []
+    },
+    {
+      "name": "Hyslop",
+      "affiliations": []
+    },
+    {
+      "name": "Tipping",
+      "affiliations": []
+    },
+    {
+      "name": "Boulet",
+      "affiliations": []
+    },
+    {
+      "name": "Stehlin",
+      "affiliations": []
+    },
+    {
+      "name": "Hazi",
+      "affiliations": []
+    },
+    {
+      "name": "Bacic",
+      "affiliations": []
+    },
+    {
+      "name": "Simons",
+      "affiliations": []
+    },
+    {
+      "name": "Mandelshtam",
+      "affiliations": []
+    },
+    {
+      "name": "Ravuri",
+      "affiliations": []
+    },
+    {
+      "name": "Bénilan",
+      "affiliations": []
+    },
+    {
+      "name": "Fray",
+      "affiliations": []
+    },
+    {
+      "name": "Gazeau",
+      "affiliations": []
+    },
+    {
+      "name": "Es-sebbar",
+      "affiliations": []
+    },
+    {
+      "name": "Schwell",
+      "affiliations": []
+    },
+    {
+      "name": "Bahrini",
+      "affiliations": []
+    },
+    {
+      "name": "Montmessin",
+      "affiliations": []
+    },
+    {
+      "name": "Benner",
+      "affiliations": []
+    },
+    {
+      "name": "Bizzocchi",
+      "affiliations": []
+    },
+    {
+      "name": "Cohen",
+      "affiliations": []
+    },
+    {
+      "name": "Coudert",
+      "affiliations": []
+    },
+    {
+      "name": "Devi",
+      "affiliations": []
+    },
+    {
+      "name": "Fayt",
+      "affiliations": []
+    },
+    {
+      "name": "Lamouroux",
+      "affiliations": []
+    },
+    {
+      "name": "Mackie",
+      "affiliations": []
+    },
+    {
+      "name": "Orphal",
+      "affiliations": []
+    },
+    {
+      "name": "Polovtseva",
+      "affiliations": []
+    },
+    {
+      "name": "Jack",
+      "affiliations": []
+    },
+    {
+      "name": "Baron",
+      "affiliations": []
+    },
+    {
+      "name": "Dzarasova",
+      "affiliations": []
+    },
+    {
+      "name": "Waddington",
+      "affiliations": []
+    },
+    {
+      "name": "Bartschat",
+      "affiliations": []
+    },
+    {
+      "name": "Bogaerts",
+      "affiliations": []
+    },
+    {
+      "name": "Engelmann",
+      "affiliations": []
+    },
+    {
+      "name": "Gans",
+      "affiliations": []
+    },
+    {
+      "name": "Hamaguchi",
+      "affiliations": []
+    },
+    {
+      "name": "Hamilton",
+      "affiliations": []
+    },
+    {
+      "name": "O’Connell",
+      "affiliations": []
+    },
+    {
+      "name": "Rauf",
+      "affiliations": []
+    },
+    {
+      "name": "van ’t Veer",
+      "affiliations": []
+    },
+    {
+      "name": "Zatsarinny",
+      "affiliations": []
+    },
+    {
+      "name": "Weck",
+      "affiliations": []
+    },
+    {
+      "name": "Schweitzer",
+      "affiliations": []
+    },
+    {
+      "name": "Stancil",
+      "affiliations": []
+    },
+    {
+      "name": "Kirby",
+      "affiliations": []
+    },
+    {
+      "name": "Miyake",
+      "affiliations": []
+    },
+    {
+      "name": "Gay",
+      "affiliations": []
+    },
+    {
+      "name": "el Qadi",
+      "affiliations": []
+    },
+    {
+      "name": "McMillan",
+      "affiliations": []
+    },
+    {
+      "name": "Shen",
+      "affiliations": []
+    },
+    {
+      "name": "McCann",
+      "affiliations": []
+    },
+    {
+      "name": "Pattillo",
+      "affiliations": []
+    },
+    {
+      "name": "Cieszewski",
+      "affiliations": []
+    },
+    {
+      "name": "Forrey",
+      "affiliations": []
+    },
+    {
+      "name": "Babb",
+      "affiliations": []
+    },
+    {
+      "name": "Oklopc̆ić",
+      "affiliations": []
+    },
+    {
+      "name": "Wyttenbach",
+      "affiliations": []
+    },
+    {
+      "name": "Sindel",
+      "affiliations": []
+    },
+    {
+      "name": "Gebek",
+      "affiliations": []
+    },
+    {
+      "name": "Astudillo-Defru",
+      "affiliations": []
+    },
+    {
+      "name": "Melo",
+      "affiliations": []
+    },
+    {
+      "name": "Quirrenbach",
+      "affiliations": []
+    },
+    {
+      "name": "Caballero",
+      "affiliations": []
+    },
+    {
+      "name": "Amado",
+      "affiliations": []
+    },
+    {
+      "name": "Khaimova",
+      "affiliations": []
+    },
+    {
+      "name": "Montes",
+      "affiliations": []
+    },
+    {
+      "name": "Kramida",
+      "affiliations": []
+    },
+    {
+      "name": "Ralchenko",
+      "affiliations": []
+    },
+    {
+      "name": "Reader",
+      "affiliations": []
+    },
+    {
+      "name": "NIST ASD Team",
+      "affiliations": []
+    },
+    {
+      "name": "Watson",
+      "affiliations": []
+    },
+    {
+      "name": "Zwintz",
+      "affiliations": []
+    },
+    {
+      "name": "Harakawa",
+      "affiliations": []
+    },
+    {
+      "name": "Jacobson",
+      "affiliations": []
+    },
+    {
+      "name": "Konishi",
+      "affiliations": []
+    },
+    {
+      "name": "Kurokawa",
+      "affiliations": []
+    },
+    {
+      "name": "Nishikawa",
+      "affiliations": []
+    },
+    {
+      "name": "Serizawa",
+      "affiliations": []
+    },
+    {
+      "name": "Ueda",
+      "affiliations": []
+    },
+    {
+      "name": "Vievard",
+      "affiliations": []
+    },
+    {
+      "name": "Eccleston",
+      "affiliations": []
+    },
+    {
+      "name": "Hartogh",
+      "affiliations": []
+    },
+    {
+      "name": "Heske",
+      "affiliations": []
+    },
+    {
+      "name": "Ollivier",
+      "affiliations": []
+    },
+    {
+      "name": "Pilbratt",
+      "affiliations": []
+    },
+    {
+      "name": "Puig",
+      "affiliations": []
+    },
+    {
+      "name": "Wolkenberg",
+      "affiliations": []
+    },
+    {
+      "name": "Buchave",
+      "affiliations": []
+    },
+    {
+      "name": "Ferus",
+      "affiliations": []
+    },
+    {
+      "name": "Griffin",
+      "affiliations": []
+    },
+    {
+      "name": "Justtanont",
+      "affiliations": []
+    },
+    {
+      "name": "Malaguti",
+      "affiliations": []
+    },
+    {
+      "name": "Nø rgaard Nielsen",
+      "affiliations": []
+    },
+    {
+      "name": "Rataj",
+      "affiliations": []
+    },
+    {
+      "name": "Werner",
+      "affiliations": []
+    },
+    {
+      "name": "du Foresto",
+      "affiliations": []
+    },
+    {
+      "name": "Encrenaz",
+      "affiliations": []
+    },
+    {
+      "name": "Galand",
+      "affiliations": []
+    },
+    {
+      "name": "Helled",
+      "affiliations": []
+    },
+    {
+      "name": "Moneti",
+      "affiliations": []
+    },
+    {
+      "name": "Piccioni",
+      "affiliations": []
+    },
+    {
+      "name": "Waltham",
+      "affiliations": []
+    },
+    {
+      "name": "Amiaux",
+      "affiliations": []
+    },
+    {
+      "name": "Auguères",
+      "affiliations": []
+    },
+    {
+      "name": "Berthé",
+      "affiliations": []
+    },
+    {
+      "name": "Bezawada",
+      "affiliations": []
+    },
+    {
+      "name": "Bishop",
+      "affiliations": []
+    },
+    {
+      "name": "Coffey",
+      "affiliations": []
+    },
+    {
+      "name": "Colomé",
+      "affiliations": []
+    },
+    {
+      "name": "Crook",
+      "affiliations": []
+    },
+    {
+      "name": "Da Peppo",
+      "affiliations": []
+    },
+    {
+      "name": "Sanz",
+      "affiliations": []
+    },
+    {
+      "name": "Focardi",
+      "affiliations": []
+    },
+    {
+      "name": "Frericks",
+      "affiliations": []
+    },
+    {
+      "name": "Hunt",
+      "affiliations": []
+    },
+    {
+      "name": "Kohley",
+      "affiliations": []
+    },
+    {
+      "name": "Middleton",
+      "affiliations": []
+    },
+    {
+      "name": "Morgante",
+      "affiliations": []
+    },
+    {
+      "name": "Pace",
+      "affiliations": []
+    },
+    {
+      "name": "Pearson",
+      "affiliations": []
+    },
+    {
+      "name": "Stamper",
+      "affiliations": []
+    },
+    {
+      "name": "Symonds",
+      "affiliations": []
+    },
+    {
+      "name": "Renotte",
+      "affiliations": []
+    },
+    {
+      "name": "Ade",
+      "affiliations": []
+    },
+    {
+      "name": "Affer",
+      "affiliations": []
+    },
+    {
+      "name": "Alard",
+      "affiliations": []
+    },
+    {
+      "name": "Altieri",
+      "affiliations": []
+    },
+    {
+      "name": "André",
+      "affiliations": []
+    },
+    {
+      "name": "Arena",
+      "affiliations": []
+    },
+    {
+      "name": "Aylward",
+      "affiliations": []
+    },
+    {
+      "name": "Baccani",
+      "affiliations": []
+    },
+    {
+      "name": "Bakos",
+      "affiliations": []
+    },
+    {
+      "name": "Banaszkiewicz",
+      "affiliations": []
+    },
+    {
+      "name": "Barlow",
+      "affiliations": []
+    },
+    {
+      "name": "Batista",
+      "affiliations": []
+    },
+    {
+      "name": "Bellucci",
+      "affiliations": []
+    },
+    {
+      "name": "Bernardi",
+      "affiliations": []
+    },
+    {
+      "name": "Blecka",
+      "affiliations": []
+    },
+    {
+      "name": "Bolmont",
+      "affiliations": []
+    },
+    {
+      "name": "Bonfond",
+      "affiliations": []
+    },
+    {
+      "name": "Bonito",
+      "affiliations": []
+    },
+    {
+      "name": "Brucato",
+      "affiliations": []
+    },
+    {
+      "name": "Brun",
+      "affiliations": []
+    },
+    {
+      "name": "Bryson",
+      "affiliations": []
+    },
+    {
+      "name": "Bujwan",
+      "affiliations": []
+    },
+    {
+      "name": "Pestellini",
+      "affiliations": []
+    },
+    {
+      "name": "Ciaravella",
+      "affiliations": []
+    },
+    {
+      "name": "Clédassou",
+      "affiliations": []
+    },
+    {
+      "name": "Danielski",
+      "affiliations": []
+    },
+    {
+      "name": "Deroo",
+      "affiliations": []
+    },
+    {
+      "name": "Di Giorgio",
+      "affiliations": []
+    },
+    {
+      "name": "Dominik",
+      "affiliations": []
+    },
+    {
+      "name": "Doublier",
+      "affiliations": []
+    },
+    {
+      "name": "Doyle",
+      "affiliations": []
+    },
+    {
+      "name": "Duong",
+      "affiliations": []
+    },
+    {
+      "name": "Eales",
+      "affiliations": []
+    },
+    {
+      "name": "Farina",
+      "affiliations": []
+    },
+    {
+      "name": "Flaccomio",
+      "affiliations": []
+    },
+    {
+      "name": "Forget",
+      "affiliations": []
+    },
+    {
+      "name": "Fossey",
+      "affiliations": []
+    },
+    {
+      "name": "Fränz",
+      "affiliations": []
+    },
+    {
+      "name": "Fujii",
+      "affiliations": []
+    },
+    {
+      "name": "García-Piquer",
+      "affiliations": []
+    },
+    {
+      "name": "Gear",
+      "affiliations": []
+    },
+    {
+      "name": "Geoffray",
+      "affiliations": []
+    },
+    {
+      "name": "Gérard",
+      "affiliations": []
+    },
+    {
+      "name": "Gesa",
+      "affiliations": []
+    },
+    {
+      "name": "Gomez",
+      "affiliations": []
+    },
+    {
+      "name": "Graczyk",
+      "affiliations": []
+    },
+    {
+      "name": "Griffith",
+      "affiliations": []
+    },
+    {
+      "name": "Grodent",
+      "affiliations": []
+    },
+    {
+      "name": "Guarcello",
+      "affiliations": []
+    },
+    {
+      "name": "Gustin",
+      "affiliations": []
+    },
+    {
+      "name": "Hamano",
+      "affiliations": []
+    },
+    {
+      "name": "Hargrave",
+      "affiliations": []
+    },
+    {
+      "name": "Hello",
+      "affiliations": []
+    },
+    {
+      "name": "Herrero",
+      "affiliations": []
+    },
+    {
+      "name": "Hornstrup",
+      "affiliations": []
+    },
+    {
+      "name": "Hubert",
+      "affiliations": []
+    },
+    {
+      "name": "Ida",
+      "affiliations": []
+    },
+    {
+      "name": "Jarchow",
+      "affiliations": []
+    },
+    {
+      "name": "Jaubert",
+      "affiliations": []
+    },
+    {
+      "name": "Julien",
+      "affiliations": []
+    },
+    {
+      "name": "Kameda",
+      "affiliations": []
+    },
+    {
+      "name": "Kerschbaum",
+      "affiliations": []
+    },
+    {
+      "name": "Kervella",
+      "affiliations": []
+    },
+    {
+      "name": "Krijger",
+      "affiliations": []
+    },
+    {
+      "name": "Krupp",
+      "affiliations": []
+    },
+    {
+      "name": "Landini",
+      "affiliations": []
+    },
+    {
+      "name": "Lellouch",
+      "affiliations": []
+    },
+    {
+      "name": "Luntzer",
+      "affiliations": []
+    },
+    {
+      "name": "Rank-Lüftinger",
+      "affiliations": []
+    },
+    {
+      "name": "Mall",
+      "affiliations": []
+    },
+    {
+      "name": "Marquette",
+      "affiliations": []
+    },
+    {
+      "name": "Mathis",
+      "affiliations": []
+    },
+    {
+      "name": "Matsuo",
+      "affiliations": []
+    },
+    {
+      "name": "Minier",
+      "affiliations": []
+    },
+    {
+      "name": "Mura",
+      "affiliations": []
+    },
+    {
+      "name": "Narita",
+      "affiliations": []
+    },
+    {
+      "name": "Nguyen Tong",
+      "affiliations": []
+    },
+    {
+      "name": "Noce",
+      "affiliations": []
+    },
+    {
+      "name": "Oliva",
+      "affiliations": []
+    },
+    {
+      "name": "Pancrazzi",
+      "affiliations": []
+    },
+    {
+      "name": "Papageorgiou",
+      "affiliations": []
+    },
+    {
+      "name": "Perger",
+      "affiliations": []
+    },
+    {
+      "name": "Petralia",
+      "affiliations": []
+    },
+    {
+      "name": "Pezzuto",
+      "affiliations": []
+    },
+    {
+      "name": "Pillitteri",
+      "affiliations": []
+    },
+    {
+      "name": "Pisano",
+      "affiliations": []
+    },
+    {
+      "name": "Prisinzano",
+      "affiliations": []
+    },
+    {
+      "name": "Radioti",
+      "affiliations": []
+    },
+    {
+      "name": "Réess",
+      "affiliations": []
+    },
+    {
+      "name": "Rezac",
+      "affiliations": []
+    },
+    {
+      "name": "Rosich",
+      "affiliations": []
+    },
+    {
+      "name": "Savini",
+      "affiliations": []
+    },
+    {
+      "name": "Sicardy",
+      "affiliations": []
+    },
+    {
+      "name": "Sierra",
+      "affiliations": []
+    },
+    {
+      "name": "Sindoni",
+      "affiliations": []
+    },
+    {
+      "name": "Skup",
+      "affiliations": []
+    },
+    {
+      "name": "Sobiecki",
+      "affiliations": []
+    },
+    {
+      "name": "Soret",
+      "affiliations": []
+    },
+    {
+      "name": "Stiepen",
+      "affiliations": []
+    },
+    {
+      "name": "Strugarek",
+      "affiliations": []
+    },
+    {
+      "name": "Terenzi",
+      "affiliations": []
+    },
+    {
+      "name": "Tessenyi",
+      "affiliations": []
+    },
+    {
+      "name": "Valencia",
+      "affiliations": []
+    },
+    {
+      "name": "Vasisht",
+      "affiliations": []
+    },
+    {
+      "name": "Vazan",
+      "affiliations": []
+    },
+    {
+      "name": "Vilardell",
+      "affiliations": []
+    },
+    {
+      "name": "Viti",
+      "affiliations": []
+    },
+    {
+      "name": "Wawer",
+      "affiliations": []
+    },
+    {
+      "name": "Wawrzaszek",
+      "affiliations": []
+    },
+    {
+      "name": "Whitworth",
+      "affiliations": []
+    },
+    {
+      "name": "Yung",
+      "affiliations": []
+    },
+    {
+      "name": "Osorio",
+      "affiliations": []
+    },
+    {
+      "name": "Zwart",
+      "affiliations": []
+    },
+    {
+      "name": "Güdel",
+      "affiliations": []
+    }
+  ],
   "year": 2024,
   "doi": "10.1016/j.jqsrt.2024.109083",
   "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",

@@ -2,7 +2,17 @@
 tags:
   - "person"
 title: "Marco Pezzella"
-institution: ""
+affiliations:
+  - institution: "University College London"
+    department: "Department of Physics and Astronomy"
+    country: "UK"
+    start_year: null
+    end_year: null
+  - institution: "Universitá di Perugia"
+    department: "Dipartimento di Fisica e Geologia"
+    country: "Italy"
+    start_year: null
+    end_year: null
 orcid: ""
 primary_papers: []
 secondary_papers:
@@ -10,7 +20,7 @@ secondary_papers:
   - "24YuBoBr"
 status: "seed"
 created: "2026-05-29"
-updated: "2026-06-03"
+updated: "2026-06-04"
 sources:
   - "Raw/Sources/24TeYuZh.json"
   - "Raw/Sources/24YuBoBr.json"

@@ -14,7 +14,7 @@ secondary_papers:
   - "24SeElYu"
 status: "seed"
 created: "2026-06-03"
-updated: "2026-06-03"
+updated: "2026-06-04"
 sources:
   - "Raw/Sources/24SeElYu.json"
 source_count: 1
