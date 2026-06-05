@@ -29,7 +29,7 @@ authors:
   - "Qianwei Qu"
   - "Mikhail Semenov"
   - "Oleksiy Smola"
-  - "Andrei Solokov"
+  - "Andrei Sokolov"
   - "Wilfrid Somogyi"
   - "Apoorva Upadhyay"
   - "Samuel O.M. Wright"
@@ -243,7 +243,7 @@ mentioned_people:
   - "Qianwei Qu"
   - "Mikhail Semenov"
   - "Oleksiy Smola"
-  - "Andrei Solokov"
+  - "Andrei Sokolov"
   - "Wilfrid Somogyi"
   - "Apoorva Upadhyay"
   - "Samuel O.M. Wright"
@@ -516,7 +516,7 @@ The 2024 ExoMol release reports the database status for hot-atmosphere spectrosc
 - [Qianwei Qu](../People/Q_Qu.md)
 - [Mikhail Semenov](../People/M_Semenov.md)
 - [Oleksiy Smola](../People/O_Smola.md)
-- [Andrei Solokov](../People/A_Solokov.md)
+- [Andrei Sokolov](../People/A_Sokolov.md)
 - [Wilfrid Somogyi](../People/W_Somogyi.md)
 - [Apoorva Upadhyay](../People/A_Upadhyay.md)
 - [Samuel O.M. Wright](../People/S_O_M_Wright.md)

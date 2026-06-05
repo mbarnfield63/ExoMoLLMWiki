@@ -41,7 +41,7 @@ mentioned_people:
   - "A_N_Perri"
   - "M_Pezzella"
   - "O_Smola"
-  - "A_Solokov"
+  - "A_Sokolov"
   - "J_Zhang"
   - "J_Tennyson"
 status: "complete"
@@ -101,6 +101,6 @@ Of the 2,777 MARVEL energies, 2,754 (residuals < 1 cm⁻¹) replace theoretical 
 - [Armando N. Perri](../People/A_N_Perri.md)
 - [Marco Pezzella](../People/M_Pezzella.md)
 - [Oleksiy Smola](../People/O_Smola.md)
-- [Andrei Solokov](../People/A_Solokov.md)
+- [Andrei Sokolov](../People/A_Sokolov.md)
 - [Jingxin Zhang](../People/J_Zhang.md)
 - [Jonathan Tennyson](../People/J_Tennyson.md)

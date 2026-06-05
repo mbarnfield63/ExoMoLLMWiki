@@ -12,24 +12,28 @@ orcid: ""
 primary_papers:
   - "24SeElYu"
 secondary_papers:
+  - "23YuSzHa"
   - "24TeYuZh"
 status: "seed"
 created: "2026-05-29"
-updated: "2026-06-04"
+updated: "2026-06-05"
 sources:
+  - "Raw/Sources/23YuSzHa.json"
   - "Raw/Sources/24TeYuZh.json"
   - "Raw/Sources/24SeElYu.json"
-source_count: 2
+source_count: 3
 molecules:
+  - "AlH"
   - "PN"
 ---
 
 # Mikhail Semenov
 
-Mikhail Semenov (UCL) is lead author of the ExoMol LXIV PaiN line list for PN, and co-author of the 2024 ExoMol database release. Sources: [24SeElYu](../../Raw/Sources/24SeElYu.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+Mikhail Semenov (UCL) is lead author of the ExoMol LXIV PaiN line list for PN, co-author of the ExoMol LIV AlH/AlD AloHa line lists paper, and co-author of the 2024 ExoMol database release. Sources: [23YuSzHa](../../Raw/Sources/23YuSzHa.json), [24SeElYu](../../Raw/Sources/24SeElYu.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Related Papers
 
+- [23YuSzHa](../Papers/23YuSzHa.md)
 - [24SeElYu](../Papers/24SeElYu.md)
 - [24TeYuZh](../Papers/24TeYuZh.md)
 

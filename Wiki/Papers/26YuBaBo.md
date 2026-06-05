@@ -13,7 +13,7 @@ authors:
   - "Qing-He Ni"
   - "Armando N. Perri"
   - "Oleksiy A. Smola"
-  - "Andrei Solokov"
+  - "Andrei Sokolov"
   - "Chenyi Tao"
   - "Jonathan Tennyson"
 journal: "Monthly Notices of the Royal Astronomical Society"
@@ -57,7 +57,7 @@ mentioned_people:
   - "Qing-He Ni"
   - "Armando N. Perri"
   - "Oleksiy A. Smola"
-  - "Andrei Solokov"
+  - "Andrei Sokolov"
   - "Chenyi Tao"
   - "Jonathan Tennyson"
 mentioned_applications:
@@ -154,6 +154,6 @@ This paper presents the "Dozen" line lists — a comprehensive set of rovibratio
 - [Qing-He Ni](../People/Q_H_Ni.md)
 - [Armando N. Perri](../People/A_N_Perri.md)
 - [Oleksiy A. Smola](../People/O_Smola.md)
-- [Andrei Solokov](../People/A_Solokov.md)
+- [Andrei Sokolov](../People/A_Sokolov.md)
 - [Chenyi Tao](../People/C_Tao.md)
 - [Jonathan Tennyson](../People/J_Tennyson.md)

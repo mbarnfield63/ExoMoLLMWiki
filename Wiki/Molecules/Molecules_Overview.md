@@ -148,12 +148,14 @@
 - [25Mg-16O](25Mg-16O.md) - parent: MgO
 - [25Mg-1H](25Mg-1H.md) - parent: MgH
 - [26Al-16O](26Al-16O.md) - parent: AlO
+- [26Al-1H](26Al-1H.md) - parent: AlH
 - [26Mg-16O](26Mg-16O.md) - parent: MgO
 - [26Mg-1H](26Mg-1H.md) - parent: MgH
 - [27Al-16O](27Al-16O.md) - parent: AlO
 - [27Al-17O](27Al-17O.md) - parent: AlO
 - [27Al-18O](27Al-18O.md) - parent: AlO
 - [27Al-1H](27Al-1H.md) - parent: AlH
+- [27Al-2H](27Al-2H.md) - parent: AlH
 - [27Al-35Cl](27Al-35Cl.md) - parent: AlCl
 - [27Al-37Cl](27Al-37Cl.md) - parent: AlCl
 - [28Si-14N](28Si-14N.md) - parent: SiN
