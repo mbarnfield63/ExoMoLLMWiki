@@ -1,5 +1,6 @@
 # Papers Overview
 
+- [ExoMol line lists — LVI: The SO line list, MARVEL analysis of experimental transition data and refinement of the spectroscopic model](23BrYuTe.md)
 - [ExoMol line lists — LI: Molecular line list for lithium hydroxide (LiOH)](23OwWrPa.md)
 - [ExoMol line lists — LII: Line Lists for the Methylidyne Cation (CH+)](23PeYuTe.md)
 - [ExoMol line lists — LIII: Empirical Rovibronic spectra of Yttrium Oxide (YO)](23YuBrTe.md)

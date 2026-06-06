@@ -15,6 +15,7 @@
 - [Chenyi Tao](C_Tao.md)
 - [Elizabeth R. Guest](E_R_Guest.md)
 - [Georgi B. Mitev](G_B_Mitev.md)
+- [Gap-Sue Kim](G_S_Kim.md)
 - [Irina I. Mizus](I_I_Mizus.md)
 - [Jeanna Buldyreva](J_Buldyreva.md)
 - [Jacek Koput](J_Koput.md)
