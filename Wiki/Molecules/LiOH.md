@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - "molecule"
 formula: "LiOH"
@@ -14,35 +14,38 @@ isotopologues:
   - "7Li-16O-1H"
 line_list: ""
 marvel_data:
-  is_marvelized: null
+  is_marvelized: false
   latest_source_year: null
   energy_levels: null
 associated_methods:
   - "ExoMol Database"
   - "ExoMolHR"
+  - "ExoMolOP"
 applications:
   - "Exoplanet Atmospheres"
-status: "seed"
+  - "Cool Stars"
+status: "complete"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-06"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
+  - "Raw/Sources/23OwWrPa.json"
+source_count: 2
 ---
 
 # LiOH
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+Lithium hydroxide — a linear triatomic Li-bearing molecule abundant in late L- and T-dwarf atmospheres and relevant to the lithium test for substellar objects. The OYT7 line list (ExoMol LI) was introduced by [23OwWrPa](../Papers/23OwWrPa.md) and is listed in the 2024 ExoMol database release [24TeYuZh](../Papers/24TeYuZh.md). Source: [23OwWrPa](../../Raw/Sources/23OwWrPa.json).
 
 ## Recommended Datasets
 
-| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LiOH | OYT7 | 2 | 3000 | 1 | 331,274,717 | yes | [363] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| Molecule entry | Dataset | Isotopologues | T_max | N elec | N lines | MARVEL | Reference |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| LiOH | OYT7 | 2 | ~4000 K | 1 | 331,274,717 | No | [23OwWrPa](../Papers/23OwWrPa.md) |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [6Li-16O-1H](6Li-16O-1H.md) | OYT7 |  | yes | Listed explicitly in the ExoMolHR contents table. |
-| [7Li-16O-1H](7Li-16O-1H.md) | OYT7 |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [6Li-16O-1H](6Li-16O-1H.md) | OYT7 | No | Yes | Listed in 2024 ExoMol database release [24TeYuZh](../Papers/24TeYuZh.md). |
+| [7Li-16O-1H](7Li-16O-1H.md) | OYT7 | No | Yes | Primary isotopologue; OYT7 line list published in [23OwWrPa](../Papers/23OwWrPa.md). |

@@ -17,6 +17,7 @@
 - [Georgi B. Mitev](G_B_Mitev.md)
 - [Irina I. Mizus](I_I_Mizus.md)
 - [Jeanna Buldyreva](J_Buldyreva.md)
+- [Jacek Koput](J_Koput.md)
 - [Jonathan Tennyson](J_Tennyson.md)
 - [Jingxin Zhang](J_Zhang.md)
 - [Kirill Batrakov](K_Batrakov.md)
