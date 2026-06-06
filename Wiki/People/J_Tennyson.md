@@ -12,6 +12,7 @@ orcid: ""
 primary_papers:
   - "24TeYuZh"
 secondary_papers:
+  - "23PeYuTe"
   - "23YuBrTe"
   - "23YuSzHa"
   - "24McBoKe"
@@ -23,8 +24,9 @@ secondary_papers:
   - "24BaYuOw"
 status: "seed"
 created: "2026-05-21"
-updated: "2026-06-05"
+updated: "2026-06-06"
 sources:
+  - "Raw/Sources/23PeYuTe.json"
   - "Raw/Sources/23YuBrTe.json"
   - "Raw/Sources/23YuSzHa.json"
   - "Raw/Sources/24McBoKe.json"
@@ -35,9 +37,10 @@ sources:
   - "Raw/Sources/24SeElYu.json"
   - "Raw/Sources/24LyPoTe.json"
   - "Raw/Sources/24BaYuOw.json"
-source_count: 10
+source_count: 11
 molecules:
   - "AlH"
+  - "CH+"
   - "CO2"
   - "C3"
   - "MgO"
@@ -52,10 +55,11 @@ molecules:
 
 # Jonathan Tennyson
 
-Jonathan Tennyson (UCL) is lead author of the 2024 ExoMol database release, co-author of the ExoMol LIII YO BRYTS line list paper, co-author of the ExoMol LIV AlH/AlD AloHa line lists paper, co-author of the hybrid diatomic line list paper (MgO, TiO, VO), co-author of the ExoMol LX ¹⁵NH₃ CoYuTe-15 line list paper, co-author of the N₂O TYM line lists paper, co-author of the Dozen CO₂ line lists paper, co-author of the ExoMol LXIV PN PaiN line list paper, co-author of the ExoMol LXII C₃ AtLast line list paper, and co-author of the ExoMol LXV NiH BYOT line list paper. Sources: [23YuBrTe](../../Raw/Sources/23YuBrTe.json), [23YuSzHa](../../Raw/Sources/23YuSzHa.json), [24McBoKe](../../Raw/Sources/24McBoKe.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24YuBoBr](../../Raw/Sources/24YuBoBr.json), [24YuMeTe](../../Raw/Sources/24YuMeTe.json), [26YuBaBo](../../Raw/Sources/26YuBaBo.json), [24SeElYu](../../Raw/Sources/24SeElYu.json), [24LyPoTe](../../Raw/Sources/24LyPoTe.json), [24BaYuOw](../../Raw/Sources/24BaYuOw.json).
+Jonathan Tennyson (UCL) is lead author of the 2024 ExoMol database release, co-author of the ExoMol LII CH⁺ PYT line list paper, co-author of the ExoMol LIII YO BRYTS line list paper, co-author of the ExoMol LIV AlH/AlD AloHa line lists paper, co-author of the hybrid diatomic line list paper (MgO, TiO, VO), co-author of the ExoMol LX ¹⁵NH₃ CoYuTe-15 line list paper, co-author of the N₂O TYM line lists paper, co-author of the Dozen CO₂ line lists paper, co-author of the ExoMol LXIV PN PaiN line list paper, co-author of the ExoMol LXII C₃ AtLast line list paper, and co-author of the ExoMol LXV NiH BYOT line list paper. Sources: [23PeYuTe](../../Raw/Sources/23PeYuTe.json), [23YuBrTe](../../Raw/Sources/23YuBrTe.json), [23YuSzHa](../../Raw/Sources/23YuSzHa.json), [24McBoKe](../../Raw/Sources/24McBoKe.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24YuBoBr](../../Raw/Sources/24YuBoBr.json), [24YuMeTe](../../Raw/Sources/24YuMeTe.json), [26YuBaBo](../../Raw/Sources/26YuBaBo.json), [24SeElYu](../../Raw/Sources/24SeElYu.json), [24LyPoTe](../../Raw/Sources/24LyPoTe.json), [24BaYuOw](../../Raw/Sources/24BaYuOw.json).
 
 ## Related Papers
 
+- [23PeYuTe](../Papers/23PeYuTe.md)
 - [23YuBrTe](../Papers/23YuBrTe.md)
 - [23YuSzHa](../Papers/23YuSzHa.md)
 - [24McBoKe](../Papers/24McBoKe.md)

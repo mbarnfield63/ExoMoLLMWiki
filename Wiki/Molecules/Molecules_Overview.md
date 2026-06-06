@@ -102,6 +102,7 @@
 - [12C-16O2](12C-16O2.md) - parent: CO2
 - [12C-17O2](12C-17O2.md) - parent: CO2
 - [12C-18O2](12C-18O2.md) - parent: CO2
+- [12C-1H+](12C-1H+.md) - parent: CH+
 - [12C-1H4](12C-1H4.md) - parent: CH4
 - [12C2-1H2](12C2-1H2.md) - parent: C2H2
 - [12C2](12C2.md) - parent: C2
@@ -109,6 +110,7 @@
 - [13C-16O2](13C-16O2.md) - parent: CO2
 - [13C-17O2](13C-17O2.md) - parent: CO2
 - [13C-18O2](13C-18O2.md) - parent: CO2
+- [13C-1H+](13C-1H+.md) - parent: CH+
 - [14N-15N-16O](14N-15N-16O.md) - parent: N2O
 - [14N-16O](14N-16O.md) - parent: NO
 - [14N-1H](14N-1H.md) - parent: NH

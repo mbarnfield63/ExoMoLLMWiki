@@ -9,36 +9,46 @@ parent_molecule: ""
 exomol_id: ""
 aliases:
   - "methylidyne cation"
-isotopologues: []
-line_list: ""
+isotopologues:
+  - "12C-1H+"
+  - "13C-1H+"
+line_list: "PYT"
 marvel_data:
-  is_marvelized: null
-  latest_source_year: null
+  is_marvelized: true
+  latest_source_year: 2023
   energy_levels: null
 associated_methods:
   - "ExoMol Database"
+  - "MARVELization"
+  - "LEVEL"
 applications:
   - "Exoplanet Atmospheres"
-status: "seed"
+  - "Interstellar_Medium"
+status: "complete"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-06"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
+  - "Raw/Sources/23PeYuTe.json"
+source_count: 2
 ---
 
 # CH+
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+The methylidyne cation. PYT line lists for [12C-1H+](12C-1H+.md) and [13C-1H+](13C-1H+.md) were produced by [23PeYuTe](../Papers/23PeYuTe.md) using LEVEL-16 and empirical Cho & Le Roy PECs; MARVEL applied to ¹²CH⁺. Source: [23PeYuTe](../../Raw/Sources/23PeYuTe.json).
 
 ## Recommended Datasets
 
-| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CH+ | PYT | 2 | 5000 | 2 | 34,194 |  | [364] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| Molecule entry | Dataset | Isotopologues | T max | N lines | MARVEL | Reference |
+| --- | --- | --- | --- | --- | --- | --- |
+| [12C-1H+](12C-1H+.md) | PYT | 1 | 5000 K | 34,194 | Yes | [23PeYuTe](../Papers/23PeYuTe.md) |
+| [13C-1H+](13C-1H+.md) | PYT | 1 | 5000 K | 42,387 | No | [23PeYuTe](../Papers/23PeYuTe.md) |
+
+Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [23PeYuTe](../../Raw/Sources/23PeYuTe.json)
 
 ## Named Isotopologues
 
-| Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
+| Isotopologue | ExoMol ID | Line list | MARVEL | Reference |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | The XML gives isotopologue count(s) 2, but does not name isotope-specific ExoMol IDs in the parsed table; no isotope pages were created from counts alone. |
+| ¹²CH⁺ | [12C-1H+](12C-1H+.md) | PYT | Yes | [23PeYuTe](../Papers/23PeYuTe.md) |
+| ¹³CH⁺ | [13C-1H+](13C-1H+.md) | PYT | No | [23PeYuTe](../Papers/23PeYuTe.md) |

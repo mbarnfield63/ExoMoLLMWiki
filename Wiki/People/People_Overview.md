@@ -32,6 +32,7 @@
 - [Nikolai F. Zobov](N_F_Zobov.md)
 - [Oleg A. Vasilyev](O_A_Vasilyev.md)
 - [Oleg L. Polyansky](O_L_Polyansky.md)
+- [Oliver Pearce](O_Pearce.md)
 - [Oleksiy Smola](O_Smola.md)
 - [Patrick Crozet](P_Crozet.md)
 - [Qing-He Ni](Q_H_Ni.md)
