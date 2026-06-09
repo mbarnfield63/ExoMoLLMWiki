@@ -1,0 +1,58 @@
+{
+  "bibcode": "23BoMiZo",
+  "title": "ExoMol line lists -- L: High-resolution line lists of H3+, H2D+, D2H+ and D3+",
+  "authors": [
+    "Charles A. Bowesman",
+    "Irina I. Mizus",
+    "Nikolay F. Zobov",
+    "Oleg L. Polyansky",
+    "János Sarka",
+    "Bill Poirier",
+    "Marco Pezzella",
+    "Sergei N. Yurchenko",
+    "Jonathan Tennyson"
+  ],
+  "author_details": [
+    {
+      "name": "Charles A. Bowesman",
+      "affiliations": ["Department of Physics and Astronomy, University College London, UK"]
+    },
+    {
+      "name": "Irina I. Mizus",
+      "affiliations": ["Holon Institute of Technology, Israel", "Institute of Applied Physics, Russian Academy of Science, Russia"]
+    },
+    {
+      "name": "Nikolay F. Zobov",
+      "affiliations": ["Institute of Applied Physics, Russian Academy of Science, Russia"]
+    },
+    {
+      "name": "Oleg L. Polyansky",
+      "affiliations": ["Department of Physics and Astronomy, University College London, UK", "Institute of Applied Physics, Russian Academy of Science, Russia"]
+    },
+    {
+      "name": "János Sarka",
+      "affiliations": ["Department of Chemistry and Biochemistry, Texas Tech University, USA", "Institute of Chemistry, Eötvös Loránd University, Hungary"]
+    },
+    {
+      "name": "Bill Poirier",
+      "affiliations": ["Department of Chemistry and Biochemistry, Texas Tech University, USA"]
+    },
+    {
+      "name": "Marco Pezzella",
+      "affiliations": ["Department of Physics and Astronomy, University College London, UK"]
+    },
+    {
+      "name": "Sergei N. Yurchenko",
+      "affiliations": ["Department of Physics and Astronomy, University College London, UK"]
+    },
+    {
+      "name": "Jonathan Tennyson",
+      "affiliations": ["Department of Physics and Astronomy, University College London, UK"]
+    }
+  ],
+  "year": 2023,
+  "doi": "",
+  "journal": "Monthly Notices of the Royal Astronomical Society",
+  "abstract": "New MiZo line lists are presented for the D2H+ and D3+ isotopologues of H3+. These line lists plus the existing H3+ MiZATeP and the Sochi H2D+ line lists are updated using empirical energy levels generated using the MARVEL procedure for H3+, H2D+ and D2H+, and effective Hamiltonian energies for D3+ for which there is significantly less laboratory data available. These updates allow accurate frequencies for far infrared lines for these species to be predicted. Assignments of the energy levels of H3+ and D3+ are extended using a combination of high accuracy variational calculations and analysis of transition intensities. All line lists are made available via www.exomol.com.",
+  "body_text": ""
+}
