@@ -32,6 +32,7 @@
 - [Marco Pezzella](M_Pezzella.md)
 - [Mirek R. Schmidt](M_R_Schmidt.md)
 - [Mikhail Semenov](M_Semenov.md)
+- [Nicholas Clark](N_Clark.md)
 - [Nayla El-Kork](N_El-Kork.md)
 - [Nikolai F. Zobov](N_F_Zobov.md)
 - [Oleg A. Vasilyev](O_A_Vasilyev.md)

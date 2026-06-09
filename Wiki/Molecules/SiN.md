@@ -26,27 +26,28 @@ applications:
   - "Exoplanet Atmospheres"
 status: "seed"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-09"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
+  - "Raw/Sources/22SeClYu.json"
+source_count: 2
 ---
 
 # SiN
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+[22SeClYu](../Papers/22SeClYu.md) — Semenov et al. (2022, ExoMol XLVI) present the SiNful rovibronic line lists for four SiN isotopologues, also referenced in the 2024 ExoMol database release [24TeYuZh](../Papers/24TeYuZh.md). Sources: [22SeClYu](../../Raw/Sources/22SeClYu.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Recommended Datasets
 
 | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SiN | SiNful | 4 | 3000 | 6 | 43,646,806 |  | [359] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| SiN | SiNful | 4 | 3000 | 6 | 43,646,806 | yes | [22SeClYu](../Papers/22SeClYu.md) [24TeYuZh](../Papers/24TeYuZh.md) |
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [28Si-14N](28Si-14N.md) | SiNfull |  | yes | Listed explicitly in the ExoMolHR contents table. |
-| [28Si-15N](28Si-15N.md) | SiNfull |  | yes | Listed explicitly in the ExoMolHR contents table. |
-| [29Si-14N](29Si-14N.md) | SiNfull |  | yes | Listed explicitly in the ExoMolHR contents table. |
-| [30Si-14N](30Si-14N.md) | SiNfull |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [28Si-14N](28Si-14N.md) | SiNful | yes (1054 levels) | yes | [22SeClYu](../Papers/22SeClYu.md) |
+| [28Si-15N](28Si-15N.md) | SiNful | no | yes | [22SeClYu](../Papers/22SeClYu.md) |
+| [29Si-14N](29Si-14N.md) | SiNful | no | yes | [22SeClYu](../Papers/22SeClYu.md) |
+| [30Si-14N](30Si-14N.md) | SiNful | no | yes | [22SeClYu](../Papers/22SeClYu.md) |
