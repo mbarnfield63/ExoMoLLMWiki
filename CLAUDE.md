@@ -63,7 +63,7 @@ When asked to run `/init`, read in order:
 - Read `Wiki/catalog.jsonl` before parsing any paper to prevent duplicates.
 - No hallucination of cross-sections, partition functions, transitions, or citations.
 - **Prefer the `.json` sidecar over raw XML during ingest** — `Raw/Sources/<bibcode>.json` contains pre-extracted title, authors, abstract, and clean body prose (~45× fewer tokens than the raw XML). Only read the raw XML if the sidecar is absent or a specific value is missing.
-- **No autonomous git commits** — stage changes with `git add`, then wait for human approval before committing.
+- **No git commands during ingest** — do not run `git add`, `git commit`, `git push`, or any other git command. The user will review all created/updated files and handle git themselves.
 - After any wiki changes, run: `python scripts/wiki_tool.py build`, then `lint`, then `source-scan --update --accept-covered`, then `source-lint`.
 
 ### 6. Paper Linking Scheme (enforced on every ingest)
