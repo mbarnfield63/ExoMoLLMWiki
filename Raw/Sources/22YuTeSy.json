@@ -1,0 +1,142 @@
+{
+  "bibcode": "22YuTeSy",
+  "title": "ExoMol line lists -- XLIV. IR and UV line list for silicon monoxide (28Si16O)",
+  "authors": [
+    "Sergei N. Yurchenko",
+    "Jonathan Tennyson",
+    "Anna-Maree Syme",
+    "Ahmad Y. Adam",
+    "Victoria H. J. Clark",
+    "Bridgette Cooper",
+    "C. Pria Dobney",
+    "Shaun T. E. Donnelly",
+    "Maire N. Gorman",
+    "Anthony E. Lynas-Gray",
+    "Thomas Meltzer",
+    "Alec Owens",
+    "Qianwei Qu",
+    "Mikhail Semenov",
+    "Wilfrid Somogyi",
+    "Apoorva Upadhyay",
+    "Samuel Wright",
+    "Juan C. Zapata Trujillo"
+  ],
+  "author_details": [
+    {
+      "name": "Sergei N. Yurchenko",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Jonathan Tennyson",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Anna-Maree Syme",
+      "affiliations": [
+        "School of Chemistry, University of New South Wales, 2052, Sydney, Australia"
+      ]
+    },
+    {
+      "name": "Ahmad Y. Adam",
+      "affiliations": [
+        "Physikalische und Theoretische Chemie, Fakultat fur Mathematik und Naturwissenschaften, Bergische Universitat Wuppertal, D-42097 Wuppertal, Germany"
+      ]
+    },
+    {
+      "name": "Victoria H. J. Clark",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Bridgette Cooper",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "C. Pria Dobney",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Shaun T. E. Donnelly",
+      "affiliations": [
+        "School of Chemistry, University of New South Wales, 2052, Sydney, Australia"
+      ]
+    },
+    {
+      "name": "Maire N. Gorman",
+      "affiliations": [
+        "School of Chemistry, University of New South Wales, 2052, Sydney, Australia"
+      ]
+    },
+    {
+      "name": "Anthony E. Lynas-Gray",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK",
+        "Department of Physics, University of Oxford, Keble Rd., Oxford OX1 3RH, UK",
+        "Department of Physics and Astronomy, University of the Western Cape, Bellville 7535, South Africa"
+      ]
+    },
+    {
+      "name": "Thomas Meltzer",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Alec Owens",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Qianwei Qu",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Mikhail Semenov",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK",
+        "Department of Physics, University of Oxford, Keble Rd., Oxford OX1 3RH, UK"
+      ]
+    },
+    {
+      "name": "Wilfrid Somogyi",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Apoorva Upadhyay",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Samuel Wright",
+      "affiliations": [
+        "Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, UK"
+      ]
+    },
+    {
+      "name": "Juan C. Zapata Trujillo",
+      "affiliations": [
+        "School of Chemistry, University of New South Wales, 2052, Sydney, Australia"
+      ]
+    }
+  ],
+  "year": 2022,
+  "doi": "",
+  "journal": "Monthly Notices of the Royal Astronomical Society",
+  "abstract": "A new silicon monoxide (28Si16O) line list covering infrared, visible and ultraviolet regions called SiOUVenIR is presented. This line list extends the infrared EBJT ExoMol line list by including vibronic transitions to the A1Pi and E1Sigma+ electronic states. Strong perturbations to the A band system are accurately modelled through the treatment of 6 dark electronic states: C1Sigma-, D1Delta, a3Sigma+, b3Pi, e3Sigma- and d3Delta. Along with the X ground state, these 9 electronic states were used to build a comprehensive spectroscopic model of SiO using a combination of empirical and ab initio curves, including the potential energy (PE), spin-orbit (SO), electronic angular momentum (EAM) and (transition) dipole moment curves. The ab initio PE and coupling curves, computed at the multireference configuration interaction (MRCI) level of theory, were refined by fitting their analytical representations to 2617 experimentally derived SiO energy levels determined from 97 vibronic bands belonging to the X-X, E-X and A-X electronic systems through the MARVEL procedure. 112 observed forbidden transitions from the C-X, D-X, e-X, and d-X bands were assigned using our predictions. The SiOUVenIR line list is suitable for temperatures up to 10,000 K and for wavelengths longer than 140 nm (wavenumbers up to 72,000 cm-1). SiOUVenIR is available from www.exomol.com and the CDS database.",
+  "body_text": "ExoMol line lists -- XLIV. Silicon monoxide (28Si16O) SiOUVenIR line list. The SiOUVenIR line list contains 91,395,763 transitions and 174,250 states for the X1Sigma+, A1Pi, E1Sigma+, C1Sigma-, D1Delta, a3Sigma+, b3Pi, e3Sigma- and d3Delta electronic states, covering wavenumbers up to 72,000 cm-1 (lambda > 140 nm) and J = 0 to 250. The line list is valid for temperatures up to 10,000 K. MARVEL analysis of 28Si16O processed 6051 experimental and 3426 pseudo-experimental transitions, yielding 2617 empirical energy levels with rotational excitation up to J=103 for molecular states below 61,881 cm-1. The latest experimental MARVEL source is 13MuSpBi (2013). The line list supersedes the previous ExoMol EBJT rotation-vibration line list (13BaYuTe) by adding vibronic transitions covering the A-X and E-X systems and modelling dark-state perturbations. MARVELised energies replace calculated Duo values where available. Partition functions, Lande g-factors, state uncertainties, and radiative lifetimes provided. Constructed during online Hackathon days in 2020 using Zoom."
+}

@@ -13,18 +13,21 @@ primary_papers:
   - "22SeClYu"
   - "24SeElYu"
 secondary_papers:
+  - "22YuTeSy"
   - "23YuSzHa"
   - "24TeYuZh"
 status: "seed"
 created: "2026-05-29"
 updated: "2026-06-09"
 sources:
+  - "Raw/Sources/22YuTeSy.json"
   - "Raw/Sources/22SeClYu.json"
   - "Raw/Sources/23YuSzHa.json"
   - "Raw/Sources/24TeYuZh.json"
   - "Raw/Sources/24SeElYu.json"
-source_count: 4
+source_count: 5
 molecules:
+  - "SiO"
   - "AlH"
   - "PN"
   - "SiN"
@@ -32,10 +35,11 @@ molecules:
 
 # Mikhail Semenov
 
-Mikhail Semenov (UCL) is lead author of the ExoMol XLVI SiN SiNful line list paper, lead author of the ExoMol LXIV PaiN line list for PN, co-author of the ExoMol LIV AlH/AlD AloHa line lists paper, and co-author of the 2024 ExoMol database release. Sources: [22SeClYu](../../Raw/Sources/22SeClYu.json), [23YuSzHa](../../Raw/Sources/23YuSzHa.json), [24SeElYu](../../Raw/Sources/24SeElYu.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+Mikhail Semenov (UCL) is lead author of the ExoMol XLVI SiN SiNful line list paper, lead author of the ExoMol LXIV PaiN line list for PN, co-author of the ExoMol XLIV SiO SiOUVenIR line list paper, co-author of the ExoMol LIV AlH/AlD AloHa line lists paper, and co-author of the 2024 ExoMol database release. Sources: [22YuTeSy](../../Raw/Sources/22YuTeSy.json), [22SeClYu](../../Raw/Sources/22SeClYu.json), [23YuSzHa](../../Raw/Sources/23YuSzHa.json), [24SeElYu](../../Raw/Sources/24SeElYu.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Related Papers
 
+- [22YuTeSy](../Papers/22YuTeSy.md)
 - [22SeClYu](../Papers/22SeClYu.md)
 - [23YuSzHa](../Papers/23YuSzHa.md)
 - [24SeElYu](../Papers/24SeElYu.md)

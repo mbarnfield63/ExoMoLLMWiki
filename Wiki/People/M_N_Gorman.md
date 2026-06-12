@@ -16,22 +16,26 @@ affiliations:
 orcid: ""
 primary_papers: []
 secondary_papers:
+  - "22YuTeSy"
   - "24TeYuZh"
 status: "seed"
 created: "2026-05-29"
-updated: "2026-06-04"
+updated: "2026-06-12"
 sources:
+  - "Raw/Sources/22YuTeSy.json"
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
-molecules: []
+source_count: 2
+molecules:
+  - "SiO"
 ---
 
 # Maire N. Gorman
 
-Maire N. Gorman is listed as an author of the 2024 ExoMol database release. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+Maire N. Gorman is co-author of the ExoMol XLIV SiO SiOUVenIR line list paper and co-author of the 2024 ExoMol database release. Sources: [22YuTeSy](../../Raw/Sources/22YuTeSy.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
-## Related Paper
+## Related Papers
 
+- [22YuTeSy](../Papers/22YuTeSy.md)
 - [24TeYuZh](../Papers/24TeYuZh.md)
 
 ## Related Methods

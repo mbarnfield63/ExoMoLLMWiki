@@ -3,6 +3,7 @@
 - [ExoMol line lists -- XLV. Rovibronic molecular line lists of calcium monohydride (CaH) and magnesium monohydride (MgH)](22OwDoMc.md)
 - [ExoMol line lists -- XLVII. Rovibronic molecular line list of the calcium monohydroxide radical (CaOH)](22OwMiYu.md)
 - [ExoMol line lists -- XLVI: Empirical rovibronic spectra of silicon mononitrate (SiN) covering the 6 lowest electronic states and 4 isotopologues](22SeClYu.md)
+- [ExoMol line lists -- XLIV. IR and UV line list for silicon monoxide (28Si16O)](22YuTeSy.md)
 - [ExoMol line lists -- L: High-resolution line lists of H3+, H2D+, D2H+ and D3+](23BoMiZo.md)
 - [ExoMol line lists — LVI: The SO line list, MARVEL analysis of experimental transition data and refinement of the spectroscopic model](23BrYuTe.md)
 - [ExoMol line lists — LI: Molecular line list for lithium hydroxide (LiOH)](23OwWrPa.md)
