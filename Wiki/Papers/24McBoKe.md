@@ -1,54 +1,54 @@
 ---
 tags:
-  - "paper"
-bibcode: "24McBoKe"
+  - paper
+bibcode: 24McBoKe
 title: "A hybrid approach to generating diatomic line lists for high resolution studies of exoplanets and other hot astronomical objects: Updates to ExoMol MgO, TiO and VO line lists"
 authors:
-  - "Laura K. McKemmish"
-  - "Charles A. Bowesman"
-  - "Kyriaki Kefala"
-  - "Armando N. Perri"
-  - "Anna-Maree Syme"
-  - "Sergei N. Yurchenko"
-  - "Jonathan Tennyson"
-journal: "RAS Techniques and Instruments"
+  - Laura K. McKemmish
+  - Charles A. Bowesman
+  - Kyriaki Kefala
+  - Armando N. Perri
+  - Anna-Maree Syme
+  - Sergei N. Yurchenko
+  - Jonathan Tennyson
+journal: RAS Techniques and Instruments
 year: 2024
 summary: "Introduces the hybrid approach to diatomic line list construction, consolidating methodology for combining MARVEL, predicted-shift, isotopologue-extrapolation, and variational energy levels into a single uncertainty-ranked framework. MgO (LiTY): new MARVEL study yields 820 empirical energy levels from 1181 transitions across 9 sources; IE applied to four minor isotopologues (7017 levels each). TiO (Toto 2024): expanded MARVEL dataset with 12,164 energy levels from 61,509 validated transitions (latest source year 2021); PS + IE for all 5 isotopologues. VO (HyVO): hyperfine-resolved line list with 3,410,598 energy levels (28,760 MARVEL, 105,566 PS, 3,276,272 variational) and 58,904,173,243 transitions."
 mentioned_methods:
-  - "MARVELization"
-  - "Duo"
-  - "ExoMol Database"
-  - "Isotopologue Extrapolation"
-  - "Predicted Shift Method"
-  - "ExoMolHR"
+  - MARVELization
+  - Duo
+  - ExoMol Database
+  - Isotopologue Extrapolation
+  - Predicted Shift Method
+  - ExoMolHR
 mentioned_molecules:
-  - "MgO"
-  - "24Mg-16O"
-  - "24Mg-17O"
-  - "24Mg-18O"
-  - "25Mg-16O"
-  - "26Mg-16O"
-  - "TiO"
-  - "46Ti-16O"
-  - "47Ti-16O"
-  - "48Ti-16O"
-  - "49Ti-16O"
-  - "50Ti-16O"
-  - "VO"
-  - "51V-16O"
+  - MgO
+  - 24Mg-16O
+  - 24Mg-17O
+  - 24Mg-18O
+  - 25Mg-16O
+  - 26Mg-16O
+  - TiO
+  - 46Ti-16O
+  - 47Ti-16O
+  - 48Ti-16O
+  - 49Ti-16O
+  - 50Ti-16O
+  - VO
+  - 51V-16O
 mentioned_people:
-  - "L_K_McKemmish"
-  - "C_A_Bowesman"
-  - "K_Kefala"
-  - "A_N_Perri"
-  - "A_M_Syme"
-  - "S_N_Yurchenko"
-  - "J_Tennyson"
-status: "complete"
-created: "2026-06-03"
-updated: "2026-06-03"
+  - L_K_McKemmish
+  - C_A_Bowesman
+  - K_Kefala
+  - A_N_Perri
+  - A_M_Syme
+  - S_N_Yurchenko
+  - J_Tennyson
+status: complete
+created: 2026-06-03
+updated: 2026-06-03
 sources:
-  - "Raw/Sources/24McBoKe.json"
+  - Raw/Sources/24McBoKe.json
 source_count: 1
 ---
 
