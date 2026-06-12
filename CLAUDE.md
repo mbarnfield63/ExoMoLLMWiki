@@ -28,6 +28,7 @@ This repository is a research-grade LLM Wiki for the ExoMol molecular spectrosco
 ### 1. Initialize
 When the user says **"get up to speed"**, immediately read the Obsidian state file at:
 `C:/Obsidian/Claude_State/ExoMol Wiki.md`, `AGENTS.md` and most recent commit to reconstruct full context.
+Check `Raw/Files/` to see if there are any papers yet to be ingested and highlight the most recent of the papers for ingestion.
 
 ### 2. Log & Save
 When reaching a milestone or when the user says **"save state"**, overwrite the Obsidian state file (`C:/Obsidian/Claude_state/Quantum Number Prediction.md`) with a clean update (see Rule 3 format) and append a summary of work done to the log file (`C:/Obsidian/Logs/ExoMol Wiki Log.md`). Never change any other files within `C:/Obsidian/`.
