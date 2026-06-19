@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - "molecule"
 formula: "NaO"
@@ -7,37 +7,44 @@ atoms:
   - "O"
 parent_molecule: ""
 exomol_id: ""
-aliases: []
-isotopologues: []
-line_list: ""
+aliases:
+  - "Sodium monoxide"
+isotopologues:
+  - "23Na-16O"
+line_list: "NaOUCMe"
 marvel_data:
   is_marvelized: null
   latest_source_year: null
   energy_levels: null
 associated_methods:
   - "ExoMol Database"
+  - "Duo"
 applications:
   - "Exoplanet Atmospheres"
-status: "seed"
+  - "Cool Stars"
+status: "active"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-19"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
+  - "Raw/Sources/22MiTaTe.json"
+source_count: 2
 ---
 
 # NaO
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+[22MiTaTe](../Papers/22MiTaTe.md) — Mitev et al. (2022, ExoMol XLIII) present the NaOUCMe rovibronic line list for NaO, covering the X²Π and A²Σ⁺ electronic states; also referenced in the 2024 ExoMol database release [24TeYuZh](../Papers/24TeYuZh.md).
+
+NaO (sodium monoxide radical) is observed in terrestrial mesospheric airglow (~90 km altitude) via the Chapman mechanism, and is of interest as an s-block metal monoxide potentially detectable in exoplanet and cool-star atmospheres. Sources: [22MiTaTe](../../Raw/Sources/22MiTaTe.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Recommended Datasets
 
-| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NaO | NaOUCMe | 1 | 2500 | 2 | 4,726,283 |  | [357] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| Molecule entry | Dataset | Isotopologues | T max (K) | N elec | N lines | MARVEL | Reference |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| NaO | NaOUCMe | 1 | 2500 | 2 | 4,726,283 | — | [22MiTaTe](../Papers/22MiTaTe.md) |
 
 ## Named Isotopologues
 
-| Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
-| --- | --- | --- | --- | --- |
-|  |  |  |  | The XML gives isotopologue count(s) 1, but does not name isotope-specific ExoMol IDs in the parsed table; no isotope pages were created from counts alone. |
+| Isotopologue | Line list | MARVEL | Evidence |
+| --- | --- | --- | --- |
+| [23Na-16O](23Na-16O.md) | NaOUCMe | No | [22MiTaTe](../Papers/22MiTaTe.md) |

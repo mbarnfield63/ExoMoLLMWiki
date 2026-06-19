@@ -143,6 +143,7 @@
 - [1H2-32S](1H2-32S.md) - parent: H2S
 - [1H3+](1H3+.md) - parent: H3+
 - [1H3-16O+](1H3-16O+.md) - parent: H3O+
+- [23Na-16O](23Na-16O.md) - parent: NaO
 - [24Mg-16O](24Mg-16O.md) - parent: MgO
 - [24Mg-17O](24Mg-17O.md) - parent: MgO
 - [24Mg-18O](24Mg-18O.md) - parent: MgO

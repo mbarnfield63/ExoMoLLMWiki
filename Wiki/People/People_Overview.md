@@ -1,5 +1,6 @@
 # People Overview
 
+- [A. A. Buchachenko](A_A_Buchachenko.md)
 - [A.E. Lynas-Gray](A_E_Lynas-Gray.md)
 - [Amanda J. Ross](A_J_Ross.md)
 - [Anna-Maree Syme](A_M_Syme.md)
@@ -10,6 +11,7 @@
 - [Asen Pashov](A_Pashov.md)
 - [Andrei Sokolov](A_Sokolov.md)
 - [Apoorva Upadhyay](A_Upadhyay.md)
+- [A. V. Stolyarov](A_V_Stolyarov.md)
 - [Ahmad Y. Adam](A_Y_Adam.md)
 - [Bridgette Cooper](B_Cooper.md)
 - [Bill Poirier](B_Poirier.md)
@@ -56,6 +58,7 @@
 - [Sergei N. Yurchenko](S_N_Yurchenko.md)
 - [Samuel O.M. Wright](S_O_M_Wright.md)
 - [Shaun T. E. Donnelly](S_T_E_Donnelly.md)
+- [S. Taylor](S_Taylor.md)
 - [Thomas M. Mellor](T_M_Mellor.md)
 - [Thomas Meltzer](T_Meltzer.md)
 - [Victor G. Solomonik](V_G_Solomonik.md)

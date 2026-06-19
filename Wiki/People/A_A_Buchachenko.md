@@ -1,0 +1,31 @@
+---
+tags:
+  - "person"
+title: "A. A. Buchachenko"
+affiliations:
+  - institution: ""
+    department: ""
+    country: ""
+    start_year: null
+    end_year: null
+orcid: ""
+primary_papers: []
+secondary_papers:
+  - "22MiTaTe"
+status: "seed"
+created: "2026-06-19"
+updated: "2026-06-19"
+sources:
+  - "Raw/Sources/22MiTaTe.json"
+source_count: 1
+molecules:
+  - "NaO"
+---
+
+# A. A. Buchachenko
+
+A. A. Buchachenko is co-author of the ExoMol XLIII NaOUCMe NaO line list paper. Source: [22MiTaTe](../../Raw/Sources/22MiTaTe.json).
+
+## Related Papers
+
+- [22MiTaTe](../Papers/22MiTaTe.md)
