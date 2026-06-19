@@ -81,7 +81,7 @@ A MARVEL analysis of ²⁸Si¹⁶O processed 6051 experimental and 3426 pseudo-e
 - [ExoMol Database](../Methods/ExoMol_Database.md)
 - [ExoMol Data Format](../Methods/ExoMol_Data_Format.md)
 - [Partition Functions](../Methods/Partition_Functions.md)
-- [ExoCross and PyExoCross](../Methods/ExoCross_and_PyExoCross.md)
+- [ExoCross and PyExoCross](../Methods/ExoCross.md)
 
 ## Mentioned Molecules
 

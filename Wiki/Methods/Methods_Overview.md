@@ -2,6 +2,7 @@
 
 - [ARCiS](ARCiS.md)
 - [Collisional Line Broadening](Collisional_Line_Broadening.md)
+- [DVR3D](DVR3D.md)
 - [Duo](Duo.md)
 - [EVEREST](EVEREST.md)
 - [ExoCross and PyExoCross](ExoCross.md)
