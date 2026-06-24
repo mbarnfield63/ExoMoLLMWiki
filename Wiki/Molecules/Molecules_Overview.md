@@ -143,6 +143,7 @@
 - [1H2-32S](1H2-32S.md) - parent: H2S
 - [1H3+](1H3+.md) - parent: H3+
 - [1H3-16O+](1H3-16O+.md) - parent: H3O+
+- [23Na-16O-1H](23Na-16O-1H.md) - parent: NaOH
 - [23Na-16O](23Na-16O.md) - parent: NaO
 - [24Mg-16O](24Mg-16O.md) - parent: MgO
 - [24Mg-17O](24Mg-17O.md) - parent: MgO
@@ -171,6 +172,7 @@
 - [31P-14N](31P-14N.md) - parent: PN
 - [32S-16O](32S-16O.md) - parent: SO
 - [32S-16O2](32S-16O2.md) - parent: SO2
+- [39K-16O-1H](39K-16O-1H.md) - parent: KOH
 - [40Ca-16O-1H](40Ca-16O-1H.md) - parent: CaOH
 - [40Ca-1H](40Ca-1H.md) - parent: CaH
 - [46Ti-16O](46Ti-16O.md) - parent: TiO
