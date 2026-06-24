@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - "molecule"
 formula: "H3O+"
@@ -17,31 +17,36 @@ marvel_data:
   latest_source_year: null
   energy_levels: null
 associated_methods:
+  - "TROVE"
   - "ExoMol Database"
-  - "MARVELization"
   - "ExoMolHR"
 applications:
   - "Exoplanet Atmospheres"
-status: "seed"
+  - "Planetary Atmospheres"
+  - "Astrochemistry"
+status: "active"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-24"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
+  - "Raw/Sources/20YuTeMi.json"
+source_count: 2
 ---
 
 # H3O+
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+Hydronium ion. Formula-level MOC grouping H₃O⁺ isotopologues. Primary line list paper: [20YuTeMi](../Papers/20YuTeMi.md) — ExoMol XL.
 
 ## Recommended Datasets
 
-| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| H3O+ | eXeL | 1 | 1500 | 1 | 2,089,331,073 | yes | [354] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| Molecule | Dataset | Isotopologues | T max | N lines | MARVEL | Reference |
+| --- | --- | --- | --- | --- | --- | --- |
+| H3O+ | eXeL | 1 | ~1500 K | 2,089,331,073 | yes | [20YuTeMi](../Papers/20YuTeMi.md) |
+
+Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json) Table 1; [20YuTeMi](../../Raw/Sources/20YuTeMi.json).
 
 ## Named Isotopologues
 
 | Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
 | --- | --- | --- | --- | --- |
-| [1H3-16O+](1H3-16O+.md) | eXeL |  | yes | Listed explicitly in the ExoMolHR contents table. |
+| [1H3-16O+](1H3-16O+.md) | eXeL | yes | yes | ExoMol XL ([20YuTeMi](../Papers/20YuTeMi.md)); ExoMolHR table ([24TeYuZh](../Papers/24TeYuZh.md)) |
