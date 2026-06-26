@@ -108,12 +108,16 @@ source_count: 0
 ```yaml
 tags:
   - "person"
-affiliations:
+affiliations:              # current institution(s) — most recent paper year wins
   - institution: ""
     department: ""
     country: ""
-    start_year: null
-    end_year: null
+    as_of: YYYY            # publication year of the paper that established this affiliation
+past_affiliations:         # older institutions, archived on ingest when a newer paper supersedes
+  - institution: ""
+    department: ""
+    country: ""
+    as_of: YYYY
 orcid: ""
 primary_papers: []   # bibcodes where this person is first author (authors[0]) only
 secondary_papers: [] # bibcodes where this person is a co-author but not first author
@@ -124,7 +128,10 @@ sources: []
 source_count: 0
 ```
 
-`affiliations` is a list to support multiple simultaneous or historical affiliations. `start_year` and `end_year` are populated from paper years as evidence accumulates; `null` means unknown. `end_year: null` means the affiliation is current or end date is unconfirmed.
+**Affiliation update rule (applied on every ingest):**
+- New paper year **>** current `as_of`: move all `affiliations` entries to `past_affiliations`, replace with new institution(s).
+- New paper year **=** current `as_of`: append to `affiliations` (dual/joint appointment).
+- New paper year **<** current `as_of`: append directly to `past_affiliations`, leave `affiliations` unchanged.
 
 ## Application Notes
 

@@ -50,6 +50,7 @@ Raw PDF files or heavy data products belong under ignored local storage, not in 
 
 ## People Rules
 - **primary_papers vs secondary_papers:** `primary_papers` must contain only bibcodes where this person is the **first author (position 0 in the authors list)**. All other co-authored papers go in `secondary_papers`. Never put a paper in `primary_papers` because the person made a large contribution — authorship position is the sole criterion.
+- **Affiliations:** Use two fields — `affiliations` (current) and `past_affiliations` (older). Each entry carries `as_of: <paper publication year>` so the affiliation is anchored to its evidence source. Apply this rule on every ingest: if the incoming paper's year is **greater than** the `as_of` year on any existing `affiliations` entry, move existing entries to `past_affiliations` and replace with the new institution(s); if the year **equals** the current `as_of`, append to `affiliations` (dual appointment); if the year is **less than** the current `as_of`, append directly to `past_affiliations`. Never infer employment dates beyond what the paper year provides.
 
 ## Git & Commit Protocol
 - **NO AUTONOMOUS COMMITS:** You are strictly forbidden from running `git commit` or `git push` autonomously.
