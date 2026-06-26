@@ -1,5 +1,6 @@
 # Papers Overview
 
+- [ExoMol molecular line lists - XXXVII: spectra of acetylene](20ChTeYu.md)
 - [ExoMol line lists -- XXXVIII. High-temperature molecular line list of silicon dioxide (SiO2)](20OwCoTe.md)
 - [ExoMol line lists -- XXXIX. Ro-vibrational molecular line list for CO2](20YuMeFr.md)
 - [ExoMol line lists -- XL. Ro-vibrational molecular line list for the hydronium ion (H3O+)](20YuTeMi.md)
