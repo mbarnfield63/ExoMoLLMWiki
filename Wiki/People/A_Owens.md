@@ -10,6 +10,7 @@ affiliations:
     end_year: null
 orcid: ""
 primary_papers:
+  - "20OwCoTe"
   - "21OwTeYu"
   - "22OwDoMc"
   - "23OwWrPa"
@@ -20,8 +21,9 @@ secondary_papers:
   - "24BaYuOw"
 status: "active"
 created: "2026-05-29"
-updated: "2026-06-24"
+updated: "2026-06-26"
 sources:
+  - "Raw/Sources/20OwCoTe.json"
   - "Raw/Sources/21OwTeYu.json"
   - "Raw/Sources/22YuTeSy.json"
   - "Raw/Sources/22OwDoMc.json"
@@ -29,8 +31,9 @@ sources:
   - "Raw/Sources/24TeYuZh.json"
   - "Raw/Sources/24YuBoBr.json"
   - "Raw/Sources/24BaYuOw.json"
-source_count: 7
+source_count: 8
 molecules:
+  - "SiO2"
   - "KOH"
   - "NaOH"
   - "SiO"
@@ -43,10 +46,11 @@ molecules:
 
 # Alec Owens
 
-Alec Owens is lead author of the ExoMol XLI KOH/NaOH OYT4/OYT5 line lists paper, lead author of the ExoMol XLV CaH and MgH XAB rovibronic line lists paper, lead author of the ExoMol LI LiOH OYT7 line list paper, co-author of the ExoMol XLIV SiO SiOUVenIR line list paper, co-author of the ExoMol LX ¹⁵NH₃ CoYuTe-15 line list paper, co-author of the ExoMol LXV NiH BYOT line list paper, and co-author of the 2024 ExoMol database release. Sources: [21OwTeYu](../../Raw/Sources/21OwTeYu.json), [22YuTeSy](../../Raw/Sources/22YuTeSy.json), [22OwDoMc](../../Raw/Sources/22OwDoMc.json), [23OwWrPa](../../Raw/Sources/23OwWrPa.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24YuBoBr](../../Raw/Sources/24YuBoBr.json), [24BaYuOw](../../Raw/Sources/24BaYuOw.json).
+Alec Owens is lead author of the ExoMol XXXVIII SiO2 OYT3 line list paper, lead author of the ExoMol XLI KOH/NaOH OYT4/OYT5 line lists paper, lead author of the ExoMol XLV CaH and MgH XAB rovibronic line lists paper, lead author of the ExoMol LI LiOH OYT7 line list paper, co-author of the ExoMol XLIV SiO SiOUVenIR line list paper, co-author of the ExoMol LX ¹⁵NH₃ CoYuTe-15 line list paper, co-author of the ExoMol LXV NiH BYOT line list paper, and co-author of the 2024 ExoMol database release. Sources: [20OwCoTe](../../Raw/Sources/20OwCoTe.json), [21OwTeYu](../../Raw/Sources/21OwTeYu.json), [22YuTeSy](../../Raw/Sources/22YuTeSy.json), [22OwDoMc](../../Raw/Sources/22OwDoMc.json), [23OwWrPa](../../Raw/Sources/23OwWrPa.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24YuBoBr](../../Raw/Sources/24YuBoBr.json), [24BaYuOw](../../Raw/Sources/24BaYuOw.json).
 
 ## Primary Papers
 
+- [20OwCoTe](../Papers/20OwCoTe.md)
 - [21OwTeYu](../Papers/21OwTeYu.md)
 - [22OwDoMc](../Papers/22OwDoMc.md)
 - [23OwWrPa](../Papers/23OwWrPa.md)

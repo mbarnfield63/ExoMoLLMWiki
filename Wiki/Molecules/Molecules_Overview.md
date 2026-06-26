@@ -165,6 +165,7 @@
 - [28Si-14N](28Si-14N.md) - parent: SiN
 - [28Si-15N](28Si-15N.md) - parent: SiN
 - [28Si-16O](28Si-16O.md) - parent: SiO
+- [28Si-16O2](28Si-16O2.md) - parent: SiO2
 - [29Si-14N](29Si-14N.md) - parent: SiN
 - [2H2-1H+](2H2-1H+.md) - parent: H3+
 - [2H3+](2H3+.md) - parent: H3+

@@ -20,6 +20,7 @@
 - [Christian Hill](C_Hill.md)
 - [C. Pria Dobney](C_P_Dobney.md)
 - [Chenyi Tao](C_Tao.md)
+- [E.K. Conway](E_K_Conway.md)
 - [Elizabeth R. Guest](E_R_Guest.md)
 - [Georgi B. Mitev](G_B_Mitev.md)
 - [Gap-Sue Kim](G_S_Kim.md)

@@ -16,28 +16,34 @@ marvel_data:
   energy_levels: null
 associated_methods:
   - "ExoMol Database"
+  - "TROVE"
 applications:
   - "Exoplanet Atmospheres"
-status: "seed"
+isotopologues:
+  - "28Si-16O2"
+status: "active"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-26"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
+  - "Raw/Sources/20OwCoTe.json"
+source_count: 2
 ---
 
 # SiO2
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+Silicon dioxide. Formula-level MOC grouping SiO2 isotopologues. Primary line list paper: [20OwCoTe](../Papers/20OwCoTe.md) — ExoMol XXXVIII.
 
 ## Recommended Datasets
 
-| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SiO2 | OYT3 | 1 | 3000 | 1 | 32,951,275,437 |  | [352] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| Molecule | Dataset | Isotopologues | T max | N lines | MARVEL | Reference |
+| --- | --- | --- | --- | --- | --- | --- |
+| SiO2 | OYT3 | 1 | 3000 K | 32,951,275,437 | no | [20OwCoTe](../Papers/20OwCoTe.md) |
+
+Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json) Table 1; [20OwCoTe](../../Raw/Sources/20OwCoTe.json).
 
 ## Named Isotopologues
 
-| Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
-| --- | --- | --- | --- | --- |
-|  |  |  |  | The XML gives isotopologue count(s) 1, but does not name isotope-specific ExoMol IDs in the parsed table; no isotope pages were created from counts alone. |
+| Isotopologue | Line list | MARVEL | Evidence |
+| --- | --- | --- | --- |
+| [28Si-16O2](28Si-16O2.md) | OYT3 | no | ExoMol XXXVIII ([20OwCoTe](../Papers/20OwCoTe.md)) |
