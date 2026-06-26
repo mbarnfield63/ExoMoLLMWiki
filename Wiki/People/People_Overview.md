@@ -56,6 +56,7 @@
 - [Rafał Hakalla](R_Hakalla.md)
 - [Ryan P. Brady](R_P_Brady.md)
 - [Robert R. Gamache](R_R_Gamache.md)
+- [Richard S. Freedman](R_S_Freedman.md)
 - [Sophie Dooley](S_Dooley.md)
 - [Steve Miller](S_Miller.md)
 - [Sergei N. Yurchenko](S_N_Yurchenko.md)

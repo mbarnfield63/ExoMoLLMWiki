@@ -1,5 +1,6 @@
 # Papers Overview
 
+- [ExoMol line lists -- XXXIX. Ro-vibrational molecular line list for CO2](20YuMeFr.md)
 - [ExoMol line lists -- XL. Ro-vibrational molecular line list for the hydronium ion (H3O+)](20YuTeMi.md)
 - [ExoMol line lists -- XLI. High-temperature molecular line lists for the alkali metal hydroxides KOH and NaOH](21OwTeYu.md)
 - [ExoMol molecular line lists -- XLII: Rovibronic molecular line list for the low-lying states of NO](21QuYuTe.md)
