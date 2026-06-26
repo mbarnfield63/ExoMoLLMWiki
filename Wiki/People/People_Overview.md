@@ -56,6 +56,7 @@
 - [Oleg L. Polyansky](O_L_Polyansky.md)
 - [Oliver Pearce](O_Pearce.md)
 - [Oleksiy Smola](O_Smola.md)
+- [Phillip A. Coles](P_A_Coles.md)
 - [Peter Bernath](P_Bernath.md)
 - [Patrick Crozet](P_Crozet.md)
 - [Qing-He Ni](Q_H_Ni.md)
