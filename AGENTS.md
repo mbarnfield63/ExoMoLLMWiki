@@ -48,6 +48,9 @@ Raw PDF files or heavy data products belong under ignored local storage, not in 
 - **Aliases:** If an isotopologue has common structural names (like `D2O` or `Heavy Water`), put them in the `aliases` array. 
 - **MARVELization:** If a paper explicitly states a molecule has been evaluated using the MARVEL algorithm, set `is_marvelized: true`. Extract the number of validated `energy_levels` and the `latest_source_year` included in that specific MARVEL study. If this data is missing, leave them as `null`. Do not guess.
 
+## People Rules
+- **primary_papers vs secondary_papers:** `primary_papers` must contain only bibcodes where this person is the **first author (position 0 in the authors list)**. All other co-authored papers go in `secondary_papers`. Never put a paper in `primary_papers` because the person made a large contribution — authorship position is the sole criterion.
+
 ## Git & Commit Protocol
 - **NO AUTONOMOUS COMMITS:** You are strictly forbidden from running `git commit` or `git push` autonomously.
 - **Human Approval Required:** After you have created/updated files, run the linting scripts, and successfully staged the files using `git add`, you MUST stop and ask the human user for permission to commit. 

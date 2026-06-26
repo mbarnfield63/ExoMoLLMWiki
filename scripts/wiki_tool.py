@@ -482,6 +482,26 @@ def command_lint(_args: argparse.Namespace) -> int:
                 errors.append(f"{path_rel}: missing title")
             if not str(meta.get("summary") or "").strip():
                 errors.append(f"{path_rel}: missing summary")
+        if tag == "person":
+            primary_papers = meta.get("primary_papers") or []
+            if isinstance(primary_papers, list):
+                person_title = str(meta.get("title") or title_from_path(path))
+                person_surname = person_title.strip().split()[-1] if person_title.strip() else ""
+                for bibcode in primary_papers:
+                    paper_path = WIKI / "Papers" / f"{bibcode}.md"
+                    if not paper_path.exists():
+                        errors.append(f"{path_rel}: primary_papers references missing paper '{bibcode}'")
+                        continue
+                    paper_meta, _ = parse_frontmatter(paper_path)
+                    paper_authors = paper_meta.get("authors") or []
+                    if not isinstance(paper_authors, list) or not paper_authors:
+                        continue
+                    first_author = str(paper_authors[0])
+                    first_author_surname = first_author.strip().split()[-1] if first_author.strip() else ""
+                    if person_surname.lower() != first_author_surname.lower():
+                        errors.append(
+                            f"{path_rel}: '{bibcode}' in primary_papers but first author surname is '{first_author_surname}', not '{person_surname}'"
+                        )
         if tag != "log":
             sources = meta.get("sources")
             source_count = meta.get("source_count")

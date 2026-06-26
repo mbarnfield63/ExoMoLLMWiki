@@ -9,9 +9,9 @@ affiliations:
     start_year: null
     end_year: null
 orcid: ""
-primary_papers:
+primary_papers: []
+secondary_papers:
   - "22MiTaTe"
-secondary_papers: []
 status: "seed"
 created: "2026-06-19"
 updated: "2026-06-19"

@@ -115,8 +115,8 @@ affiliations:
     start_year: null
     end_year: null
 orcid: ""
-primary_papers: []
-secondary_papers: []
+primary_papers: []   # bibcodes where this person is first author (authors[0]) only
+secondary_papers: [] # bibcodes where this person is a co-author but not first author
 status: seed
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
