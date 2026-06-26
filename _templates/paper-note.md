@@ -34,3 +34,7 @@ Write a short summary of the paper here, and link every mentioned method, molecu
 ## Mentioned People
 
 - No entries yet.
+
+## Superseded By
+
+- No entries yet. (Add link to the newer paper note if this paper's line list has been superseded.)

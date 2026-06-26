@@ -54,6 +54,7 @@ parent_molecule: ""
 exomol_id: ""
 aliases: []
 line_list: ""
+previous_line_lists: [] # line lists superseded by line_list, oldest first
 marvel_data:
   is_marvelized: false
   latest_source_year: null
