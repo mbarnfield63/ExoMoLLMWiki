@@ -26,6 +26,7 @@
 - [Georgi B. Mitev](G_B_Mitev.md)
 - [Gap-Sue Kim](G_S_Kim.md)
 - [Guanming Zhang](G_Zhang.md)
+- [Heng Ying Li](H_Y_Li.md)
 - [Irina I. Mizus](I_I_Mizus.md)
 - [István Szabó](I_Szabo.md)
 - [Jeanna Buldyreva](J_Buldyreva.md)
