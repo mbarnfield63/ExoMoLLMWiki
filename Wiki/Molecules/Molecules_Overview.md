@@ -176,6 +176,11 @@
 - [31P-1H](31P-1H.md) - parent: PH
 - [32S-16O](32S-16O.md) - parent: SO
 - [32S-16O2](32S-16O2.md) - parent: SO2
+- [32S-1H](32S-1H.md) - parent: SH
+- [32S-2H](32S-2H.md) - parent: SH
+- [33S-1H](33S-1H.md) - parent: SH
+- [34S-1H](34S-1H.md) - parent: SH
+- [36S-1H](36S-1H.md) - parent: SH
 - [39K-16O-1H](39K-16O-1H.md) - parent: KOH
 - [40Ca-16O-1H](40Ca-16O-1H.md) - parent: CaOH
 - [40Ca-1H](40Ca-1H.md) - parent: CaH

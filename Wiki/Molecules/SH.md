@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - "molecule"
 formula: "SH"
@@ -8,37 +8,51 @@ atoms:
 parent_molecule: ""
 exomol_id: ""
 aliases: []
-isotopologues: []
-line_list: ""
+isotopologues:
+  - "32S-1H"
+  - "33S-1H"
+  - "34S-1H"
+  - "36S-1H"
+  - "32S-2H"
+line_list: "GYT"
 marvel_data:
-  is_marvelized: null
+  is_marvelized: false
   latest_source_year: null
   energy_levels: null
 associated_methods:
+  - "Duo"
   - "ExoMol Database"
-  - "MARVELization"
 applications:
   - "Exoplanet Atmospheres"
-status: "seed"
+  - "Cool Star Atmospheres"
+  - "Astrochemistry"
+status: "complete"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-26"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
+  - "Raw/Sources/19GoYuTe.json"
+source_count: 2
 ---
 
 # SH
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+Parent molecule MOC for the mercapto radical SH. GYT line list published in [19GoYuTe](../Papers/19GoYuTe.md). Five isotopologue files cover ³²SH, ³³SH, ³⁴SH, ³⁶SH, and ³²SD. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Recommended Datasets
 
-| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SH | GYT | 2 | 3000 | 2 | 572,145 |  | [350] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| Molecule entry | Dataset | Isotopologues | T max (K) | N lines | MARVEL | Reference |
+| --- | --- | --- | --- | --- | --- | --- |
+| SH | GYT | 5 (³²SH, ³³SH, ³⁴SH, ³⁶SH, ³²SD) | 5000 | 572,145 (³²SH) | No | [19GoYuTe](../Papers/19GoYuTe.md) |
 
 ## Named Isotopologues
 
-| Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
-| --- | --- | --- | --- | --- |
-|  |  |  |  | The XML gives isotopologue count(s) 2, but does not name isotope-specific ExoMol IDs in the parsed table; no isotope pages were created from counts alone. |
+| Isotopologue | Line list | Status | Notes |
+| --- | --- | --- | --- |
+| [32S-1H](32S-1H.md) | GYT | complete | Main isotopologue; 7,686 states, 572,145 transitions |
+| [33S-1H](33S-1H.md) | GYT | seed | Mass substitution from ³²SH model |
+| [34S-1H](34S-1H.md) | GYT | seed | Mass substitution from ³²SH model |
+| [36S-1H](36S-1H.md) | GYT | seed | Mass substitution from ³²SH model |
+| [32S-2H](32S-2H.md) | GYT | seed | Separately refined BOB-corrected model |
+
+Source: [19GoYuTe](../../Raw/Sources/19GoYuTe.json)
