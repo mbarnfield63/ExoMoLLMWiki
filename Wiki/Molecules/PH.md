@@ -7,38 +7,43 @@ atoms:
   - "H"
 parent_molecule: ""
 exomol_id: ""
-aliases: []
-isotopologues: []
-line_list: ""
+aliases:
+  - "phosphinidene"
+isotopologues:
+  - "31P-1H"
+line_list: "LaTY"
 marvel_data:
-  is_marvelized: null
+  is_marvelized: false
   latest_source_year: null
   energy_levels: null
 associated_methods:
   - "ExoMol Database"
-  - "MARVELization"
+  - "LEVEL"
 applications:
   - "Exoplanet Atmospheres"
-status: "seed"
+  - "Cool Star Atmospheres"
+  - "Astrochemistry"
+status: "complete"
 created: "2026-05-29"
-updated: "2026-05-29"
+updated: "2026-06-26"
 sources:
   - "Raw/Sources/24TeYuZh.json"
-source_count: 1
+  - "Raw/Sources/19LeTeYu.json"
+source_count: 2
 ---
 
 # PH
 
-This formula-level MOC records molecule-level line-list coverage mentioned in the 2024 ExoMol release and keeps named isotopologues in separate files. Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
+PH (phosphinidene) — formula-level MOC. One ExoMol isotopologue: [31P-1H](31P-1H.md). Line list LaTY published in [19LeTeYu](../Papers/19LeTeYu.md). Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json).
 
 ## Recommended Datasets
 
-| Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PH | LaTY | 1 | 4000 | 2 | 65,055 |  | [348] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| Molecule entry | Dataset | Isotopologues | T max | N elec states | N lines | MARVEL | Reference |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| PH | LaTY | 1 | 4000 K | 2 | 65,055 | — | [19LeTeYu](../Papers/19LeTeYu.md) |
 
 ## Named Isotopologues
 
-| Isotopologue | Line list | MARVEL | ExoMolHR | Evidence |
-| --- | --- | --- | --- | --- |
-|  |  |  |  | The XML gives isotopologue count(s) 1, but does not name isotope-specific ExoMol IDs in the parsed table; no isotope pages were created from counts alone. |
+| Isotopologue | Line list | MARVEL | Evidence |
+| --- | --- | --- | --- |
+| [31P-1H](31P-1H.md) | LaTY | No | [19LeTeYu](../Papers/19LeTeYu.md): 2,528 states, 65,055 transitions, X³Σ⁻ + A³Π, T≤4000 K. Source: [19LeTeYu](../../Raw/Sources/19LeTeYu.json) |

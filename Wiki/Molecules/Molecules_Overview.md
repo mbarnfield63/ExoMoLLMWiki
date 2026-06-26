@@ -173,6 +173,7 @@
 - [2H3+](2H3+.md) - parent: H3+
 - [30Si-14N](30Si-14N.md) - parent: SiN
 - [31P-14N](31P-14N.md) - parent: PN
+- [31P-1H](31P-1H.md) - parent: PH
 - [32S-16O](32S-16O.md) - parent: SO
 - [32S-16O2](32S-16O2.md) - parent: SO2
 - [39K-16O-1H](39K-16O-1H.md) - parent: KOH
