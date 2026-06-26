@@ -98,6 +98,7 @@
 ## Isotopologue Notes
 - [12C-12C-13C](12C-12C-13C.md) - parent: C3
 - [12C-13C-12C](12C-13C-12C.md) - parent: C3
+- [12C-13C](12C-13C.md) - parent: C2
 - [12C-14N](12C-14N.md) - parent: CN
 - [12C-16O2](12C-16O2.md) - parent: CO2
 - [12C-17O2](12C-17O2.md) - parent: CO2
@@ -111,6 +112,7 @@
 - [13C-17O2](13C-17O2.md) - parent: CO2
 - [13C-18O2](13C-18O2.md) - parent: CO2
 - [13C-1H+](13C-1H+.md) - parent: CH+
+- [13C2](13C2.md) - parent: C2
 - [14N-15N-16O](14N-15N-16O.md) - parent: N2O
 - [14N-16O](14N-16O.md) - parent: NO
 - [14N-1H](14N-1H.md) - parent: NH
