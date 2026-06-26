@@ -32,20 +32,21 @@ status: "complete"
 created: "2026-05-29"
 updated: "2026-06-03"
 sources:
+  - "Raw/Sources/19McMaJe.json"
   - "Raw/Sources/24TeYuZh.json"
   - "Raw/Sources/24McBoKe.json"
-source_count: 2
+source_count: 3
 ---
 
 # TiO
 
-Formula-level MOC for titanium oxide. Five isotopologues covered by Toto (2024). Sources: [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24McBoKe](../Papers/24McBoKe.md).
+Formula-level MOC for titanium oxide. Five isotopologues covered by Toto, originally published in [19McMaJe](../Papers/19McMaJe.md) (2019) and updated in [24McBoKe](../Papers/24McBoKe.md) (2024). Sources: [19McMaJe](../../Raw/Sources/19McMaJe.json), [24TeYuZh](../../Raw/Sources/24TeYuZh.json), [24McBoKe](../Papers/24McBoKe.md).
 
 ## Recommended Datasets
 
 | Molecule entry | Dataset | Isotopologues counted | T max | N elec | N lines | MARVEL | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TiO | Toto | 5 | 5000 | 13 | 58,983,952 | yes | [347] Source: [Raw/Sources/24TeYuZh.json](Raw/Sources/24TeYuZh.json) Table 1 |
+| TiO | Toto | 5 | 5000 | 13 | 58,983,952 | yes | [347] Originally [19McMaJe](../Papers/19McMaJe.md); updated [24McBoKe](../Papers/24McBoKe.md). Source: [24TeYuZh](../../Raw/Sources/24TeYuZh.json) Table 1 |
 
 ## Named Isotopologues
 
