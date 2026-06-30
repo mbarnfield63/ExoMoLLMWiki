@@ -3,6 +3,7 @@ tags:
   - person
 affiliations: []
 orcid: ""
+research_focus: ""
 primary_papers: []
 secondary_papers: []
 status: seed
@@ -14,6 +15,14 @@ molecules: []
 ---
 
 # 
+
+## Methods Developed
+
+- No entries yet.
+
+## Line Lists Contributed
+
+- No entries yet.
 
 ## Primary Papers
 
